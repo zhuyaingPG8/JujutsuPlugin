@@ -89,22 +89,54 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 	}
 
 	private void buildDomainPage() {
-		JPanel top = new JPanel(new FlowLayout(FlowLayout.CENTER, 10, 0));
-		top.setBorder(BorderFactory.createEmptyBorder(15, 0, 0, 0));
-		top.add(domainEnabledBox);
-
 		JPanel palette = FormPanel.builder()
-				.title("jujutsu.gui.domain_palette_title")
 				.insets(4, 6, 4, 6)
 				.anchor(GridBagConstraints.WEST)
 				.columns(FormPanel.Column.fixed(), FormPanel.Column.fixed())
 				.row(Fields.label("jujutsu.gui.domain_inside"), domainInsideHolder)
 				.row(Fields.label("jujutsu.gui.domain_floor"), domainFloorHolder)
 				.build();
+		palette.setOpaque(false);
 
-		JPanel main = new JPanel(new BorderLayout(10, 10));
-		main.add("North", top);
-		main.add("Center", palette);
+		// The titled border wraps the switch together with the palette rows, so the framed box
+		// encloses both the enable checkbox and the two block selectors.
+		JPanel framed = new JPanel(new GridBagLayout());
+		framed.setBorder(BorderFactory.createTitledBorder(L10N.t("jujutsu.gui.domain_palette_title")));
+
+		GridBagConstraints framedGbc = new GridBagConstraints();
+		framedGbc.gridx = 0;
+		framedGbc.fill = GridBagConstraints.NONE;
+		framedGbc.anchor = GridBagConstraints.WEST;
+
+		framedGbc.gridy = 0;
+		framedGbc.insets = new Insets(2, 6, 8, 6);
+		framed.add(domainEnabledBox, framedGbc);
+
+		framedGbc.gridy = 1;
+		framedGbc.insets = new Insets(0, 6, 4, 6);
+		framed.add(palette, framedGbc);
+
+		// Both blocks keep their natural (compact) preferred size and are centred as a group,
+		// instead of letting the layout stretch the palette panel over the whole editor width.
+		// GridBagLayout with fill NONE is used for this: a BoxLayout would widen its children.
+		JPanel content = new JPanel(new GridBagLayout());
+		content.setOpaque(false);
+		GridBagConstraints inner = new GridBagConstraints();
+		inner.gridx = 0;
+		inner.gridy = 0;
+		inner.fill = GridBagConstraints.NONE;
+		inner.anchor = GridBagConstraints.CENTER;
+		content.add(framed, inner);
+
+		JPanel main = new JPanel(new GridBagLayout());
+		GridBagConstraints gbc = new GridBagConstraints();
+		gbc.gridx = 0;
+		gbc.gridy = 0;
+		gbc.weightx = 1;
+		gbc.weighty = 1;
+		gbc.fill = GridBagConstraints.NONE;
+		gbc.anchor = GridBagConstraints.CENTER;
+		main.add(content, gbc);
 
 		domainEnabledBox.addActionListener(e -> setDomainEnabledState(domainEnabledBox.isSelected()));
 		setDomainEnabledState(false);
