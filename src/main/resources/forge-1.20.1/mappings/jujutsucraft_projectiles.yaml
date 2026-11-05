@@ -1,0 +1,52 @@
+BULLET_BALL_PROJECTILE:
+  - BulletBallProjectileEntity
+  - JujutsucraftModEntities.BULLET_BALL_PROJECTILE.get()
+  - "jujutsucraft:bullet_ball_projectile"
+BULLET_BLOOD_PROJECTILE:
+  - BulletBloodProjectileEntity
+  - JujutsucraftModEntities.BULLET_BLOOD_PROJECTILE.get()
+  - "jujutsucraft:bullet_blood_projectile"
+BULLET_CANNON_PROJECTILE:
+  - BulletCannonProjectileEntity
+  - JujutsucraftModEntities.BULLET_CANNON_PROJECTILE.get()
+  - "jujutsucraft:bullet_cannon_projectile"
+BULLET_CURSE_POWER_PROJECTILE:
+  - BulletCursePowerProjectileEntity
+  - JujutsucraftModEntities.BULLET_CURSE_POWER_PROJECTILE.get()
+  - "jujutsucraft:bullet_curse_power_projectile"
+BULLET_EYE:
+  - BulletEyeEntity
+  - JujutsucraftModEntities.BULLET_EYE.get()
+  - "jujutsucraft:bullet_eye"
+BULLET_FLAME_PROJECTILE:
+  - BulletFlameProjectileEntity
+  - JujutsucraftModEntities.BULLET_FLAME_PROJECTILE.get()
+  - "jujutsucraft:bullet_flame_projectile"
+BULLET_HUMAN_PROJECTILE:
+  - BulletHumanProjectileEntity
+  - JujutsucraftModEntities.BULLET_HUMAN_PROJECTILE.get()
+  - "jujutsucraft:bullet_human_projectile"
+BULLET_KITCHEN_KNIFE:
+  - BulletKitchenKnifeEntity
+  - JujutsucraftModEntities.BULLET_KITCHEN_KNIFE.get()
+  - "jujutsucraft:bullet_kitchen_knife"
+BULLET_KNIFE:
+  - BulletKnifeEntity
+  - JujutsucraftModEntities.BULLET_KNIFE.get()
+  - "jujutsucraft:bullet_knife"
+BULLET_NAIL:
+  - BulletNailEntity
+  - JujutsucraftModEntities.BULLET_NAIL.get()
+  - "jujutsucraft:bullet_nail"
+BULLET_PISTOL:
+  - BulletPistolEntity
+  - JujutsucraftModEntities.BULLET_PISTOL.get()
+  - "jujutsucraft:bullet_pistol"
+BULLET_SKELETON_PROJECTILE:
+  - BulletSkeletonProjectileEntity
+  - JujutsucraftModEntities.BULLET_SKELETON_PROJECTILE.get()
+  - "jujutsucraft:bullet_skeleton_projectile"
+BULLET_TOOTH:
+  - BulletToothEntity
+  - JujutsucraftModEntities.BULLET_TOOTH.get()
+  - "jujutsucraft:bullet_tooth"

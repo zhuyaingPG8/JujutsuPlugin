@@ -1,0 +1,1 @@
+${generator.map(field$procedure, "jujutsucraft_proc_void")}.execute(world, ${input$count}, ${input$pitch}, ${input$radius1}, ${input$radius2}, ${input$speed}, ${input$x1}, ${input$x2}, ${input$y1}, ${input$y2}, ${input$yaw}, ${input$z1}, ${input$z2}, ${input$id});

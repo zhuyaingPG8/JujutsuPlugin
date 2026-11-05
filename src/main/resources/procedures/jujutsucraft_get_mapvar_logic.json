@@ -1,0 +1,27 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "variable",
+      "datalist": "jujutsucraft_mapvars",
+      "typeFilter": "logic"
+    }
+  ],
+  "inputsInline": true,
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_variables",
+    "toolbox_init": [],
+    "fields": [
+      "variable"
+    ],
+    "inputs": [],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  },
+  "output": "Boolean"
+}

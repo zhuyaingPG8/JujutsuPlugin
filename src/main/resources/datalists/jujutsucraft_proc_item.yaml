@@ -1,0 +1,8 @@
+- ReturnInsideItemProcedure:
+  required_apis:
+    - jujutsucraft
+  type: item_entity
+- ReturnSelectedItemProcedure:
+  required_apis:
+    - jujutsucraft
+  type: item_item

@@ -1,0 +1,2550 @@
+- JUJUTSU_BARRIER:
+  readable_name: "Jujutsu Barrier"
+  type: block
+  texture: jujutsu_barrier
+  required_apis:
+    - jujutsucraft
+- COFFINOFTHE_IRONMOUNTAIN_1:
+  readable_name: "Coffinofthe Ironmountain 1"
+  type: block
+  texture: coffinofthe_ironmountain_1
+  required_apis:
+    - jujutsucraft
+- COFFINOFTHE_IRONMOUNTAIN_2:
+  readable_name: "Coffinofthe Ironmountain 2"
+  type: block
+  texture: coffinofthe_ironmountain_2
+  required_apis:
+    - jujutsucraft
+- BLOCK_GRAVEL:
+  readable_name: "Block Gravel"
+  type: block
+  texture: block_gravel
+  required_apis:
+    - jujutsucraft
+- BLOCK_UNIVERSE:
+  readable_name: "Block Universe"
+  type: block
+  texture: block_universe
+  required_apis:
+    - jujutsucraft
+- IN_BARRIER:
+  readable_name: "In Barrier"
+  type: block
+  texture: BARRIER
+  required_apis:
+    - jujutsucraft
+- BLOCK_RED:
+  readable_name: "Block Red"
+  type: block
+  texture: block_red
+  required_apis:
+    - jujutsucraft
+- DOMAIN_GRASS:
+  readable_name: "Domain Grass"
+  type: block
+  texture: domain_grass
+  required_apis:
+    - jujutsucraft
+- DOMAIN_SAND:
+  readable_name: "Domain Sand"
+  type: block
+  texture: domain_sand
+  required_apis:
+    - jujutsucraft
+- DOMAIN_WATER:
+  readable_name: "Domain Water"
+  type: block
+  texture: domain_water
+  required_apis:
+    - jujutsucraft
+- DOMAIN_BONE:
+  readable_name: "Domain Bone"
+  type: block
+  texture: domain_bone
+  required_apis:
+    - jujutsucraft
+- SCHOOL_BELL:
+  readable_name: "School Bell"
+  type: block
+  texture: school_bell
+  required_apis:
+    - jujutsucraft
+- DOMAIN_FLOWER:
+  readable_name: "Domain Flower"
+  type: block
+  texture: domain_flower
+  required_apis:
+    - jujutsucraft
+- DOMAIN_BLUE_SKY:
+  readable_name: "Domain Blue Sky"
+  type: block
+  texture: domain_blue_sky
+  required_apis:
+    - jujutsucraft
+- DOMAIN_CLOUD:
+  readable_name: "Domain Cloud"
+  type: block
+  texture: domain_cloud
+  required_apis:
+    - jujutsucraft
+- DOMAIN_STONE_BRICKS:
+  readable_name: "Domain Stone Bricks"
+  type: block
+  texture: domain_stone_bricks
+  required_apis:
+    - jujutsucraft
+- CURSED_BLOCK:
+  readable_name: "Cursed Block"
+  type: block
+  texture: cursed_block
+  required_apis:
+    - jujutsucraft
+- DOMAIN_ICE:
+  readable_name: "Domain Ice"
+  type: block
+  texture: domain_ice
+  required_apis:
+    - jujutsucraft
+- DOMAIN_BLOOD:
+  readable_name: "Domain Blood"
+  type: block
+  texture: domain_blood
+  required_apis:
+    - jujutsucraft
+- DOMAIN_PLANKS:
+  readable_name: "Domain Planks"
+  type: block
+  texture: domain_planks
+  required_apis:
+    - jujutsucraft
+- DOMAIN_PODZOL:
+  readable_name: "Domain Podzol"
+  type: block
+  texture: domain_podzol
+  required_apis:
+    - jujutsucraft
+- DOMAIN_WHITE:
+  readable_name: "Domain White"
+  type: block
+  texture: domain_white
+  required_apis:
+    - jujutsucraft
+- DOMAIN:
+  readable_name: "Domain"
+  type: block
+  texture: domain
+  required_apis:
+    - jujutsucraft
+- DOMAIN_DARK_STONE:
+  readable_name: "Domain Dark Stone"
+  type: block
+  texture: domain_dark_stone
+  required_apis:
+    - jujutsucraft
+- DOMAIN_FENCE:
+  readable_name: "Domain Fence"
+  type: block
+  texture: domain_fence
+  required_apis:
+    - jujutsucraft
+- DOMAIN_HOLE:
+  readable_name: "Domain Hole"
+  type: block
+  texture: BARRIER
+  required_apis:
+    - jujutsucraft
+- DOMAIN_SAND_BLACK:
+  readable_name: "Domain Sand Black"
+  type: block
+  texture: domain_sand_black
+  required_apis:
+    - jujutsucraft
+- CURSED_TECHNIQUE_CHANGER:
+  readable_name: "Cursed Technique Changer"
+  type: item
+  texture: cursed_technique_changer
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_31_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 31 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_31_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_32_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 32 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_32_spawn_egg
+  required_apis:
+    - jujutsucraft
+- UNIFORM_NORMAL_HELMET:
+  readable_name: "Uniform Normal Helmet"
+  type: item
+  texture: uniform_normal_helmet
+  required_apis:
+    - jujutsucraft
+- UNIFORM_NORMAL_CHESTPLATE:
+  readable_name: "Uniform Normal Chestplate"
+  type: item
+  texture: uniform_normal_chestplate
+  required_apis:
+    - jujutsucraft
+- UNIFORM_NORMAL_LEGGINGS:
+  readable_name: "Uniform Normal Leggings"
+  type: item
+  texture: uniform_normal_leggings
+  required_apis:
+    - jujutsucraft
+- UNIFORM_NORMAL_BOOTS:
+  readable_name: "Uniform Normal Boots"
+  type: item
+  texture: uniform_normal_boots
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_33_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 33 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_33_spawn_egg
+  required_apis:
+    - jujutsucraft
+- JOGO_HEAD_SPAWN_EGG:
+  readable_name: "Jogo Head Spawn Egg"
+  type: item
+  texture: jogo_head_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SOCCER_PLAYER_SPAWN_EGG:
+  readable_name: "Soccer Player Spawn Egg"
+  type: item
+  texture: soccer_player_spawn_egg
+  required_apis:
+    - jujutsucraft
+- JOGO_ASH_SPAWN_EGG:
+  readable_name: "Jogo Ash Spawn Egg"
+  type: item
+  texture: jogo_ash_spawn_egg
+  required_apis:
+    - jujutsucraft
+- DEBUGGER_JR:
+  readable_name: "Debugger Jr"
+  type: item
+  texture: debugger_jr
+  required_apis:
+    - jujutsucraft
+- SLAUGHTER_DEMON:
+  readable_name: "Slaughter Demon"
+  type: item
+  texture: slaughter_demon
+  required_apis:
+    - jujutsucraft
+- INVERTED_SPEAR_OF_HEAVEN:
+  readable_name: "Inverted Spear Of Heaven"
+  type: item
+  texture: inverted_spear_of_heaven
+  required_apis:
+    - jujutsucraft
+- STEVENSON_SCREEN_SPAWN_EGG:
+  readable_name: "Stevenson Screen Spawn Egg"
+  type: item
+  texture: stevenson_screen_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SWORD_OKKOTSU_YUTA:
+  readable_name: "Sword Okkotsu Yuta"
+  type: item
+  texture: sword_okkotsu_yuta
+  required_apis:
+    - jujutsucraft
+- LOUDSPEAKER:
+  readable_name: "Loudspeaker"
+  type: item
+  texture: loudspeaker
+  required_apis:
+    - jujutsucraft
+- SWORD_BLACK:
+  readable_name: "Sword Black"
+  type: item
+  texture: sword_black
+  required_apis:
+    - jujutsucraft
+- DIVINE_DOG_WHITE_SPAWN_EGG:
+  readable_name: "Divine Dog White Spawn Egg"
+  type: item
+  texture: divine_dog_white_spawn_egg
+  required_apis:
+    - jujutsucraft
+- DIVINE_DOG_BLACK_SPAWN_EGG:
+  readable_name: "Divine Dog Black Spawn Egg"
+  type: item
+  texture: divine_dog_black_spawn_egg
+  required_apis:
+    - jujutsucraft
+- UNIFORM_OKKOTSU_CHESTPLATE:
+  readable_name: "Uniform Okkotsu Chestplate"
+  type: item
+  texture: uniform_okkotsu_chestplate
+  required_apis:
+    - jujutsucraft
+- HAIR_FUSHIGURO_MEGUMI_HELMET:
+  readable_name: "Hair Fushiguro Megumi Helmet"
+  type: item
+  texture: hair_fushiguro_megumi_helmet
+  required_apis:
+    - jujutsucraft
+- GREAT_SERPENT_SPAWN_EGG:
+  readable_name: "Great Serpent Spawn Egg"
+  type: item
+  texture: great_serpent_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MAX_ELEPHANT_SPAWN_EGG:
+  readable_name: "Max Elephant Spawn Egg"
+  type: item
+  texture: max_elephant_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MAHORAGA_DOG_SPAWN_EGG:
+  readable_name: "Mahoraga Dog Spawn Egg"
+  type: item
+  texture: mahoraga_dog_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MAHORAGA_FROG_SPAWN_EGG:
+  readable_name: "Mahoraga Frog Spawn Egg"
+  type: item
+  texture: mahoraga_frog_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SWORD_OF_EXTERMINATION:
+  readable_name: "Sword Of Extermination"
+  type: item
+  texture: sword_of_extermination
+  required_apis:
+    - jujutsucraft
+- RABBIT_ESCAPE_SPAWN_EGG:
+  readable_name: "Rabbit Escape Spawn Egg"
+  type: item
+  texture: rabbit_escape_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MAHORAGA_WHEEL_HELMET:
+  readable_name: "Mahoraga Wheel Helmet"
+  type: item
+  texture: mahoraga_wheel_helmet
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_34_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 34 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_34_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_35_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 35 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_35_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_ARMOURY_CHESTPLATE:
+  readable_name: "Cursed Spirit Armoury Chestplate"
+  type: item
+  texture: cursed_spirit_armoury_chestplate
+  required_apis:
+    - jujutsucraft
+- GLASSES_MAKI_HELMET:
+  readable_name: "Glasses Maki Helmet"
+  type: item
+  texture: glasses_maki_helmet
+  required_apis:
+    - jujutsucraft
+- GLASSES_MAKI_CHESTPLATE:
+  readable_name: "Glasses Maki Chestplate"
+  type: item
+  texture: glasses_maki_chestplate
+  required_apis:
+    - jujutsucraft
+- GLASSES_MAKI_LEGGINGS:
+  readable_name: "Glasses Maki Leggings"
+  type: item
+  texture: glasses_maki_leggings
+  required_apis:
+    - jujutsucraft
+- NAGINATA:
+  readable_name: "Naginata"
+  type: item
+  texture: naginata
+  required_apis:
+    - jujutsucraft
+- UNIFORM_GOJO_HELMET:
+  readable_name: "Uniform Gojo Helmet"
+  type: item
+  texture: uniform_gojo_helmet
+  required_apis:
+    - jujutsucraft
+- UNIFORM_GOJO_CHESTPLATE:
+  readable_name: "Uniform Gojo Chestplate"
+  type: item
+  texture: uniform_gojo_chestplate
+  required_apis:
+    - jujutsucraft
+- UNIFORM_GOJO_LEGGINGS:
+  readable_name: "Uniform Gojo Leggings"
+  type: item
+  texture: uniform_gojo_leggings
+  required_apis:
+    - jujutsucraft
+- UNIFORM_GOJO_BOOTS:
+  readable_name: "Uniform Gojo Boots"
+  type: item
+  texture: uniform_gojo_boots
+  required_apis:
+    - jujutsucraft
+- BLINDFOLD_BANDAGE_HELMET:
+  readable_name: "Blindfold Bandage Helmet"
+  type: item
+  texture: blindfold_bandage_helmet
+  required_apis:
+    - jujutsucraft
+- SUNGLASSES_HELMET:
+  readable_name: "Sunglasses Helmet"
+  type: item
+  texture: sunglasses_helmet
+  required_apis:
+    - jujutsucraft
+- ITEM_MASTER_PHYSICAL_GIFTED:
+  readable_name: "Item Master Physical Gifted"
+  type: item
+  texture: item_master_physical_gifted
+  required_apis:
+    - jujutsucraft
+- ITEM_MASTER_SIX_EYES:
+  readable_name: "Item Master Six Eyes"
+  type: item
+  texture: item_master_six_eyes
+  required_apis:
+    - jujutsucraft
+- WEAPON_NANAMI:
+  readable_name: "Weapon Nanami"
+  type: item
+  texture: weapon_nanami
+  required_apis:
+    - jujutsucraft
+- NYOI_STAFF:
+  readable_name: "Nyoi Staff"
+  type: item
+  texture: nyoi_staff
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_36_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 36 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_36_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_FUSHIGURO_TOJI_CHESTPLATE:
+  readable_name: "Clothes Fushiguro Toji Chestplate"
+  type: item
+  texture: clothes_fushiguro_toji_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_FUSHIGURO_TOJI_LEGGINGS:
+  readable_name: "Clothes Fushiguro Toji Leggings"
+  type: item
+  texture: clothes_fushiguro_toji_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ZENIN_CHESTPLATE:
+  readable_name: "Clothes Zenin Chestplate"
+  type: item
+  texture: clothes_zenin_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ZENIN_LEGGINGS:
+  readable_name: "Clothes Zenin Leggings"
+  type: item
+  texture: clothes_zenin_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ZENIN_BOOTS:
+  readable_name: "Clothes Zenin Boots"
+  type: item
+  texture: clothes_zenin_boots
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KASHIMO_HAJIME_HELMET:
+  readable_name: "Clothes Kashimo Hajime Helmet"
+  type: item
+  texture: clothes_kashimo_hajime_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KASHIMO_HAJIME_CHESTPLATE:
+  readable_name: "Clothes Kashimo Hajime Chestplate"
+  type: item
+  texture: clothes_kashimo_hajime_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KASHIMO_HAJIME_LEGGINGS:
+  readable_name: "Clothes Kashimo Hajime Leggings"
+  type: item
+  texture: clothes_kashimo_hajime_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KASHIMO_HAJIME_BOOTS:
+  readable_name: "Clothes Kashimo Hajime Boots"
+  type: item
+  texture: clothes_kashimo_hajime_boots
+  required_apis:
+    - jujutsucraft
+- MEI_MEI_AXE:
+  readable_name: "Mei Mei Axe"
+  type: item
+  texture: mei_mei_axe
+  required_apis:
+    - jujutsucraft
+- SPLIT_SOUL_KATANA:
+  readable_name: "Split Soul Katana"
+  type: item
+  texture: split_soul_katana
+  required_apis:
+    - jujutsucraft
+- KECHIZU_SPAWN_EGG:
+  readable_name: "Kechizu Spawn Egg"
+  type: item
+  texture: kechizu_spawn_egg
+  required_apis:
+    - jujutsucraft
+- BLAZING_COURAGE:
+  readable_name: "Blazing Courage"
+  type: item
+  texture: blazing_courage
+  required_apis:
+    - jujutsucraft
+- SWORD_OGI:
+  readable_name: "Sword Ogi"
+  type: item
+  texture: sword_ogi
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_37_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 37 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_37_spawn_egg
+  required_apis:
+    - jujutsucraft
+- RECOMMENDATION_1:
+  readable_name: "Recommendation 1"
+  type: item
+  texture: recommendation_1
+  required_apis:
+    - jujutsucraft
+- WING_KING_CHESTPLATE:
+  readable_name: "Wing King Chestplate"
+  type: item
+  texture: wing_king_chestplate
+  required_apis:
+    - jujutsucraft
+- CROW_SPAWN_EGG:
+  readable_name: "Crow Spawn Egg"
+  type: item
+  texture: crow_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_311_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 311 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_311_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_38_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 38 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_38_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_39_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 39 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_39_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_310_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 310 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_310_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SWORD_MIWA_KASUMI:
+  readable_name: "Sword Miwa Kasumi"
+  type: item
+  texture: sword_miwa_kasumi
+  required_apis:
+    - jujutsucraft
+- MUSCULAR_BODY_CHESTPLATE:
+  readable_name: "Muscular Body Chestplate"
+  type: item
+  texture: muscular_body_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_TODO_AOI_LEGGINGS:
+  readable_name: "Clothes Todo Aoi Leggings"
+  type: item
+  texture: clothes_todo_aoi_leggings
+  required_apis:
+    - jujutsucraft
+- PENDANT_TODO_AOI:
+  readable_name: "Pendant Todo Aoi"
+  type: item
+  texture: pendant_todo_aoi
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ZENIN_2_CHESTPLATE:
+  readable_name: "Clothes Zenin 2 Chestplate"
+  type: item
+  texture: clothes_zenin_2_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ZENIN_2_LEGGINGS:
+  readable_name: "Clothes Zenin 2 Leggings"
+  type: item
+  texture: clothes_zenin_2_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ISHIGORI_HELMET:
+  readable_name: "Clothes Ishigori Helmet"
+  type: item
+  texture: clothes_ishigori_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ISHIGORI_CHESTPLATE:
+  readable_name: "Clothes Ishigori Chestplate"
+  type: item
+  texture: clothes_ishigori_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ISHIGORI_LEGGINGS:
+  readable_name: "Clothes Ishigori Leggings"
+  type: item
+  texture: clothes_ishigori_leggings
+  required_apis:
+    - jujutsucraft
+- TOAD_2_SPAWN_EGG:
+  readable_name: "Toad 2 Spawn Egg"
+  type: item
+  texture: toad_2_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ITEM_MASTER_DOMAIN_EXPANSION:
+  readable_name: "Item Master Domain Expansion"
+  type: item
+  texture: item_master_domain_expansion
+  required_apis:
+    - jujutsucraft
+- RECOMMENDATION_2:
+  readable_name: "Recommendation 2"
+  type: item
+  texture: recommendation_2
+  required_apis:
+    - jujutsucraft
+- ITEM_MASTER_SIMPLE_DOMAIN:
+  readable_name: "Item Master Simple Domain"
+  type: item
+  texture: item_master_simple_domain
+  required_apis:
+    - jujutsucraft
+- ITEM_MASTER_REVERSE_CURSED_TECHNIQUE:
+  readable_name: "Item Master Reverse Cursed Technique"
+  type: item
+  texture: item_master_reverse_cursed_technique
+  required_apis:
+    - jujutsucraft
+- MAHITO_HAND_2:
+  readable_name: "Mahito Hand 2"
+  type: item
+  texture: mahito_hand_2
+  required_apis:
+    - jujutsucraft
+- HANAMI_HAND:
+  readable_name: "Hanami Hand"
+  type: item
+  texture: hanami_hand
+  required_apis:
+    - jujutsucraft
+- ITEM_INSECT:
+  readable_name: "Item Insect"
+  type: item
+  texture: item_insect
+  required_apis:
+    - jujutsucraft
+- SUKUNA_BODY_CHESTPLATE:
+  readable_name: "Sukuna Body Chestplate"
+  type: item
+  texture: sukuna_body_chestplate
+  required_apis:
+    - jujutsucraft
+- SUPREME_MARTIAL_SOLUTION:
+  readable_name: "Supreme Martial Solution"
+  type: item
+  texture: supreme_martial_solution
+  required_apis:
+    - jujutsucraft
+- HITEN:
+  readable_name: "Hiten"
+  type: item
+  texture: hiten
+  required_apis:
+    - jujutsucraft
+- PIERCING_OX_SPAWN_EGG:
+  readable_name: "Piercing Ox Spawn Egg"
+  type: item
+  texture: piercing_ox_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ROUND_DEER_SPAWN_EGG:
+  readable_name: "Round Deer Spawn Egg"
+  type: item
+  texture: round_deer_spawn_egg
+  required_apis:
+    - jujutsucraft
+- COSTUME_TAKABA_HELMET:
+  readable_name: "Costume Takaba Helmet"
+  type: item
+  texture: costume_takaba_helmet
+  required_apis:
+    - jujutsucraft
+- COSTUME_TAKABA_CHESTPLATE:
+  readable_name: "Costume Takaba Chestplate"
+  type: item
+  texture: costume_takaba_chestplate
+  required_apis:
+    - jujutsucraft
+- COSTUME_TAKABA_LEGGINGS:
+  readable_name: "Costume Takaba Leggings"
+  type: item
+  texture: costume_takaba_leggings
+  required_apis:
+    - jujutsucraft
+- COSTUME_TAKABA_BOOTS:
+  readable_name: "Costume Takaba Boots"
+  type: item
+  texture: costume_takaba_boots
+  required_apis:
+    - jujutsucraft
+- HARISEN:
+  readable_name: "Harisen"
+  type: item
+  texture: harisen
+  required_apis:
+    - jujutsucraft
+- UNIFORM_GETO_LEGGINGS:
+  readable_name: "Uniform Geto Leggings"
+  type: item
+  texture: uniform_geto_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_GETO_HELMET:
+  readable_name: "Clothes Geto Helmet"
+  type: item
+  texture: clothes_geto_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_GETO_CHESTPLATE:
+  readable_name: "Clothes Geto Chestplate"
+  type: item
+  texture: clothes_geto_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_GETO_LEGGINGS:
+  readable_name: "Clothes Geto Leggings"
+  type: item
+  texture: clothes_geto_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_GETO_BOOTS:
+  readable_name: "Clothes Geto Boots"
+  type: item
+  texture: clothes_geto_boots
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_BALL:
+  readable_name: "Cursed Spirit Ball"
+  type: item
+  texture: cursed_spirit_ball
+  required_apis:
+    - jujutsucraft
+- CLOTHES_DECISIVE_BATTLE_HELMET:
+  readable_name: "Clothes Decisive Battle Helmet"
+  type: item
+  texture: clothes_decisive_battle_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_DECISIVE_BATTLE_CHESTPLATE:
+  readable_name: "Clothes Decisive Battle Chestplate"
+  type: item
+  texture: clothes_decisive_battle_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_DECISIVE_BATTLE_LEGGINGS:
+  readable_name: "Clothes Decisive Battle Leggings"
+  type: item
+  texture: clothes_decisive_battle_leggings
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_312_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 312 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_312_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KUROURUSHI_BODY_HELMET:
+  readable_name: "Kurourushi Body Helmet"
+  type: item
+  texture: kurourushi_body_helmet
+  required_apis:
+    - jujutsucraft
+- KUROURUSHI_BODY_CHESTPLATE:
+  readable_name: "Kurourushi Body Chestplate"
+  type: item
+  texture: kurourushi_body_chestplate
+  required_apis:
+    - jujutsucraft
+- KUROURUSHI_BODY_LEGGINGS:
+  readable_name: "Kurourushi Body Leggings"
+  type: item
+  texture: kurourushi_body_leggings
+  required_apis:
+    - jujutsucraft
+- FESTER_LIFE_BLADE:
+  readable_name: "Fester Life Blade"
+  type: item
+  texture: fester_life_blade
+  required_apis:
+    - jujutsucraft
+- NAOYA_CURSED_SPIRIT_BODY_CHESTPLATE:
+  readable_name: "Naoya Cursed Spirit Body Chestplate"
+  type: item
+  texture: naoya_cursed_spirit_body_chestplate
+  required_apis:
+    - jujutsucraft
+- MAHORAGA_BODY_HELMET:
+  readable_name: "Mahoraga Body Helmet"
+  type: item
+  texture: mahoraga_body_helmet
+  required_apis:
+    - jujutsucraft
+- MAHORAGA_BODY_CHESTPLATE:
+  readable_name: "Mahoraga Body Chestplate"
+  type: item
+  texture: mahoraga_body_chestplate
+  required_apis:
+    - jujutsucraft
+- MAHORAGA_BODY_LEGGINGS:
+  readable_name: "Mahoraga Body Leggings"
+  type: item
+  texture: mahoraga_body_leggings
+  required_apis:
+    - jujutsucraft
+- GARUDA_SPAWN_EGG:
+  readable_name: "Garuda Spawn Egg"
+  type: item
+  texture: garuda_spawn_egg
+  required_apis:
+    - jujutsucraft
+- GARUDA_ITEM:
+  readable_name: "Garuda Item"
+  type: item
+  texture: garuda_item
+  required_apis:
+    - jujutsucraft
+- GARUDA_BALL_SPAWN_EGG:
+  readable_name: "Garuda Ball Spawn Egg"
+  type: item
+  texture: garuda_ball_spawn_egg
+  required_apis:
+    - jujutsucraft
+- GARUDA_ITEM_BALL:
+  readable_name: "Garuda Item Ball"
+  type: item
+  texture: garuda_item_ball
+  required_apis:
+    - jujutsucraft
+- RIKA_BODY_HELMET:
+  readable_name: "Rika Body Helmet"
+  type: item
+  texture: rika_body_helmet
+  required_apis:
+    - jujutsucraft
+- RIKA_BODY_CHESTPLATE:
+  readable_name: "Rika Body Chestplate"
+  type: item
+  texture: rika_body_chestplate
+  required_apis:
+    - jujutsucraft
+- CURSED_TECHNIQUE_STARTER:
+  readable_name: "Cursed Technique Starter"
+  type: item
+  texture: cursed_technique_starter
+  required_apis:
+    - jujutsucraft
+- HUMAN_STOCK:
+  readable_name: "Human Stock"
+  type: item
+  texture: human_stock
+  required_apis:
+    - jujutsucraft
+- HUMAN_CAR_SPAWN_EGG:
+  readable_name: "Human Car Spawn Egg"
+  type: item
+  texture: human_car_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HUMAN_STOCK_CAR:
+  readable_name: "Human Stock Car"
+  type: item
+  texture: human_stock_car
+  required_apis:
+    - jujutsucraft
+- SUKUNA_FINGER:
+  readable_name: "Sukuna Finger"
+  type: item
+  texture: sukuna_finger
+  required_apis:
+    - jujutsucraft
+- ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_HELMET:
+  readable_name: "Armor Instant Spirit Bodyof Distorted Killing Helmet"
+  type: item
+  texture: armor_instant_spirit_bodyof_distorted_killing_helmet
+  required_apis:
+    - jujutsucraft
+- ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_CHESTPLATE:
+  readable_name: "Armor Instant Spirit Bodyof Distorted Killing Chestplate"
+  type: item
+  texture: armor_instant_spirit_bodyof_distorted_killing_chestplate
+  required_apis:
+    - jujutsucraft
+- ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_LEGGINGS:
+  readable_name: "Armor Instant Spirit Bodyof Distorted Killing Leggings"
+  type: item
+  texture: armor_instant_spirit_bodyof_distorted_killing_leggings
+  required_apis:
+    - jujutsucraft
+- BULLET_FLAME:
+  readable_name: "Bullet Flame"
+  type: item
+  texture: bullet_flame
+  required_apis:
+    - jujutsucraft
+- DRAGON_BONE:
+  readable_name: "Dragon Bone"
+  type: item
+  texture: dragon_bone
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_24_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 24 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_24_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_14_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 14 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_14_spawn_egg
+  required_apis:
+    - jujutsucraft
+- COCKROACHES_SPAWN_EGG:
+  readable_name: "Cockroaches Spawn Egg"
+  type: item
+  texture: cockroaches_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KILLER_1_SPAWN_EGG:
+  readable_name: "Killer 1 Spawn Egg"
+  type: item
+  texture: killer_1_spawn_egg
+  required_apis:
+    - jujutsucraft
+- JOGO_SPAWN_EGG:
+  readable_name: "Jogo Spawn Egg"
+  type: item
+  texture: jogo_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_15_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 15 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_15_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_22_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 22 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_22_spawn_egg
+  required_apis:
+    - jujutsucraft
+- TAKADA_SPAWN_EGG:
+  readable_name: "Takada Spawn Egg"
+  type: item
+  texture: takada_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_URAUME_HELMET:
+  readable_name: "Clothes Uraume Helmet"
+  type: item
+  texture: clothes_uraume_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_URAUME_CHESTPLATE:
+  readable_name: "Clothes Uraume Chestplate"
+  type: item
+  texture: clothes_uraume_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_URAUME_LEGGINGS:
+  readable_name: "Clothes Uraume Leggings"
+  type: item
+  texture: clothes_uraume_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_URAUME_BOOTS:
+  readable_name: "Clothes Uraume Boots"
+  type: item
+  texture: clothes_uraume_boots
+  required_apis:
+    - jujutsucraft
+- GAVEL:
+  readable_name: "Gavel"
+  type: item
+  texture: gavel
+  required_apis:
+    - jujutsucraft
+- UNIFORM_ITADORI_CHESTPLATE:
+  readable_name: "Uniform Itadori Chestplate"
+  type: item
+  texture: uniform_itadori_chestplate
+  required_apis:
+    - jujutsucraft
+- UNIFORM_ITADORI_LEGGINGS:
+  readable_name: "Uniform Itadori Leggings"
+  type: item
+  texture: uniform_itadori_leggings
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_25_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 25 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_25_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_02_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 02 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_02_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_03_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 03 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_03_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_05_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 05 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_05_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_16_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 16 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_16_spawn_egg
+  required_apis:
+    - jujutsucraft
+- BATHYNOMUS_GIGANTEUS_SPAWN_EGG:
+  readable_name: "Bathynomus Giganteus Spawn Egg"
+  type: item
+  texture: bathynomus_giganteus_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ITEM_MASTER_FALLING_BLOSSOM_EMOTION:
+  readable_name: "Item Master Falling Blossom Emotion"
+  type: item
+  texture: item_master_falling_blossom_emotion
+  required_apis:
+    - jujutsucraft
+- MERGED_BEAST_AGITO_SPAWN_EGG:
+  readable_name: "Merged Beast Agito Spawn Egg"
+  type: item
+  texture: merged_beast_agito_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SICKLE:
+  readable_name: "Sickle"
+  type: item
+  texture: sickle
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_313_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 313 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_313_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_314_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 314 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_314_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_315_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 315 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_315_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_316_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 316 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_316_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_317_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 317 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_317_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_318_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 318 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_318_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_26_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 26 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_26_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_27_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 27 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_27_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_28_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 28 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_28_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_29_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 29 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_29_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_21_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 21 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_21_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_NANAMI_HELMET:
+  readable_name: "Clothes Nanami Helmet"
+  type: item
+  texture: clothes_nanami_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_NANAMI_CHESTPLATE:
+  readable_name: "Clothes Nanami Chestplate"
+  type: item
+  texture: clothes_nanami_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_NANAMI_LEGGINGS:
+  readable_name: "Clothes Nanami Leggings"
+  type: item
+  texture: clothes_nanami_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_SUKUNA_FUSHIGURO_CHESTPLATE:
+  readable_name: "Clothes Sukuna Fushiguro Chestplate"
+  type: item
+  texture: clothes_sukuna_fushiguro_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ZENIN_NAOBITO_CHESTPLATE:
+  readable_name: "Clothes Zenin Naobito Chestplate"
+  type: item
+  texture: clothes_zenin_naobito_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_CHOSO_HELMET:
+  readable_name: "Clothes Choso Helmet"
+  type: item
+  texture: clothes_choso_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_CHOSO_CHESTPLATE:
+  readable_name: "Clothes Choso Chestplate"
+  type: item
+  texture: clothes_choso_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_JOGO_HELMET:
+  readable_name: "Clothes Jogo Helmet"
+  type: item
+  texture: clothes_jogo_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_JOGO_CHESTPLATE:
+  readable_name: "Clothes Jogo Chestplate"
+  type: item
+  texture: clothes_jogo_chestplate
+  required_apis:
+    - jujutsucraft
+- CLAWS:
+  readable_name: "Claws"
+  type: item
+  texture: claws
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_17_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 17 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_17_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_18_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 18 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_18_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SCISSORS:
+  readable_name: "Scissors"
+  type: item
+  texture: scissors
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_06_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 06 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_06_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_07_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 07 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_07_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_08_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 08 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_08_spawn_egg
+  required_apis:
+    - jujutsucraft
+- COPIED_CURSED_TECHNIQUE:
+  readable_name: "Copied Cursed Technique"
+  type: item
+  texture: copied_cursed_technique
+  required_apis:
+    - jujutsucraft
+- RIKA_2_SPAWN_EGG:
+  readable_name: "Rika 2 Spawn Egg"
+  type: item
+  texture: rika_2_spawn_egg
+  required_apis:
+    - jujutsucraft
+- RIKA_SPAWN_EGG:
+  readable_name: "Rika Spawn Egg"
+  type: item
+  texture: rika_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ITEM_MASTER_DOMAIN_AMPLIFICATION:
+  readable_name: "Item Master Domain Amplification"
+  type: item
+  texture: item_master_domain_amplification
+  required_apis:
+    - jujutsucraft
+- EXECUTIONERS_SWORD:
+  readable_name: "Executioners Sword"
+  type: item
+  texture: executioners_sword
+  required_apis:
+    - jujutsucraft
+- UNIFORM_HIGURUMA_CHESTPLATE:
+  readable_name: "Uniform Higuruma Chestplate"
+  type: item
+  texture: uniform_higuruma_chestplate
+  required_apis:
+    - jujutsucraft
+- UNIFORM_HIGURUMA_LEGGINGS:
+  readable_name: "Uniform Higuruma Leggings"
+  type: item
+  texture: uniform_higuruma_leggings
+  required_apis:
+    - jujutsucraft
+- TOAD_SPAWN_EGG:
+  readable_name: "Toad Spawn Egg"
+  type: item
+  texture: toad_spawn_egg
+  required_apis:
+    - jujutsucraft
+- TODO_AOI_SPAWN_EGG:
+  readable_name: "Todo Aoi Spawn Egg"
+  type: item
+  texture: todo_aoi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- TRUCK_SPAWN_EGG:
+  readable_name: "Truck Spawn Egg"
+  type: item
+  texture: truck_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ANGEL_HELMET:
+  readable_name: "Clothes Angel Helmet"
+  type: item
+  texture: clothes_angel_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ANGEL_CHESTPLATE:
+  readable_name: "Clothes Angel Chestplate"
+  type: item
+  texture: clothes_angel_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_DAGON_HELMET:
+  readable_name: "Clothes Dagon Helmet"
+  type: item
+  texture: clothes_dagon_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_DAGON_CHESTPLATE:
+  readable_name: "Clothes Dagon Chestplate"
+  type: item
+  texture: clothes_dagon_chestplate
+  required_apis:
+    - jujutsucraft
+- KNIFE:
+  readable_name: "Knife"
+  type: item
+  texture: knife
+  required_apis:
+    - jujutsucraft
+- SWORD_SHIGEMO:
+  readable_name: "Sword Shigemo"
+  type: item
+  texture: sword_shigemo
+  required_apis:
+    - jujutsucraft
+- HAMMER:
+  readable_name: "Hammer"
+  type: item
+  texture: hammer
+  required_apis:
+    - jujutsucraft
+- COCKROACH_LARVA_SPAWN_EGG:
+  readable_name: "Cockroach Larva Spawn Egg"
+  type: item
+  texture: cockroach_larva_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KUSAKABE_CHESTPLATE:
+  readable_name: "Clothes Kusakabe Chestplate"
+  type: item
+  texture: clothes_kusakabe_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KUSAKABE_LEGGINGS:
+  readable_name: "Clothes Kusakabe Leggings"
+  type: item
+  texture: clothes_kusakabe_leggings
+  required_apis:
+    - jujutsucraft
+- URO_TAKAKO_SPAWN_EGG:
+  readable_name: "Uro Takako Spawn Egg"
+  type: item
+  texture: uro_takako_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_URO_HELMET:
+  readable_name: "Clothes Uro Helmet"
+  type: item
+  texture: clothes_uro_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_URO_CHESTPLATE:
+  readable_name: "Clothes Uro Chestplate"
+  type: item
+  texture: clothes_uro_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KIRARA_HELMET:
+  readable_name: "Clothes Kirara Helmet"
+  type: item
+  texture: clothes_kirara_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KIRARA_CHESTPLATE:
+  readable_name: "Clothes Kirara Chestplate"
+  type: item
+  texture: clothes_kirara_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_KIRARA_LEGGINGS:
+  readable_name: "Clothes Kirara Leggings"
+  type: item
+  texture: clothes_kirara_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_HAKARI_KINJI_HELMET:
+  readable_name: "Clothes Hakari Kinji Helmet"
+  type: item
+  texture: clothes_hakari_kinji_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_HAKARI_KINJI_CHESTPLATE:
+  readable_name: "Clothes Hakari Kinji Chestplate"
+  type: item
+  texture: clothes_hakari_kinji_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_HAKARI_KINJI_LEGGINGS:
+  readable_name: "Clothes Hakari Kinji Leggings"
+  type: item
+  texture: clothes_hakari_kinji_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_HAKARI_KINJI_BOOTS:
+  readable_name: "Clothes Hakari Kinji Boots"
+  type: item
+  texture: clothes_hakari_kinji_boots
+  required_apis:
+    - jujutsucraft
+- OGAMI_SPAWN_EGG:
+  readable_name: "Ogami Spawn Egg"
+  type: item
+  texture: ogami_spawn_egg
+  required_apis:
+    - jujutsucraft
+- BULLET_BALL:
+  readable_name: "Bullet Ball"
+  type: item
+  texture: bullet_ball
+  required_apis:
+    - jujutsucraft
+- CLOTHES_NISHIMIYA_HELMET:
+  readable_name: "Clothes Nishimiya Helmet"
+  type: item
+  texture: clothes_nishimiya_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_MIGUEL_HELMET:
+  readable_name: "Clothes Miguel Helmet"
+  type: item
+  texture: clothes_miguel_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_MIGUEL_CHESTPLATE:
+  readable_name: "Clothes Miguel Chestplate"
+  type: item
+  texture: clothes_miguel_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_MIGUEL_LEGGINGS:
+  readable_name: "Clothes Miguel Leggings"
+  type: item
+  texture: clothes_miguel_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_MIGUEL_BOOTS:
+  readable_name: "Clothes Miguel Boots"
+  type: item
+  texture: clothes_miguel_boots
+  required_apis:
+    - jujutsucraft
+- UNIFORM_Q_HELMET:
+  readable_name: "Uniform Q Helmet"
+  type: item
+  texture: uniform_q_helmet
+  required_apis:
+    - jujutsucraft
+- UNIFORM_Q_CHESTPLATE:
+  readable_name: "Uniform Q Chestplate"
+  type: item
+  texture: uniform_q_chestplate
+  required_apis:
+    - jujutsucraft
+- UNIFORM_Q_LEGGINGS:
+  readable_name: "Uniform Q Leggings"
+  type: item
+  texture: uniform_q_leggings
+  required_apis:
+    - jujutsucraft
+- SWORD_KUSAKABE:
+  readable_name: "Sword Kusakabe"
+  type: item
+  texture: sword_kusakabe
+  required_apis:
+    - jujutsucraft
+- MIGUEL_DANCER_SPAWN_EGG:
+  readable_name: "Miguel Dancer Spawn Egg"
+  type: item
+  texture: miguel_dancer_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_YOROZU_CHESTPLATE:
+  readable_name: "Clothes Yorozu Chestplate"
+  type: item
+  texture: clothes_yorozu_chestplate
+  required_apis:
+    - jujutsucraft
+- ROZETSU_SPAWN_EGG:
+  readable_name: "Rozetsu Spawn Egg"
+  type: item
+  texture: rozetsu_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_CHOJURO_SPAWN_EGG:
+  readable_name: "Zenin Chojuro Spawn Egg"
+  type: item
+  texture: zenin_chojuro_spawn_egg
+  required_apis:
+    - jujutsucraft
+- G_STAFF:
+  readable_name: "G Staff"
+  type: item
+  texture: g_staff
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_319_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 319 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_319_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_210_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 210 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_210_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_211_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 211 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_211_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_212_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 212 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_212_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MOON_DREGS_SPAWN_EGG:
+  readable_name: "Moon Dregs Spawn Egg"
+  type: item
+  texture: moon_dregs_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SWORD_OPTION:
+  readable_name: "Sword Option"
+  type: item
+  texture: sword_option
+  required_apis:
+    - jujutsucraft
+- PANDA_NORMAL_SPAWN_EGG:
+  readable_name: "Panda Normal Spawn Egg"
+  type: item
+  texture: panda_normal_spawn_egg
+  required_apis:
+    - jujutsucraft
+- DOLL_1_SPAWN_EGG:
+  readable_name: "Doll 1 Spawn Egg"
+  type: item
+  texture: doll_1_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ITEM_DOLL:
+  readable_name: "Item Doll"
+  type: item
+  texture: item_doll
+  required_apis:
+    - jujutsucraft
+- ITADORI_ARM:
+  readable_name: "Itadori Arm"
+  type: item
+  texture: itadori_arm
+  required_apis:
+    - jujutsucraft
+- BROOM:
+  readable_name: "Broom"
+  type: item
+  texture: broom
+  required_apis:
+    - jujutsucraft
+- ENTITY_BROOM_SPAWN_EGG:
+  readable_name: "Entity Broom Spawn Egg"
+  type: item
+  texture: entity_broom_spawn_egg
+  required_apis:
+    - jujutsucraft
+- NAIL:
+  readable_name: "Nail"
+  type: item
+  texture: nail
+  required_apis:
+    - jujutsucraft
+- SHIKIGAMI_HETEROCEPHALUS_GLABER_SPAWN_EGG:
+  readable_name: "Shikigami Heterocephalus Glaber Spawn Egg"
+  type: item
+  texture: shikigami_heterocephalus_glaber_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SHIKIGAMI_PTEROSAUR_SPAWN_EGG:
+  readable_name: "Shikigami Pterosaur Spawn Egg"
+  type: item
+  texture: shikigami_pterosaur_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_110_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 110 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_110_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_09_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 09 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_09_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_REGGIE_STAR_CHESTPLATE:
+  readable_name: "Clothes Reggie Star Chestplate"
+  type: item
+  texture: clothes_reggie_star_chestplate
+  required_apis:
+    - jujutsucraft
+- INSECT_ARMOR_HELMET:
+  readable_name: "Insect Armor Helmet"
+  type: item
+  texture: insect_armor_helmet
+  required_apis:
+    - jujutsucraft
+- INSECT_ARMOR_CHESTPLATE:
+  readable_name: "Insect Armor Chestplate"
+  type: item
+  texture: insect_armor_chestplate
+  required_apis:
+    - jujutsucraft
+- INSECT_ARMOR_LEGGINGS:
+  readable_name: "Insect Armor Leggings"
+  type: item
+  texture: insect_armor_leggings
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_213_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 213 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_213_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_214_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 214 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_214_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_INO_TAKUMA_1_HELMET:
+  readable_name: "Clothes Ino Takuma 1 Helmet"
+  type: item
+  texture: clothes_ino_takuma_1_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_INO_TAKUMA_1_CHESTPLATE:
+  readable_name: "Clothes Ino Takuma 1 Chestplate"
+  type: item
+  texture: clothes_ino_takuma_1_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_INO_TAKUMA_1_LEGGINGS:
+  readable_name: "Clothes Ino Takuma 1 Leggings"
+  type: item
+  texture: clothes_ino_takuma_1_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_INO_TAKUMA_1_BOOTS:
+  readable_name: "Clothes Ino Takuma 1 Boots"
+  type: item
+  texture: clothes_ino_takuma_1_boots
+  required_apis:
+    - jujutsucraft
+- CLOTHES_INO_TAKUMA_2_HELMET:
+  readable_name: "Clothes Ino Takuma 2 Helmet"
+  type: item
+  texture: clothes_ino_takuma_2_helmet
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_321_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 321 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_321_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_322_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 322 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_322_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_215_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 215 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_215_spawn_egg
+  required_apis:
+    - jujutsucraft
+- PISTOL:
+  readable_name: "Pistol"
+  type: item
+  texture: pistol
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_111_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 111 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_111_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_216_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 216 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_216_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ROZETSU_SHIKIGAMI_VESSEL_SPAWN_EGG:
+  readable_name: "Rozetsu Shikigami Vessel Spawn Egg"
+  type: item
+  texture: rozetsu_shikigami_vessel_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ROZETSU_SHIKIGAMI_VESSEL_2_SPAWN_EGG:
+  readable_name: "Rozetsu Shikigami Vessel 2 Spawn Egg"
+  type: item
+  texture: rozetsu_shikigami_vessel_2_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_04_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 04 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_04_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HEAD_JET_HELMET:
+  readable_name: "Head Jet Helmet"
+  type: item
+  texture: head_jet_helmet
+  required_apis:
+    - jujutsucraft
+- HEAD_PROPELLER_HELMET:
+  readable_name: "Head Propeller Helmet"
+  type: item
+  texture: head_propeller_helmet
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI_SPAWN_EGG:
+  readable_name: "Itadori Yuji Spawn Egg"
+  type: item
+  texture: itadori_yuji_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI_SHIBUYA_SPAWN_EGG:
+  readable_name: "Itadori Yuji Shibuya Spawn Egg"
+  type: item
+  texture: itadori_yuji_shibuya_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI_SHINJUKU_SPAWN_EGG:
+  readable_name: "Itadori Yuji Shinjuku Spawn Egg"
+  type: item
+  texture: itadori_yuji_shinjuku_spawn_egg
+  required_apis:
+    - jujutsucraft
+- FUSHIGURO_MEGUMI_SPAWN_EGG:
+  readable_name: "Fushiguro Megumi Spawn Egg"
+  type: item
+  texture: fushiguro_megumi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- FUSHIGURO_MEGUMI_SHIBUYA_SPAWN_EGG:
+  readable_name: "Fushiguro Megumi Shibuya Spawn Egg"
+  type: item
+  texture: fushiguro_megumi_shibuya_spawn_egg
+  required_apis:
+    - jujutsucraft
+- NOBARA_KUGISAKI_SPAWN_EGG:
+  readable_name: "Nobara Kugisaki Spawn Egg"
+  type: item
+  texture: nobara_kugisaki_spawn_egg
+  required_apis:
+    - jujutsucraft
+- INUMAKI_TOGE_SPAWN_EGG:
+  readable_name: "Inumaki Toge Spawn Egg"
+  type: item
+  texture: inumaki_toge_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_MAKI_SPAWN_EGG:
+  readable_name: "Zenin Maki Spawn Egg"
+  type: item
+  texture: zenin_maki_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_MAKI_CULLING_GAME_SPAWN_EGG:
+  readable_name: "Zenin Maki Culling Game Spawn Egg"
+  type: item
+  texture: zenin_maki_culling_game_spawn_egg
+  required_apis:
+    - jujutsucraft
+- OKKOTSU_YUTA_SPAWN_EGG:
+  readable_name: "Okkotsu Yuta Spawn Egg"
+  type: item
+  texture: okkotsu_yuta_spawn_egg
+  required_apis:
+    - jujutsucraft
+- OKKOTSU_YUTA_CULLING_GAME_SPAWN_EGG:
+  readable_name: "Okkotsu Yuta Culling Game Spawn Egg"
+  type: item
+  texture: okkotsu_yuta_culling_game_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HOSHI_KIRARA_SPAWN_EGG:
+  readable_name: "Hoshi Kirara Spawn Egg"
+  type: item
+  texture: hoshi_kirara_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HAKARI_KINJI_SPAWN_EGG:
+  readable_name: "Hakari Kinji Spawn Egg"
+  type: item
+  texture: hakari_kinji_spawn_egg
+  required_apis:
+    - jujutsucraft
+- YAGA_MASAMICHI_SPAWN_EGG:
+  readable_name: "Yaga Masamichi Spawn Egg"
+  type: item
+  texture: yaga_masamichi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KUSAKABE_ATSUYA_SPAWN_EGG:
+  readable_name: "Kusakabe Atsuya Spawn Egg"
+  type: item
+  texture: kusakabe_atsuya_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MIWA_KASUMI_SPAWN_EGG:
+  readable_name: "Miwa Kasumi Spawn Egg"
+  type: item
+  texture: miwa_kasumi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- NISHIMIYA_MOMO_SPAWN_EGG:
+  readable_name: "Nishimiya Momo Spawn Egg"
+  type: item
+  texture: nishimiya_momo_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KAMO_NORITOSHI_SPAWN_EGG:
+  readable_name: "Kamo Noritoshi Spawn Egg"
+  type: item
+  texture: kamo_noritoshi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MECHAMARU_SPAWN_EGG:
+  readable_name: "Mechamaru Spawn Egg"
+  type: item
+  texture: mechamaru_spawn_egg
+  required_apis:
+    - jujutsucraft
+- GETO_SUGURU_SPAWN_EGG:
+  readable_name: "Geto Suguru Spawn Egg"
+  type: item
+  texture: geto_suguru_spawn_egg
+  required_apis:
+    - jujutsucraft
+- GETO_SUGURU_CURSE_USER_SPAWN_EGG:
+  readable_name: "Geto Suguru Curse User Spawn Egg"
+  type: item
+  texture: geto_suguru_curse_user_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KENJAKU_SPAWN_EGG:
+  readable_name: "Kenjaku Spawn Egg"
+  type: item
+  texture: kenjaku_spawn_egg
+  required_apis:
+    - jujutsucraft
+- GOJO_SATORU_SCHOOL_DAYS_SPAWN_EGG:
+  readable_name: "Gojo Satoru School Days Spawn Egg"
+  type: item
+  texture: gojo_satoru_school_days_spawn_egg
+  required_apis:
+    - jujutsucraft
+- GOJO_SATORU_SPAWN_EGG:
+  readable_name: "Gojo Satoru Spawn Egg"
+  type: item
+  texture: gojo_satoru_spawn_egg
+  required_apis:
+    - jujutsucraft
+- JUJUTSU_SORCERER_SPAWN_EGG:
+  readable_name: "Jujutsu Sorcerer Spawn Egg"
+  type: item
+  texture: jujutsu_sorcerer_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MEI_MEI_SPAWN_EGG:
+  readable_name: "Mei Mei Spawn Egg"
+  type: item
+  texture: mei_mei_spawn_egg
+  required_apis:
+    - jujutsucraft
+- NANAMI_KENTO_SPAWN_EGG:
+  readable_name: "Nanami Kento Spawn Egg"
+  type: item
+  texture: nanami_kento_spawn_egg
+  required_apis:
+    - jujutsucraft
+- TSUKUMO_YUKI_SPAWN_EGG:
+  readable_name: "Tsukumo Yuki Spawn Egg"
+  type: item
+  texture: tsukumo_yuki_spawn_egg
+  required_apis:
+    - jujutsucraft
+- INO_TAKUMA_SPAWN_EGG:
+  readable_name: "Ino Takuma Spawn Egg"
+  type: item
+  texture: ino_takuma_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_NAOBITO_SPAWN_EGG:
+  readable_name: "Zenin Naobito Spawn Egg"
+  type: item
+  texture: zenin_naobito_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_NAOYA_SPAWN_EGG:
+  readable_name: "Zenin Naoya Spawn Egg"
+  type: item
+  texture: zenin_naoya_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_JINICHI_SPAWN_EGG:
+  readable_name: "Zenin Jinichi Spawn Egg"
+  type: item
+  texture: zenin_jinichi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_OGI_SPAWN_EGG:
+  readable_name: "Zenin Ogi Spawn Egg"
+  type: item
+  texture: zenin_ogi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- YOSHINO_JUNPEI_SPAWN_EGG:
+  readable_name: "Yoshino Junpei Spawn Egg"
+  type: item
+  texture: yoshino_junpei_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_RANTA_SPAWN_EGG:
+  readable_name: "Zenin Ranta Spawn Egg"
+  type: item
+  texture: zenin_ranta_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KUKURU_SPAWN_EGG:
+  readable_name: "Kukuru Spawn Egg"
+  type: item
+  texture: kukuru_spawn_egg
+  required_apis:
+    - jujutsucraft
+- FUSHIGURO_TOJI_SPAWN_EGG:
+  readable_name: "Fushiguro Toji Spawn Egg"
+  type: item
+  texture: fushiguro_toji_spawn_egg
+  required_apis:
+    - jujutsucraft
+- FUSHIGURO_TOJI_BUG_SPAWN_EGG:
+  readable_name: "Fushiguro Toji Bug Spawn Egg"
+  type: item
+  texture: fushiguro_toji_bug_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_01_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 01 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_01_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSE_USER_SPAWN_EGG:
+  readable_name: "Curse User Spawn Egg"
+  type: item
+  texture: curse_user_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSE_USER_1_SPAWN_EGG:
+  readable_name: "Curse User 1 Spawn Egg"
+  type: item
+  texture: curse_user_1_spawn_egg
+  required_apis:
+    - jujutsucraft
+- Q_SPAWN_EGG:
+  readable_name: "Q Spawn Egg"
+  type: item
+  texture: q_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MIMIKO_SPAWN_EGG:
+  readable_name: "Mimiko Spawn Egg"
+  type: item
+  texture: mimiko_spawn_egg
+  required_apis:
+    - jujutsucraft
+- NANAKO_SPAWN_EGG:
+  readable_name: "Nanako Spawn Egg"
+  type: item
+  texture: nanako_spawn_egg
+  required_apis:
+    - jujutsucraft
+- NEGI_TOSHIHISA_SPAWN_EGG:
+  readable_name: "Negi Toshihisa Spawn Egg"
+  type: item
+  texture: negi_toshihisa_spawn_egg
+  required_apis:
+    - jujutsucraft
+- LARUE_SPAWN_EGG:
+  readable_name: "Larue Spawn Egg"
+  type: item
+  texture: larue_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MIGUEL_SPAWN_EGG:
+  readable_name: "Miguel Spawn Egg"
+  type: item
+  texture: miguel_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KUMIYA_JUZO_SPAWN_EGG:
+  readable_name: "Kumiya Juzo Spawn Egg"
+  type: item
+  texture: kumiya_juzo_spawn_egg
+  required_apis:
+    - jujutsucraft
+- AWASAKA_JIRO_SPAWN_EGG:
+  readable_name: "Awasaka Jiro Spawn Egg"
+  type: item
+  texture: awasaka_jiro_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HANAMI_SPAWN_EGG:
+  readable_name: "Hanami Spawn Egg"
+  type: item
+  texture: hanami_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MAHITO_SPAWN_EGG:
+  readable_name: "Mahito Spawn Egg"
+  type: item
+  texture: mahito_spawn_egg
+  required_apis:
+    - jujutsucraft
+- URAUME_SPAWN_EGG:
+  readable_name: "Uraume Spawn Egg"
+  type: item
+  texture: uraume_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SUKUNA_SPAWN_EGG:
+  readable_name: "Sukuna Spawn Egg"
+  type: item
+  texture: sukuna_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SUKUNA_FUSHIGURO_SPAWN_EGG:
+  readable_name: "Sukuna Fushiguro Spawn Egg"
+  type: item
+  texture: sukuna_fushiguro_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SUKUNA_PERFECT_SPAWN_EGG:
+  readable_name: "Sukuna Perfect Spawn Egg"
+  type: item
+  texture: sukuna_perfect_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ESO_SPAWN_EGG:
+  readable_name: "Eso Spawn Egg"
+  type: item
+  texture: eso_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CHOSO_SPAWN_EGG:
+  readable_name: "Choso Spawn Egg"
+  type: item
+  texture: choso_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HABA_SPAWN_EGG:
+  readable_name: "Haba Spawn Egg"
+  type: item
+  texture: haba_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HANYU_SPAWN_EGG:
+  readable_name: "Hanyu Spawn Egg"
+  type: item
+  texture: hanyu_spawn_egg
+  required_apis:
+    - jujutsucraft
+- TAKABA_FUMIHIKO_SPAWN_EGG:
+  readable_name: "Takaba Fumihiko Spawn Egg"
+  type: item
+  texture: takaba_fumihiko_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HIGURUMA_HIROMI_SPAWN_EGG:
+  readable_name: "Higuruma Hiromi Spawn Egg"
+  type: item
+  texture: higuruma_hiromi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CHARLES_BERNARD_SPAWN_EGG:
+  readable_name: "Charles Bernard Spawn Egg"
+  type: item
+  texture: charles_bernard_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ISHIGORI_RYU_SPAWN_EGG:
+  readable_name: "Ishigori Ryu Spawn Egg"
+  type: item
+  texture: ishigori_ryu_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KASHIMO_HAJIME_SPAWN_EGG:
+  readable_name: "Kashimo Hajime Spawn Egg"
+  type: item
+  texture: kashimo_hajime_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KURUSU_HANA_SPAWN_EGG:
+  readable_name: "Kurusu Hana Spawn Egg"
+  type: item
+  texture: kurusu_hana_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HAZENOKI_SPAWN_EGG:
+  readable_name: "Hazenoki Spawn Egg"
+  type: item
+  texture: hazenoki_spawn_egg
+  required_apis:
+    - jujutsucraft
+- REGGIE_STAR_SPAWN_EGG:
+  readable_name: "Reggie Star Spawn Egg"
+  type: item
+  texture: reggie_star_spawn_egg
+  required_apis:
+    - jujutsucraft
+- DAIDO_HAGANE_SPAWN_EGG:
+  readable_name: "Daido Hagane Spawn Egg"
+  type: item
+  texture: daido_hagane_spawn_egg
+  required_apis:
+    - jujutsucraft
+- MIYO_ROKUJUSHI_SPAWN_EGG:
+  readable_name: "Miyo Rokujushi Spawn Egg"
+  type: item
+  texture: miyo_rokujushi_spawn_egg
+  required_apis:
+    - jujutsucraft
+- YOROZU_SPAWN_EGG:
+  readable_name: "Yorozu Spawn Egg"
+  type: item
+  texture: yorozu_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ROZETSU_SHIKIGAMI_SPAWN_EGG:
+  readable_name: "Rozetsu Shikigami Spawn Egg"
+  type: item
+  texture: rozetsu_shikigami_spawn_egg
+  required_apis:
+    - jujutsucraft
+- TRANSFIGURED_HUMAN_SPAWN_EGG:
+  readable_name: "Transfigured Human Spawn Egg"
+  type: item
+  texture: transfigured_human_spawn_egg
+  required_apis:
+    - jujutsucraft
+- POLYMORPHIC_SOUL_ISOMER_SPAWN_EGG:
+  readable_name: "Polymorphic Soul Isomer Spawn Egg"
+  type: item
+  texture: polymorphic_soul_isomer_spawn_egg
+  required_apis:
+    - jujutsucraft
+- HANAMI_EYE_HELMET:
+  readable_name: "Hanami Eye Helmet"
+  type: item
+  texture: hanami_eye_helmet
+  required_apis:
+    - jujutsucraft
+- MYTHICAL_BEAST_AMBER_HELMET:
+  readable_name: "Mythical Beast Amber Helmet"
+  type: item
+  texture: mythical_beast_amber_helmet
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI_PAPER_HELMET:
+  readable_name: "Itadori Yuji Paper Helmet"
+  type: item
+  texture: itadori_yuji_paper_helmet
+  required_apis:
+    - jujutsucraft
+- ZENIN_NAOYA_CURSED_SPIRIT_SPAWN_EGG:
+  readable_name: "Zenin Naoya Cursed Spirit Spawn Egg"
+  type: item
+  texture: zenin_naoya_cursed_spirit_spawn_egg
+  required_apis:
+    - jujutsucraft
+- DAGON_SPAWN_EGG:
+  readable_name: "Dagon Spawn Egg"
+  type: item
+  texture: dagon_spawn_egg
+  required_apis:
+    - jujutsucraft
+- SHIGEMO_HARUTA_SPAWN_EGG:
+  readable_name: "Shigemo Haruta Spawn Egg"
+  type: item
+  texture: shigemo_haruta_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ORCASAN_SPAWN_EGG:
+  readable_name: "Orcasan Spawn Egg"
+  type: item
+  texture: orcasan_spawn_egg
+  required_apis:
+    - jujutsucraft
+- PLAYFUL_CLOUD:
+  readable_name: "Playful Cloud"
+  type: item
+  texture: playful_cloud
+  required_apis:
+    - jujutsucraft
+- BLACK_ROPE:
+  readable_name: "Black Rope"
+  type: item
+  texture: black_rope
+  required_apis:
+    - jujutsucraft
+- MAHITO_HAND_1:
+  readable_name: "Mahito Hand 1"
+  type: item
+  texture: mahito_hand_1
+  required_apis:
+    - jujutsucraft
+- DEATH_PAINTING:
+  readable_name: "Death Painting"
+  type: item
+  texture: death_painting
+  required_apis:
+    - jujutsucraft
+- DIVINE_DOG_TOTALITY_SPAWN_EGG:
+  readable_name: "Divine Dog Totality Spawn Egg"
+  type: item
+  texture: divine_dog_totality_spawn_egg
+  required_apis:
+    - jujutsucraft
+- NUE_SPAWN_EGG:
+  readable_name: "Nue Spawn Egg"
+  type: item
+  texture: nue_spawn_egg
+  required_apis:
+    - jujutsucraft
+- TIGER_FUNERAL_SPAWN_EGG:
+  readable_name: "Tiger Funeral Spawn Egg"
+  type: item
+  texture: tiger_funeral_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_010_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 010 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_010_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CAR_SPAWN_EGG:
+  readable_name: "Car Spawn Egg"
+  type: item
+  texture: car_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_323_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 323 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_323_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_19_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 19 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_19_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_12_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 12 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_12_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_011_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 011 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_011_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_012_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 012 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_012_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_11_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 11 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_11_spawn_egg
+  required_apis:
+    - jujutsucraft
+- KITCHEN_KNIFE:
+  readable_name: "Kitchen Knife"
+  type: item
+  texture: kitchen_knife
+  required_apis:
+    - jujutsucraft
+- TOOTH:
+  readable_name: "Tooth"
+  type: item
+  texture: tooth
+  required_apis:
+    - jujutsucraft
+- EYE:
+  readable_name: "Eye"
+  type: item
+  texture: eye
+  required_apis:
+    - jujutsucraft
+- SUDA_MANAMI_SPAWN_EGG:
+  readable_name: "Suda Manami Spawn Egg"
+  type: item
+  texture: suda_manami_spawn_egg
+  required_apis:
+    - jujutsucraft
+- BAYER_SPAWN_EGG:
+  readable_name: "Bayer Spawn Egg"
+  type: item
+  texture: bayer_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_320_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 320 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_320_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ZENIN_NOBUAKI_SPAWN_EGG:
+  readable_name: "Zenin Nobuaki Spawn Egg"
+  type: item
+  texture: zenin_nobuaki_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ITEM_BULLET:
+  readable_name: "Item Bullet"
+  type: item
+  texture: item_bullet
+  required_apis:
+    - jujutsucraft
+- EIGHT_HANDLED_SWORD_DIVERGENT_SILA_DIVINE_GENERAL_MAHORAGA_SPAWN_EGG:
+  readable_name: "Eight Handled Sword Divergent Sila Divine General Mahoraga Spawn Egg"
+  type: item
+  texture: eight_handled_sword_divergent_sila_divine_general_mahoraga_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_217_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 217 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_217_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_013_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 013 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_013_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ENTITY_TSUCHIGUMO_SPAWN_EGG:
+  readable_name: "Entity Tsuchigumo Spawn Egg"
+  type: item
+  texture: entity_tsuchigumo_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_112_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 112 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_112_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_014_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 014 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_014_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_015_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 015 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_015_spawn_egg
+  required_apis:
+    - jujutsucraft
+- DAITENGU_FAN:
+  readable_name: "Daitengu Fan"
+  type: item
+  texture: daitengu_fan
+  required_apis:
+    - jujutsucraft
+- PROFESSION_CHANGER:
+  readable_name: "Profession Changer"
+  type: item
+  texture: profession_changer
+  required_apis:
+    - jujutsucraft
+- DEMOTION_1:
+  readable_name: "Demotion 1"
+  type: item
+  texture: demotion_1
+  required_apis:
+    - jujutsucraft
+- GAVEL_LONG:
+  readable_name: "Gavel Long"
+  type: item
+  texture: gavel_long
+  required_apis:
+    - jujutsucraft
+- GAVEL_BIG:
+  readable_name: "Gavel Big"
+  type: item
+  texture: gavel_big
+  required_apis:
+    - jujutsucraft
+- CONFISCATION:
+  readable_name: "Confiscation"
+  type: item
+  texture: confiscation
+  required_apis:
+    - jujutsucraft
+- DHRUV_LAKDAWALLA_SPAWN_EGG:
+  readable_name: "Dhruv Lakdawalla Spawn Egg"
+  type: item
+  texture: dhruv_lakdawalla_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_23_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 23 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_23_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_13_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 13 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_13_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_218_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 218 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_218_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CLOTHES_DABURA_KARABA_HELMET:
+  readable_name: "Clothes Dabura Karaba Helmet"
+  type: item
+  texture: clothes_dabura_karaba_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ITADORI_MODULO_HELMET:
+  readable_name: "Clothes Itadori Modulo Helmet"
+  type: item
+  texture: clothes_itadori_modulo_helmet
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ITADORI_MODULO_CHESTPLATE:
+  readable_name: "Clothes Itadori Modulo Chestplate"
+  type: item
+  texture: clothes_itadori_modulo_chestplate
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ITADORI_MODULO_LEGGINGS:
+  readable_name: "Clothes Itadori Modulo Leggings"
+  type: item
+  texture: clothes_itadori_modulo_leggings
+  required_apis:
+    - jujutsucraft
+- CLOTHES_ITADORI_MODULO_BOOTS:
+  readable_name: "Clothes Itadori Modulo Boots"
+  type: item
+  texture: clothes_itadori_modulo_boots
+  required_apis:
+    - jujutsucraft
+- YU_HAIBARA_SPAWN_EGG:
+  readable_name: "Yu Haibara Spawn Egg"
+  type: item
+  texture: yu_haibara_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_219_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 219 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_219_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_113_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 113 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_113_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_016_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 016 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_016_spawn_egg
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_017_SPAWN_EGG:
+  readable_name: "Cursed Spirit Grade 017 Spawn Egg"
+  type: item
+  texture: cursed_spirit_grade_017_spawn_egg
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI_MODULO_SPAWN_EGG:
+  readable_name: "Itadori Yuji Modulo Spawn Egg"
+  type: item
+  texture: itadori_yuji_modulo_spawn_egg
+  required_apis:
+    - jujutsucraft
+- DABURA_KARABA_SPAWN_EGG:
+  readable_name: "Dabura Karaba Spawn Egg"
+  type: item
+  texture: dabura_karaba_spawn_egg
+  required_apis:
+    - jujutsucraft

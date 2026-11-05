@@ -1,0 +1,98 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "caliber_radius",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "count",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "inaccuracy",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "speed",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "x",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "x1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "id",
+      "check": "String"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 35,
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_effect",
+    "toolbox_init": [
+      "<value name=\"caliber_radius\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+      "<value name=\"count\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+      "<value name=\"inaccuracy\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+      "<value name=\"speed\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+      "<value name=\"x\"><block type=\"coord_x\"></block></value>",
+      "<value name=\"x1\"><block type=\"coord_x\"></block></value>",
+      "<value name=\"y\"><block type=\"coord_y\"></block></value>",
+      "<value name=\"y1\"><block type=\"coord_y\"></block></value>",
+      "<value name=\"z\"><block type=\"coord_z\"></block></value>",
+      "<value name=\"z1\"><block type=\"coord_z\"></block></value>",
+      "<value name=\"id\"><block type=\"text\"><field name=\"TEXT\">particleID</field></block></value>"
+    ],
+    "inputs": [
+      "caliber_radius",
+      "count",
+      "inaccuracy",
+      "speed",
+      "x",
+      "x1",
+      "y",
+      "y1",
+      "z",
+      "z1",
+      "id"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  }
+}

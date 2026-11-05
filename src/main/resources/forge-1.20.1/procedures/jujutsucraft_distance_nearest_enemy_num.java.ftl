@@ -1,0 +1,1 @@
+(GetDistanceNearestEnemyProcedure.execute(world, ${input$entity}))

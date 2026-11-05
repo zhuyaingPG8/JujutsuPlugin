@@ -1,0 +1,15 @@
+- JUJUTSUPVP:
+  type: logic
+  required_apis:
+    - jujutsucraft
+  readable_name: "Jujutsu PVP"
+- JUJUTSUUPGRADEDIFFICULTY:
+  type: number
+  required_apis:
+    - jujutsucraft
+  readable_name: "Jujutsu Upgrade Difficulty"
+- JUJUTSU_GAIN_FAME:
+  type: logic
+  required_apis:
+    - jujutsucraft
+  readable_name: "Jujutsu Gain Fame"

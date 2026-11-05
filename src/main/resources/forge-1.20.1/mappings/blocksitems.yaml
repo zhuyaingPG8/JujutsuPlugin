@@ -1,0 +1,1275 @@
+JUJUTSU_BARRIER:
+  - JujutsucraftModBlocks.JUJUTSU_BARRIER.get()
+  - "jujutsucraft:jujutsu_barrier"
+COFFINOFTHE_IRONMOUNTAIN_1:
+  - JujutsucraftModBlocks.COFFINOFTHE_IRONMOUNTAIN_1.get()
+  - "jujutsucraft:coffinofthe_ironmountain_1"
+COFFINOFTHE_IRONMOUNTAIN_2:
+  - JujutsucraftModBlocks.COFFINOFTHE_IRONMOUNTAIN_2.get()
+  - "jujutsucraft:coffinofthe_ironmountain_2"
+BLOCK_GRAVEL:
+  - JujutsucraftModBlocks.BLOCK_GRAVEL.get()
+  - "jujutsucraft:block_gravel"
+BLOCK_UNIVERSE:
+  - JujutsucraftModBlocks.BLOCK_UNIVERSE.get()
+  - "jujutsucraft:block_universe"
+IN_BARRIER:
+  - JujutsucraftModBlocks.IN_BARRIER.get()
+  - "jujutsucraft:in_barrier"
+BLOCK_RED:
+  - JujutsucraftModBlocks.BLOCK_RED.get()
+  - "jujutsucraft:block_red"
+DOMAIN_GRASS:
+  - JujutsucraftModBlocks.DOMAIN_GRASS.get()
+  - "jujutsucraft:domain_grass"
+DOMAIN_SAND:
+  - JujutsucraftModBlocks.DOMAIN_SAND.get()
+  - "jujutsucraft:domain_sand"
+DOMAIN_WATER:
+  - JujutsucraftModBlocks.DOMAIN_WATER.get()
+  - "jujutsucraft:domain_water"
+DOMAIN_BONE:
+  - JujutsucraftModBlocks.DOMAIN_BONE.get()
+  - "jujutsucraft:domain_bone"
+SCHOOL_BELL:
+  - JujutsucraftModBlocks.SCHOOL_BELL.get()
+  - "jujutsucraft:school_bell"
+DOMAIN_FLOWER:
+  - JujutsucraftModBlocks.DOMAIN_FLOWER.get()
+  - "jujutsucraft:domain_flower"
+DOMAIN_BLUE_SKY:
+  - JujutsucraftModBlocks.DOMAIN_BLUE_SKY.get()
+  - "jujutsucraft:domain_blue_sky"
+DOMAIN_CLOUD:
+  - JujutsucraftModBlocks.DOMAIN_CLOUD.get()
+  - "jujutsucraft:domain_cloud"
+DOMAIN_STONE_BRICKS:
+  - JujutsucraftModBlocks.DOMAIN_STONE_BRICKS.get()
+  - "jujutsucraft:domain_stone_bricks"
+CURSED_BLOCK:
+  - JujutsucraftModBlocks.CURSED_BLOCK.get()
+  - "jujutsucraft:cursed_block"
+DOMAIN_ICE:
+  - JujutsucraftModBlocks.DOMAIN_ICE.get()
+  - "jujutsucraft:domain_ice"
+DOMAIN_BLOOD:
+  - JujutsucraftModBlocks.DOMAIN_BLOOD.get()
+  - "jujutsucraft:domain_blood"
+DOMAIN_PLANKS:
+  - JujutsucraftModBlocks.DOMAIN_PLANKS.get()
+  - "jujutsucraft:domain_planks"
+DOMAIN_PODZOL:
+  - JujutsucraftModBlocks.DOMAIN_PODZOL.get()
+  - "jujutsucraft:domain_podzol"
+DOMAIN_WHITE:
+  - JujutsucraftModBlocks.DOMAIN_WHITE.get()
+  - "jujutsucraft:domain_white"
+DOMAIN:
+  - JujutsucraftModBlocks.DOMAIN.get()
+  - "jujutsucraft:domain"
+DOMAIN_DARK_STONE:
+  - JujutsucraftModBlocks.DOMAIN_DARK_STONE.get()
+  - "jujutsucraft:domain_dark_stone"
+DOMAIN_FENCE:
+  - JujutsucraftModBlocks.DOMAIN_FENCE.get()
+  - "jujutsucraft:domain_fence"
+DOMAIN_HOLE:
+  - JujutsucraftModBlocks.DOMAIN_HOLE.get()
+  - "jujutsucraft:domain_hole"
+DOMAIN_SAND_BLACK:
+  - JujutsucraftModBlocks.DOMAIN_SAND_BLACK.get()
+  - "jujutsucraft:domain_sand_black"
+CURSED_TECHNIQUE_CHANGER:
+  - JujutsucraftModItems.CURSED_TECHNIQUE_CHANGER.get()
+  - "jujutsucraft:cursed_technique_changer"
+CURSED_SPIRIT_GRADE_31_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_31_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_31_spawn_egg"
+CURSED_SPIRIT_GRADE_32_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_32_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_32_spawn_egg"
+UNIFORM_NORMAL_HELMET:
+  - JujutsucraftModItems.UNIFORM_NORMAL_HELMET.get()
+  - "jujutsucraft:uniform_normal_helmet"
+UNIFORM_NORMAL_CHESTPLATE:
+  - JujutsucraftModItems.UNIFORM_NORMAL_CHESTPLATE.get()
+  - "jujutsucraft:uniform_normal_chestplate"
+UNIFORM_NORMAL_LEGGINGS:
+  - JujutsucraftModItems.UNIFORM_NORMAL_LEGGINGS.get()
+  - "jujutsucraft:uniform_normal_leggings"
+UNIFORM_NORMAL_BOOTS:
+  - JujutsucraftModItems.UNIFORM_NORMAL_BOOTS.get()
+  - "jujutsucraft:uniform_normal_boots"
+CURSED_SPIRIT_GRADE_33_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_33_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_33_spawn_egg"
+JOGO_HEAD_SPAWN_EGG:
+  - JujutsucraftModItems.JOGO_HEAD_SPAWN_EGG.get()
+  - "jujutsucraft:jogo_head_spawn_egg"
+SOCCER_PLAYER_SPAWN_EGG:
+  - JujutsucraftModItems.SOCCER_PLAYER_SPAWN_EGG.get()
+  - "jujutsucraft:soccer_player_spawn_egg"
+JOGO_ASH_SPAWN_EGG:
+  - JujutsucraftModItems.JOGO_ASH_SPAWN_EGG.get()
+  - "jujutsucraft:jogo_ash_spawn_egg"
+DEBUGGER_JR:
+  - JujutsucraftModItems.DEBUGGER_JR.get()
+  - "jujutsucraft:debugger_jr"
+SLAUGHTER_DEMON:
+  - JujutsucraftModItems.SLAUGHTER_DEMON.get()
+  - "jujutsucraft:slaughter_demon"
+INVERTED_SPEAR_OF_HEAVEN:
+  - JujutsucraftModItems.INVERTED_SPEAR_OF_HEAVEN.get()
+  - "jujutsucraft:inverted_spear_of_heaven"
+STEVENSON_SCREEN_SPAWN_EGG:
+  - JujutsucraftModItems.STEVENSON_SCREEN_SPAWN_EGG.get()
+  - "jujutsucraft:stevenson_screen_spawn_egg"
+SWORD_OKKOTSU_YUTA:
+  - JujutsucraftModItems.SWORD_OKKOTSU_YUTA.get()
+  - "jujutsucraft:sword_okkotsu_yuta"
+LOUDSPEAKER:
+  - JujutsucraftModItems.LOUDSPEAKER.get()
+  - "jujutsucraft:loudspeaker"
+SWORD_BLACK:
+  - JujutsucraftModItems.SWORD_BLACK.get()
+  - "jujutsucraft:sword_black"
+DIVINE_DOG_WHITE_SPAWN_EGG:
+  - JujutsucraftModItems.DIVINE_DOG_WHITE_SPAWN_EGG.get()
+  - "jujutsucraft:divine_dog_white_spawn_egg"
+DIVINE_DOG_BLACK_SPAWN_EGG:
+  - JujutsucraftModItems.DIVINE_DOG_BLACK_SPAWN_EGG.get()
+  - "jujutsucraft:divine_dog_black_spawn_egg"
+UNIFORM_OKKOTSU_CHESTPLATE:
+  - JujutsucraftModItems.UNIFORM_OKKOTSU_CHESTPLATE.get()
+  - "jujutsucraft:uniform_okkotsu_chestplate"
+HAIR_FUSHIGURO_MEGUMI_HELMET:
+  - JujutsucraftModItems.HAIR_FUSHIGURO_MEGUMI_HELMET.get()
+  - "jujutsucraft:hair_fushiguro_megumi_helmet"
+GREAT_SERPENT_SPAWN_EGG:
+  - JujutsucraftModItems.GREAT_SERPENT_SPAWN_EGG.get()
+  - "jujutsucraft:great_serpent_spawn_egg"
+MAX_ELEPHANT_SPAWN_EGG:
+  - JujutsucraftModItems.MAX_ELEPHANT_SPAWN_EGG.get()
+  - "jujutsucraft:max_elephant_spawn_egg"
+MAHORAGA_DOG_SPAWN_EGG:
+  - JujutsucraftModItems.MAHORAGA_DOG_SPAWN_EGG.get()
+  - "jujutsucraft:mahoraga_dog_spawn_egg"
+MAHORAGA_FROG_SPAWN_EGG:
+  - JujutsucraftModItems.MAHORAGA_FROG_SPAWN_EGG.get()
+  - "jujutsucraft:mahoraga_frog_spawn_egg"
+SWORD_OF_EXTERMINATION:
+  - JujutsucraftModItems.SWORD_OF_EXTERMINATION.get()
+  - "jujutsucraft:sword_of_extermination"
+RABBIT_ESCAPE_SPAWN_EGG:
+  - JujutsucraftModItems.RABBIT_ESCAPE_SPAWN_EGG.get()
+  - "jujutsucraft:rabbit_escape_spawn_egg"
+MAHORAGA_WHEEL_HELMET:
+  - JujutsucraftModItems.MAHORAGA_WHEEL_HELMET.get()
+  - "jujutsucraft:mahoraga_wheel_helmet"
+CURSED_SPIRIT_GRADE_34_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_34_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_34_spawn_egg"
+CURSED_SPIRIT_GRADE_35_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_35_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_35_spawn_egg"
+CURSED_SPIRIT_ARMOURY_CHESTPLATE:
+  - JujutsucraftModItems.CURSED_SPIRIT_ARMOURY_CHESTPLATE.get()
+  - "jujutsucraft:cursed_spirit_armoury_chestplate"
+GLASSES_MAKI_HELMET:
+  - JujutsucraftModItems.GLASSES_MAKI_HELMET.get()
+  - "jujutsucraft:glasses_maki_helmet"
+GLASSES_MAKI_CHESTPLATE:
+  - JujutsucraftModItems.GLASSES_MAKI_CHESTPLATE.get()
+  - "jujutsucraft:glasses_maki_chestplate"
+GLASSES_MAKI_LEGGINGS:
+  - JujutsucraftModItems.GLASSES_MAKI_LEGGINGS.get()
+  - "jujutsucraft:glasses_maki_leggings"
+NAGINATA:
+  - JujutsucraftModItems.NAGINATA.get()
+  - "jujutsucraft:naginata"
+UNIFORM_GOJO_HELMET:
+  - JujutsucraftModItems.UNIFORM_GOJO_HELMET.get()
+  - "jujutsucraft:uniform_gojo_helmet"
+UNIFORM_GOJO_CHESTPLATE:
+  - JujutsucraftModItems.UNIFORM_GOJO_CHESTPLATE.get()
+  - "jujutsucraft:uniform_gojo_chestplate"
+UNIFORM_GOJO_LEGGINGS:
+  - JujutsucraftModItems.UNIFORM_GOJO_LEGGINGS.get()
+  - "jujutsucraft:uniform_gojo_leggings"
+UNIFORM_GOJO_BOOTS:
+  - JujutsucraftModItems.UNIFORM_GOJO_BOOTS.get()
+  - "jujutsucraft:uniform_gojo_boots"
+BLINDFOLD_BANDAGE_HELMET:
+  - JujutsucraftModItems.BLINDFOLD_BANDAGE_HELMET.get()
+  - "jujutsucraft:blindfold_bandage_helmet"
+SUNGLASSES_HELMET:
+  - JujutsucraftModItems.SUNGLASSES_HELMET.get()
+  - "jujutsucraft:sunglasses_helmet"
+ITEM_MASTER_PHYSICAL_GIFTED:
+  - JujutsucraftModItems.ITEM_MASTER_PHYSICAL_GIFTED.get()
+  - "jujutsucraft:item_master_physical_gifted"
+ITEM_MASTER_SIX_EYES:
+  - JujutsucraftModItems.ITEM_MASTER_SIX_EYES.get()
+  - "jujutsucraft:item_master_six_eyes"
+WEAPON_NANAMI:
+  - JujutsucraftModItems.WEAPON_NANAMI.get()
+  - "jujutsucraft:weapon_nanami"
+NYOI_STAFF:
+  - JujutsucraftModItems.NYOI_STAFF.get()
+  - "jujutsucraft:nyoi_staff"
+CURSED_SPIRIT_GRADE_36_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_36_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_36_spawn_egg"
+CLOTHES_FUSHIGURO_TOJI_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_FUSHIGURO_TOJI_CHESTPLATE.get()
+  - "jujutsucraft:clothes_fushiguro_toji_chestplate"
+CLOTHES_FUSHIGURO_TOJI_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_FUSHIGURO_TOJI_LEGGINGS.get()
+  - "jujutsucraft:clothes_fushiguro_toji_leggings"
+CLOTHES_ZENIN_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_ZENIN_CHESTPLATE.get()
+  - "jujutsucraft:clothes_zenin_chestplate"
+CLOTHES_ZENIN_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_ZENIN_LEGGINGS.get()
+  - "jujutsucraft:clothes_zenin_leggings"
+CLOTHES_ZENIN_BOOTS:
+  - JujutsucraftModItems.CLOTHES_ZENIN_BOOTS.get()
+  - "jujutsucraft:clothes_zenin_boots"
+CLOTHES_KASHIMO_HAJIME_HELMET:
+  - JujutsucraftModItems.CLOTHES_KASHIMO_HAJIME_HELMET.get()
+  - "jujutsucraft:clothes_kashimo_hajime_helmet"
+CLOTHES_KASHIMO_HAJIME_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_KASHIMO_HAJIME_CHESTPLATE.get()
+  - "jujutsucraft:clothes_kashimo_hajime_chestplate"
+CLOTHES_KASHIMO_HAJIME_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_KASHIMO_HAJIME_LEGGINGS.get()
+  - "jujutsucraft:clothes_kashimo_hajime_leggings"
+CLOTHES_KASHIMO_HAJIME_BOOTS:
+  - JujutsucraftModItems.CLOTHES_KASHIMO_HAJIME_BOOTS.get()
+  - "jujutsucraft:clothes_kashimo_hajime_boots"
+MEI_MEI_AXE:
+  - JujutsucraftModItems.MEI_MEI_AXE.get()
+  - "jujutsucraft:mei_mei_axe"
+SPLIT_SOUL_KATANA:
+  - JujutsucraftModItems.SPLIT_SOUL_KATANA.get()
+  - "jujutsucraft:split_soul_katana"
+KECHIZU_SPAWN_EGG:
+  - JujutsucraftModItems.KECHIZU_SPAWN_EGG.get()
+  - "jujutsucraft:kechizu_spawn_egg"
+BLAZING_COURAGE:
+  - JujutsucraftModItems.BLAZING_COURAGE.get()
+  - "jujutsucraft:blazing_courage"
+SWORD_OGI:
+  - JujutsucraftModItems.SWORD_OGI.get()
+  - "jujutsucraft:sword_ogi"
+CURSED_SPIRIT_GRADE_37_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_37_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_37_spawn_egg"
+RECOMMENDATION_1:
+  - JujutsucraftModItems.RECOMMENDATION_1.get()
+  - "jujutsucraft:recommendation_1"
+WING_KING_CHESTPLATE:
+  - JujutsucraftModItems.WING_KING_CHESTPLATE.get()
+  - "jujutsucraft:wing_king_chestplate"
+CROW_SPAWN_EGG:
+  - JujutsucraftModItems.CROW_SPAWN_EGG.get()
+  - "jujutsucraft:crow_spawn_egg"
+CURSED_SPIRIT_GRADE_311_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_311_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_311_spawn_egg"
+CURSED_SPIRIT_GRADE_38_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_38_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_38_spawn_egg"
+CURSED_SPIRIT_GRADE_39_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_39_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_39_spawn_egg"
+CURSED_SPIRIT_GRADE_310_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_310_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_310_spawn_egg"
+SWORD_MIWA_KASUMI:
+  - JujutsucraftModItems.SWORD_MIWA_KASUMI.get()
+  - "jujutsucraft:sword_miwa_kasumi"
+MUSCULAR_BODY_CHESTPLATE:
+  - JujutsucraftModItems.MUSCULAR_BODY_CHESTPLATE.get()
+  - "jujutsucraft:muscular_body_chestplate"
+CLOTHES_TODO_AOI_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_TODO_AOI_LEGGINGS.get()
+  - "jujutsucraft:clothes_todo_aoi_leggings"
+PENDANT_TODO_AOI:
+  - JujutsucraftModItems.PENDANT_TODO_AOI.get()
+  - "jujutsucraft:pendant_todo_aoi"
+CLOTHES_ZENIN_2_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_ZENIN_2_CHESTPLATE.get()
+  - "jujutsucraft:clothes_zenin_2_chestplate"
+CLOTHES_ZENIN_2_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_ZENIN_2_LEGGINGS.get()
+  - "jujutsucraft:clothes_zenin_2_leggings"
+CLOTHES_ISHIGORI_HELMET:
+  - JujutsucraftModItems.CLOTHES_ISHIGORI_HELMET.get()
+  - "jujutsucraft:clothes_ishigori_helmet"
+CLOTHES_ISHIGORI_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_ISHIGORI_CHESTPLATE.get()
+  - "jujutsucraft:clothes_ishigori_chestplate"
+CLOTHES_ISHIGORI_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_ISHIGORI_LEGGINGS.get()
+  - "jujutsucraft:clothes_ishigori_leggings"
+TOAD_2_SPAWN_EGG:
+  - JujutsucraftModItems.TOAD_2_SPAWN_EGG.get()
+  - "jujutsucraft:toad_2_spawn_egg"
+ITEM_MASTER_DOMAIN_EXPANSION:
+  - JujutsucraftModItems.ITEM_MASTER_DOMAIN_EXPANSION.get()
+  - "jujutsucraft:item_master_domain_expansion"
+RECOMMENDATION_2:
+  - JujutsucraftModItems.RECOMMENDATION_2.get()
+  - "jujutsucraft:recommendation_2"
+ITEM_MASTER_SIMPLE_DOMAIN:
+  - JujutsucraftModItems.ITEM_MASTER_SIMPLE_DOMAIN.get()
+  - "jujutsucraft:item_master_simple_domain"
+ITEM_MASTER_REVERSE_CURSED_TECHNIQUE:
+  - JujutsucraftModItems.ITEM_MASTER_REVERSE_CURSED_TECHNIQUE.get()
+  - "jujutsucraft:item_master_reverse_cursed_technique"
+MAHITO_HAND_2:
+  - JujutsucraftModItems.MAHITO_HAND_2.get()
+  - "jujutsucraft:mahito_hand_2"
+HANAMI_HAND:
+  - JujutsucraftModItems.HANAMI_HAND.get()
+  - "jujutsucraft:hanami_hand"
+ITEM_INSECT:
+  - JujutsucraftModItems.ITEM_INSECT.get()
+  - "jujutsucraft:item_insect"
+SUKUNA_BODY_CHESTPLATE:
+  - JujutsucraftModItems.SUKUNA_BODY_CHESTPLATE.get()
+  - "jujutsucraft:sukuna_body_chestplate"
+SUPREME_MARTIAL_SOLUTION:
+  - JujutsucraftModItems.SUPREME_MARTIAL_SOLUTION.get()
+  - "jujutsucraft:supreme_martial_solution"
+HITEN:
+  - JujutsucraftModItems.HITEN.get()
+  - "jujutsucraft:hiten"
+PIERCING_OX_SPAWN_EGG:
+  - JujutsucraftModItems.PIERCING_OX_SPAWN_EGG.get()
+  - "jujutsucraft:piercing_ox_spawn_egg"
+ROUND_DEER_SPAWN_EGG:
+  - JujutsucraftModItems.ROUND_DEER_SPAWN_EGG.get()
+  - "jujutsucraft:round_deer_spawn_egg"
+COSTUME_TAKABA_HELMET:
+  - JujutsucraftModItems.COSTUME_TAKABA_HELMET.get()
+  - "jujutsucraft:costume_takaba_helmet"
+COSTUME_TAKABA_CHESTPLATE:
+  - JujutsucraftModItems.COSTUME_TAKABA_CHESTPLATE.get()
+  - "jujutsucraft:costume_takaba_chestplate"
+COSTUME_TAKABA_LEGGINGS:
+  - JujutsucraftModItems.COSTUME_TAKABA_LEGGINGS.get()
+  - "jujutsucraft:costume_takaba_leggings"
+COSTUME_TAKABA_BOOTS:
+  - JujutsucraftModItems.COSTUME_TAKABA_BOOTS.get()
+  - "jujutsucraft:costume_takaba_boots"
+HARISEN:
+  - JujutsucraftModItems.HARISEN.get()
+  - "jujutsucraft:harisen"
+UNIFORM_GETO_LEGGINGS:
+  - JujutsucraftModItems.UNIFORM_GETO_LEGGINGS.get()
+  - "jujutsucraft:uniform_geto_leggings"
+CLOTHES_GETO_HELMET:
+  - JujutsucraftModItems.CLOTHES_GETO_HELMET.get()
+  - "jujutsucraft:clothes_geto_helmet"
+CLOTHES_GETO_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_GETO_CHESTPLATE.get()
+  - "jujutsucraft:clothes_geto_chestplate"
+CLOTHES_GETO_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_GETO_LEGGINGS.get()
+  - "jujutsucraft:clothes_geto_leggings"
+CLOTHES_GETO_BOOTS:
+  - JujutsucraftModItems.CLOTHES_GETO_BOOTS.get()
+  - "jujutsucraft:clothes_geto_boots"
+CURSED_SPIRIT_BALL:
+  - JujutsucraftModItems.CURSED_SPIRIT_BALL.get()
+  - "jujutsucraft:cursed_spirit_ball"
+CLOTHES_DECISIVE_BATTLE_HELMET:
+  - JujutsucraftModItems.CLOTHES_DECISIVE_BATTLE_HELMET.get()
+  - "jujutsucraft:clothes_decisive_battle_helmet"
+CLOTHES_DECISIVE_BATTLE_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_DECISIVE_BATTLE_CHESTPLATE.get()
+  - "jujutsucraft:clothes_decisive_battle_chestplate"
+CLOTHES_DECISIVE_BATTLE_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_DECISIVE_BATTLE_LEGGINGS.get()
+  - "jujutsucraft:clothes_decisive_battle_leggings"
+CURSED_SPIRIT_GRADE_312_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_312_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_312_spawn_egg"
+KUROURUSHI_BODY_HELMET:
+  - JujutsucraftModItems.KUROURUSHI_BODY_HELMET.get()
+  - "jujutsucraft:kurourushi_body_helmet"
+KUROURUSHI_BODY_CHESTPLATE:
+  - JujutsucraftModItems.KUROURUSHI_BODY_CHESTPLATE.get()
+  - "jujutsucraft:kurourushi_body_chestplate"
+KUROURUSHI_BODY_LEGGINGS:
+  - JujutsucraftModItems.KUROURUSHI_BODY_LEGGINGS.get()
+  - "jujutsucraft:kurourushi_body_leggings"
+FESTER_LIFE_BLADE:
+  - JujutsucraftModItems.FESTER_LIFE_BLADE.get()
+  - "jujutsucraft:fester_life_blade"
+NAOYA_CURSED_SPIRIT_BODY_CHESTPLATE:
+  - JujutsucraftModItems.NAOYA_CURSED_SPIRIT_BODY_CHESTPLATE.get()
+  - "jujutsucraft:naoya_cursed_spirit_body_chestplate"
+MAHORAGA_BODY_HELMET:
+  - JujutsucraftModItems.MAHORAGA_BODY_HELMET.get()
+  - "jujutsucraft:mahoraga_body_helmet"
+MAHORAGA_BODY_CHESTPLATE:
+  - JujutsucraftModItems.MAHORAGA_BODY_CHESTPLATE.get()
+  - "jujutsucraft:mahoraga_body_chestplate"
+MAHORAGA_BODY_LEGGINGS:
+  - JujutsucraftModItems.MAHORAGA_BODY_LEGGINGS.get()
+  - "jujutsucraft:mahoraga_body_leggings"
+GARUDA_SPAWN_EGG:
+  - JujutsucraftModItems.GARUDA_SPAWN_EGG.get()
+  - "jujutsucraft:garuda_spawn_egg"
+GARUDA_ITEM:
+  - JujutsucraftModItems.GARUDA_ITEM.get()
+  - "jujutsucraft:garuda_item"
+GARUDA_BALL_SPAWN_EGG:
+  - JujutsucraftModItems.GARUDA_BALL_SPAWN_EGG.get()
+  - "jujutsucraft:garuda_ball_spawn_egg"
+GARUDA_ITEM_BALL:
+  - JujutsucraftModItems.GARUDA_ITEM_BALL.get()
+  - "jujutsucraft:garuda_item_ball"
+RIKA_BODY_HELMET:
+  - JujutsucraftModItems.RIKA_BODY_HELMET.get()
+  - "jujutsucraft:rika_body_helmet"
+RIKA_BODY_CHESTPLATE:
+  - JujutsucraftModItems.RIKA_BODY_CHESTPLATE.get()
+  - "jujutsucraft:rika_body_chestplate"
+CURSED_TECHNIQUE_STARTER:
+  - JujutsucraftModItems.CURSED_TECHNIQUE_STARTER.get()
+  - "jujutsucraft:cursed_technique_starter"
+HUMAN_STOCK:
+  - JujutsucraftModItems.HUMAN_STOCK.get()
+  - "jujutsucraft:human_stock"
+HUMAN_CAR_SPAWN_EGG:
+  - JujutsucraftModItems.HUMAN_CAR_SPAWN_EGG.get()
+  - "jujutsucraft:human_car_spawn_egg"
+HUMAN_STOCK_CAR:
+  - JujutsucraftModItems.HUMAN_STOCK_CAR.get()
+  - "jujutsucraft:human_stock_car"
+SUKUNA_FINGER:
+  - JujutsucraftModItems.SUKUNA_FINGER.get()
+  - "jujutsucraft:sukuna_finger"
+ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_HELMET:
+  - JujutsucraftModItems.ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_HELMET.get()
+  - "jujutsucraft:armor_instant_spirit_bodyof_distorted_killing_helmet"
+ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_CHESTPLATE:
+  - JujutsucraftModItems.ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_CHESTPLATE.get()
+  - "jujutsucraft:armor_instant_spirit_bodyof_distorted_killing_chestplate"
+ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_LEGGINGS:
+  - JujutsucraftModItems.ARMOR_INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_LEGGINGS.get()
+  - "jujutsucraft:armor_instant_spirit_bodyof_distorted_killing_leggings"
+BULLET_FLAME:
+  - JujutsucraftModItems.BULLET_FLAME.get()
+  - "jujutsucraft:bullet_flame"
+DRAGON_BONE:
+  - JujutsucraftModItems.DRAGON_BONE.get()
+  - "jujutsucraft:dragon_bone"
+CURSED_SPIRIT_GRADE_24_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_24_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_24_spawn_egg"
+CURSED_SPIRIT_GRADE_14_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_14_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_14_spawn_egg"
+COCKROACHES_SPAWN_EGG:
+  - JujutsucraftModItems.COCKROACHES_SPAWN_EGG.get()
+  - "jujutsucraft:cockroaches_spawn_egg"
+KILLER_1_SPAWN_EGG:
+  - JujutsucraftModItems.KILLER_1_SPAWN_EGG.get()
+  - "jujutsucraft:killer_1_spawn_egg"
+JOGO_SPAWN_EGG:
+  - JujutsucraftModItems.JOGO_SPAWN_EGG.get()
+  - "jujutsucraft:jogo_spawn_egg"
+CURSED_SPIRIT_GRADE_15_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_15_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_15_spawn_egg"
+CURSED_SPIRIT_GRADE_22_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_22_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_22_spawn_egg"
+TAKADA_SPAWN_EGG:
+  - JujutsucraftModItems.TAKADA_SPAWN_EGG.get()
+  - "jujutsucraft:takada_spawn_egg"
+CLOTHES_URAUME_HELMET:
+  - JujutsucraftModItems.CLOTHES_URAUME_HELMET.get()
+  - "jujutsucraft:clothes_uraume_helmet"
+CLOTHES_URAUME_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_URAUME_CHESTPLATE.get()
+  - "jujutsucraft:clothes_uraume_chestplate"
+CLOTHES_URAUME_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_URAUME_LEGGINGS.get()
+  - "jujutsucraft:clothes_uraume_leggings"
+CLOTHES_URAUME_BOOTS:
+  - JujutsucraftModItems.CLOTHES_URAUME_BOOTS.get()
+  - "jujutsucraft:clothes_uraume_boots"
+GAVEL:
+  - JujutsucraftModItems.GAVEL.get()
+  - "jujutsucraft:gavel"
+UNIFORM_ITADORI_CHESTPLATE:
+  - JujutsucraftModItems.UNIFORM_ITADORI_CHESTPLATE.get()
+  - "jujutsucraft:uniform_itadori_chestplate"
+UNIFORM_ITADORI_LEGGINGS:
+  - JujutsucraftModItems.UNIFORM_ITADORI_LEGGINGS.get()
+  - "jujutsucraft:uniform_itadori_leggings"
+CURSED_SPIRIT_GRADE_25_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_25_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_25_spawn_egg"
+CURSED_SPIRIT_GRADE_02_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_02_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_02_spawn_egg"
+CURSED_SPIRIT_GRADE_03_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_03_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_03_spawn_egg"
+CURSED_SPIRIT_GRADE_05_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_05_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_05_spawn_egg"
+CURSED_SPIRIT_GRADE_16_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_16_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_16_spawn_egg"
+BATHYNOMUS_GIGANTEUS_SPAWN_EGG:
+  - JujutsucraftModItems.BATHYNOMUS_GIGANTEUS_SPAWN_EGG.get()
+  - "jujutsucraft:bathynomus_giganteus_spawn_egg"
+ITEM_MASTER_FALLING_BLOSSOM_EMOTION:
+  - JujutsucraftModItems.ITEM_MASTER_FALLING_BLOSSOM_EMOTION.get()
+  - "jujutsucraft:item_master_falling_blossom_emotion"
+MERGED_BEAST_AGITO_SPAWN_EGG:
+  - JujutsucraftModItems.MERGED_BEAST_AGITO_SPAWN_EGG.get()
+  - "jujutsucraft:merged_beast_agito_spawn_egg"
+SICKLE:
+  - JujutsucraftModItems.SICKLE.get()
+  - "jujutsucraft:sickle"
+CURSED_SPIRIT_GRADE_313_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_313_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_313_spawn_egg"
+CURSED_SPIRIT_GRADE_314_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_314_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_314_spawn_egg"
+CURSED_SPIRIT_GRADE_315_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_315_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_315_spawn_egg"
+CURSED_SPIRIT_GRADE_316_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_316_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_316_spawn_egg"
+CURSED_SPIRIT_GRADE_317_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_317_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_317_spawn_egg"
+CURSED_SPIRIT_GRADE_318_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_318_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_318_spawn_egg"
+CURSED_SPIRIT_GRADE_26_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_26_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_26_spawn_egg"
+CURSED_SPIRIT_GRADE_27_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_27_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_27_spawn_egg"
+CURSED_SPIRIT_GRADE_28_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_28_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_28_spawn_egg"
+CURSED_SPIRIT_GRADE_29_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_29_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_29_spawn_egg"
+CURSED_SPIRIT_GRADE_21_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_21_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_21_spawn_egg"
+CLOTHES_NANAMI_HELMET:
+  - JujutsucraftModItems.CLOTHES_NANAMI_HELMET.get()
+  - "jujutsucraft:clothes_nanami_helmet"
+CLOTHES_NANAMI_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_NANAMI_CHESTPLATE.get()
+  - "jujutsucraft:clothes_nanami_chestplate"
+CLOTHES_NANAMI_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_NANAMI_LEGGINGS.get()
+  - "jujutsucraft:clothes_nanami_leggings"
+CLOTHES_SUKUNA_FUSHIGURO_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_SUKUNA_FUSHIGURO_CHESTPLATE.get()
+  - "jujutsucraft:clothes_sukuna_fushiguro_chestplate"
+CLOTHES_ZENIN_NAOBITO_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_ZENIN_NAOBITO_CHESTPLATE.get()
+  - "jujutsucraft:clothes_zenin_naobito_chestplate"
+CLOTHES_CHOSO_HELMET:
+  - JujutsucraftModItems.CLOTHES_CHOSO_HELMET.get()
+  - "jujutsucraft:clothes_choso_helmet"
+CLOTHES_CHOSO_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_CHOSO_CHESTPLATE.get()
+  - "jujutsucraft:clothes_choso_chestplate"
+CLOTHES_JOGO_HELMET:
+  - JujutsucraftModItems.CLOTHES_JOGO_HELMET.get()
+  - "jujutsucraft:clothes_jogo_helmet"
+CLOTHES_JOGO_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_JOGO_CHESTPLATE.get()
+  - "jujutsucraft:clothes_jogo_chestplate"
+CLAWS:
+  - JujutsucraftModItems.CLAWS.get()
+  - "jujutsucraft:claws"
+CURSED_SPIRIT_GRADE_17_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_17_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_17_spawn_egg"
+CURSED_SPIRIT_GRADE_18_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_18_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_18_spawn_egg"
+SCISSORS:
+  - JujutsucraftModItems.SCISSORS.get()
+  - "jujutsucraft:scissors"
+CURSED_SPIRIT_GRADE_06_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_06_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_06_spawn_egg"
+CURSED_SPIRIT_GRADE_07_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_07_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_07_spawn_egg"
+CURSED_SPIRIT_GRADE_08_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_08_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_08_spawn_egg"
+COPIED_CURSED_TECHNIQUE:
+  - JujutsucraftModItems.COPIED_CURSED_TECHNIQUE.get()
+  - "jujutsucraft:copied_cursed_technique"
+RIKA_2_SPAWN_EGG:
+  - JujutsucraftModItems.RIKA_2_SPAWN_EGG.get()
+  - "jujutsucraft:rika_2_spawn_egg"
+RIKA_SPAWN_EGG:
+  - JujutsucraftModItems.RIKA_SPAWN_EGG.get()
+  - "jujutsucraft:rika_spawn_egg"
+ITEM_MASTER_DOMAIN_AMPLIFICATION:
+  - JujutsucraftModItems.ITEM_MASTER_DOMAIN_AMPLIFICATION.get()
+  - "jujutsucraft:item_master_domain_amplification"
+EXECUTIONERS_SWORD:
+  - JujutsucraftModItems.EXECUTIONERS_SWORD.get()
+  - "jujutsucraft:executioners_sword"
+UNIFORM_HIGURUMA_CHESTPLATE:
+  - JujutsucraftModItems.UNIFORM_HIGURUMA_CHESTPLATE.get()
+  - "jujutsucraft:uniform_higuruma_chestplate"
+UNIFORM_HIGURUMA_LEGGINGS:
+  - JujutsucraftModItems.UNIFORM_HIGURUMA_LEGGINGS.get()
+  - "jujutsucraft:uniform_higuruma_leggings"
+TOAD_SPAWN_EGG:
+  - JujutsucraftModItems.TOAD_SPAWN_EGG.get()
+  - "jujutsucraft:toad_spawn_egg"
+TODO_AOI_SPAWN_EGG:
+  - JujutsucraftModItems.TODO_AOI_SPAWN_EGG.get()
+  - "jujutsucraft:todo_aoi_spawn_egg"
+TRUCK_SPAWN_EGG:
+  - JujutsucraftModItems.TRUCK_SPAWN_EGG.get()
+  - "jujutsucraft:truck_spawn_egg"
+CLOTHES_ANGEL_HELMET:
+  - JujutsucraftModItems.CLOTHES_ANGEL_HELMET.get()
+  - "jujutsucraft:clothes_angel_helmet"
+CLOTHES_ANGEL_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_ANGEL_CHESTPLATE.get()
+  - "jujutsucraft:clothes_angel_chestplate"
+CLOTHES_DAGON_HELMET:
+  - JujutsucraftModItems.CLOTHES_DAGON_HELMET.get()
+  - "jujutsucraft:clothes_dagon_helmet"
+CLOTHES_DAGON_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_DAGON_CHESTPLATE.get()
+  - "jujutsucraft:clothes_dagon_chestplate"
+KNIFE:
+  - JujutsucraftModItems.KNIFE.get()
+  - "jujutsucraft:knife"
+SWORD_SHIGEMO:
+  - JujutsucraftModItems.SWORD_SHIGEMO.get()
+  - "jujutsucraft:sword_shigemo"
+HAMMER:
+  - JujutsucraftModItems.HAMMER.get()
+  - "jujutsucraft:hammer"
+COCKROACH_LARVA_SPAWN_EGG:
+  - JujutsucraftModItems.COCKROACH_LARVA_SPAWN_EGG.get()
+  - "jujutsucraft:cockroach_larva_spawn_egg"
+CLOTHES_KUSAKABE_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_KUSAKABE_CHESTPLATE.get()
+  - "jujutsucraft:clothes_kusakabe_chestplate"
+CLOTHES_KUSAKABE_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_KUSAKABE_LEGGINGS.get()
+  - "jujutsucraft:clothes_kusakabe_leggings"
+URO_TAKAKO_SPAWN_EGG:
+  - JujutsucraftModItems.URO_TAKAKO_SPAWN_EGG.get()
+  - "jujutsucraft:uro_takako_spawn_egg"
+CLOTHES_URO_HELMET:
+  - JujutsucraftModItems.CLOTHES_URO_HELMET.get()
+  - "jujutsucraft:clothes_uro_helmet"
+CLOTHES_URO_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_URO_CHESTPLATE.get()
+  - "jujutsucraft:clothes_uro_chestplate"
+CLOTHES_KIRARA_HELMET:
+  - JujutsucraftModItems.CLOTHES_KIRARA_HELMET.get()
+  - "jujutsucraft:clothes_kirara_helmet"
+CLOTHES_KIRARA_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_KIRARA_CHESTPLATE.get()
+  - "jujutsucraft:clothes_kirara_chestplate"
+CLOTHES_KIRARA_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_KIRARA_LEGGINGS.get()
+  - "jujutsucraft:clothes_kirara_leggings"
+CLOTHES_HAKARI_KINJI_HELMET:
+  - JujutsucraftModItems.CLOTHES_HAKARI_KINJI_HELMET.get()
+  - "jujutsucraft:clothes_hakari_kinji_helmet"
+CLOTHES_HAKARI_KINJI_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_HAKARI_KINJI_CHESTPLATE.get()
+  - "jujutsucraft:clothes_hakari_kinji_chestplate"
+CLOTHES_HAKARI_KINJI_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_HAKARI_KINJI_LEGGINGS.get()
+  - "jujutsucraft:clothes_hakari_kinji_leggings"
+CLOTHES_HAKARI_KINJI_BOOTS:
+  - JujutsucraftModItems.CLOTHES_HAKARI_KINJI_BOOTS.get()
+  - "jujutsucraft:clothes_hakari_kinji_boots"
+OGAMI_SPAWN_EGG:
+  - JujutsucraftModItems.OGAMI_SPAWN_EGG.get()
+  - "jujutsucraft:ogami_spawn_egg"
+BULLET_BALL:
+  - JujutsucraftModItems.BULLET_BALL.get()
+  - "jujutsucraft:bullet_ball"
+CLOTHES_NISHIMIYA_HELMET:
+  - JujutsucraftModItems.CLOTHES_NISHIMIYA_HELMET.get()
+  - "jujutsucraft:clothes_nishimiya_helmet"
+CLOTHES_MIGUEL_HELMET:
+  - JujutsucraftModItems.CLOTHES_MIGUEL_HELMET.get()
+  - "jujutsucraft:clothes_miguel_helmet"
+CLOTHES_MIGUEL_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_MIGUEL_CHESTPLATE.get()
+  - "jujutsucraft:clothes_miguel_chestplate"
+CLOTHES_MIGUEL_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_MIGUEL_LEGGINGS.get()
+  - "jujutsucraft:clothes_miguel_leggings"
+CLOTHES_MIGUEL_BOOTS:
+  - JujutsucraftModItems.CLOTHES_MIGUEL_BOOTS.get()
+  - "jujutsucraft:clothes_miguel_boots"
+UNIFORM_Q_HELMET:
+  - JujutsucraftModItems.UNIFORM_Q_HELMET.get()
+  - "jujutsucraft:uniform_q_helmet"
+UNIFORM_Q_CHESTPLATE:
+  - JujutsucraftModItems.UNIFORM_Q_CHESTPLATE.get()
+  - "jujutsucraft:uniform_q_chestplate"
+UNIFORM_Q_LEGGINGS:
+  - JujutsucraftModItems.UNIFORM_Q_LEGGINGS.get()
+  - "jujutsucraft:uniform_q_leggings"
+SWORD_KUSAKABE:
+  - JujutsucraftModItems.SWORD_KUSAKABE.get()
+  - "jujutsucraft:sword_kusakabe"
+MIGUEL_DANCER_SPAWN_EGG:
+  - JujutsucraftModItems.MIGUEL_DANCER_SPAWN_EGG.get()
+  - "jujutsucraft:miguel_dancer_spawn_egg"
+CLOTHES_YOROZU_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_YOROZU_CHESTPLATE.get()
+  - "jujutsucraft:clothes_yorozu_chestplate"
+ROZETSU_SPAWN_EGG:
+  - JujutsucraftModItems.ROZETSU_SPAWN_EGG.get()
+  - "jujutsucraft:rozetsu_spawn_egg"
+ZENIN_CHOJURO_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_CHOJURO_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_chojuro_spawn_egg"
+G_STAFF:
+  - JujutsucraftModItems.G_STAFF.get()
+  - "jujutsucraft:g_staff"
+CURSED_SPIRIT_GRADE_319_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_319_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_319_spawn_egg"
+CURSED_SPIRIT_GRADE_210_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_210_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_210_spawn_egg"
+CURSED_SPIRIT_GRADE_211_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_211_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_211_spawn_egg"
+CURSED_SPIRIT_GRADE_212_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_212_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_212_spawn_egg"
+MOON_DREGS_SPAWN_EGG:
+  - JujutsucraftModItems.MOON_DREGS_SPAWN_EGG.get()
+  - "jujutsucraft:moon_dregs_spawn_egg"
+SWORD_OPTION:
+  - JujutsucraftModItems.SWORD_OPTION.get()
+  - "jujutsucraft:sword_option"
+PANDA_NORMAL_SPAWN_EGG:
+  - JujutsucraftModItems.PANDA_NORMAL_SPAWN_EGG.get()
+  - "jujutsucraft:panda_normal_spawn_egg"
+DOLL_1_SPAWN_EGG:
+  - JujutsucraftModItems.DOLL_1_SPAWN_EGG.get()
+  - "jujutsucraft:doll_1_spawn_egg"
+ITEM_DOLL:
+  - JujutsucraftModItems.ITEM_DOLL.get()
+  - "jujutsucraft:item_doll"
+ITADORI_ARM:
+  - JujutsucraftModItems.ITADORI_ARM.get()
+  - "jujutsucraft:itadori_arm"
+BROOM:
+  - JujutsucraftModItems.BROOM.get()
+  - "jujutsucraft:broom"
+ENTITY_BROOM_SPAWN_EGG:
+  - JujutsucraftModItems.ENTITY_BROOM_SPAWN_EGG.get()
+  - "jujutsucraft:entity_broom_spawn_egg"
+NAIL:
+  - JujutsucraftModItems.NAIL.get()
+  - "jujutsucraft:nail"
+SHIKIGAMI_HETEROCEPHALUS_GLABER_SPAWN_EGG:
+  - JujutsucraftModItems.SHIKIGAMI_HETEROCEPHALUS_GLABER_SPAWN_EGG.get()
+  - "jujutsucraft:shikigami_heterocephalus_glaber_spawn_egg"
+SHIKIGAMI_PTEROSAUR_SPAWN_EGG:
+  - JujutsucraftModItems.SHIKIGAMI_PTEROSAUR_SPAWN_EGG.get()
+  - "jujutsucraft:shikigami_pterosaur_spawn_egg"
+CURSED_SPIRIT_GRADE_110_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_110_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_110_spawn_egg"
+CURSED_SPIRIT_GRADE_09_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_09_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_09_spawn_egg"
+CLOTHES_REGGIE_STAR_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_REGGIE_STAR_CHESTPLATE.get()
+  - "jujutsucraft:clothes_reggie_star_chestplate"
+INSECT_ARMOR_HELMET:
+  - JujutsucraftModItems.INSECT_ARMOR_HELMET.get()
+  - "jujutsucraft:insect_armor_helmet"
+INSECT_ARMOR_CHESTPLATE:
+  - JujutsucraftModItems.INSECT_ARMOR_CHESTPLATE.get()
+  - "jujutsucraft:insect_armor_chestplate"
+INSECT_ARMOR_LEGGINGS:
+  - JujutsucraftModItems.INSECT_ARMOR_LEGGINGS.get()
+  - "jujutsucraft:insect_armor_leggings"
+CURSED_SPIRIT_GRADE_213_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_213_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_213_spawn_egg"
+CURSED_SPIRIT_GRADE_214_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_214_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_214_spawn_egg"
+CLOTHES_INO_TAKUMA_1_HELMET:
+  - JujutsucraftModItems.CLOTHES_INO_TAKUMA_1_HELMET.get()
+  - "jujutsucraft:clothes_ino_takuma_1_helmet"
+CLOTHES_INO_TAKUMA_1_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_INO_TAKUMA_1_CHESTPLATE.get()
+  - "jujutsucraft:clothes_ino_takuma_1_chestplate"
+CLOTHES_INO_TAKUMA_1_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_INO_TAKUMA_1_LEGGINGS.get()
+  - "jujutsucraft:clothes_ino_takuma_1_leggings"
+CLOTHES_INO_TAKUMA_1_BOOTS:
+  - JujutsucraftModItems.CLOTHES_INO_TAKUMA_1_BOOTS.get()
+  - "jujutsucraft:clothes_ino_takuma_1_boots"
+CLOTHES_INO_TAKUMA_2_HELMET:
+  - JujutsucraftModItems.CLOTHES_INO_TAKUMA_2_HELMET.get()
+  - "jujutsucraft:clothes_ino_takuma_2_helmet"
+CURSED_SPIRIT_GRADE_321_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_321_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_321_spawn_egg"
+CURSED_SPIRIT_GRADE_322_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_322_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_322_spawn_egg"
+CURSED_SPIRIT_GRADE_215_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_215_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_215_spawn_egg"
+PISTOL:
+  - JujutsucraftModItems.PISTOL.get()
+  - "jujutsucraft:pistol"
+CURSED_SPIRIT_GRADE_111_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_111_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_111_spawn_egg"
+CURSED_SPIRIT_GRADE_216_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_216_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_216_spawn_egg"
+ROZETSU_SHIKIGAMI_VESSEL_SPAWN_EGG:
+  - JujutsucraftModItems.ROZETSU_SHIKIGAMI_VESSEL_SPAWN_EGG.get()
+  - "jujutsucraft:rozetsu_shikigami_vessel_spawn_egg"
+ROZETSU_SHIKIGAMI_VESSEL_2_SPAWN_EGG:
+  - JujutsucraftModItems.ROZETSU_SHIKIGAMI_VESSEL_2_SPAWN_EGG.get()
+  - "jujutsucraft:rozetsu_shikigami_vessel_2_spawn_egg"
+CURSED_SPIRIT_GRADE_04_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_04_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_04_spawn_egg"
+HEAD_JET_HELMET:
+  - JujutsucraftModItems.HEAD_JET_HELMET.get()
+  - "jujutsucraft:head_jet_helmet"
+HEAD_PROPELLER_HELMET:
+  - JujutsucraftModItems.HEAD_PROPELLER_HELMET.get()
+  - "jujutsucraft:head_propeller_helmet"
+ITADORI_YUJI_SPAWN_EGG:
+  - JujutsucraftModItems.ITADORI_YUJI_SPAWN_EGG.get()
+  - "jujutsucraft:itadori_yuji_spawn_egg"
+ITADORI_YUJI_SHIBUYA_SPAWN_EGG:
+  - JujutsucraftModItems.ITADORI_YUJI_SHIBUYA_SPAWN_EGG.get()
+  - "jujutsucraft:itadori_yuji_shibuya_spawn_egg"
+ITADORI_YUJI_SHINJUKU_SPAWN_EGG:
+  - JujutsucraftModItems.ITADORI_YUJI_SHINJUKU_SPAWN_EGG.get()
+  - "jujutsucraft:itadori_yuji_shinjuku_spawn_egg"
+FUSHIGURO_MEGUMI_SPAWN_EGG:
+  - JujutsucraftModItems.FUSHIGURO_MEGUMI_SPAWN_EGG.get()
+  - "jujutsucraft:fushiguro_megumi_spawn_egg"
+FUSHIGURO_MEGUMI_SHIBUYA_SPAWN_EGG:
+  - JujutsucraftModItems.FUSHIGURO_MEGUMI_SHIBUYA_SPAWN_EGG.get()
+  - "jujutsucraft:fushiguro_megumi_shibuya_spawn_egg"
+NOBARA_KUGISAKI_SPAWN_EGG:
+  - JujutsucraftModItems.NOBARA_KUGISAKI_SPAWN_EGG.get()
+  - "jujutsucraft:nobara_kugisaki_spawn_egg"
+INUMAKI_TOGE_SPAWN_EGG:
+  - JujutsucraftModItems.INUMAKI_TOGE_SPAWN_EGG.get()
+  - "jujutsucraft:inumaki_toge_spawn_egg"
+ZENIN_MAKI_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_MAKI_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_maki_spawn_egg"
+ZENIN_MAKI_CULLING_GAME_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_MAKI_CULLING_GAME_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_maki_culling_game_spawn_egg"
+OKKOTSU_YUTA_SPAWN_EGG:
+  - JujutsucraftModItems.OKKOTSU_YUTA_SPAWN_EGG.get()
+  - "jujutsucraft:okkotsu_yuta_spawn_egg"
+OKKOTSU_YUTA_CULLING_GAME_SPAWN_EGG:
+  - JujutsucraftModItems.OKKOTSU_YUTA_CULLING_GAME_SPAWN_EGG.get()
+  - "jujutsucraft:okkotsu_yuta_culling_game_spawn_egg"
+HOSHI_KIRARA_SPAWN_EGG:
+  - JujutsucraftModItems.HOSHI_KIRARA_SPAWN_EGG.get()
+  - "jujutsucraft:hoshi_kirara_spawn_egg"
+HAKARI_KINJI_SPAWN_EGG:
+  - JujutsucraftModItems.HAKARI_KINJI_SPAWN_EGG.get()
+  - "jujutsucraft:hakari_kinji_spawn_egg"
+YAGA_MASAMICHI_SPAWN_EGG:
+  - JujutsucraftModItems.YAGA_MASAMICHI_SPAWN_EGG.get()
+  - "jujutsucraft:yaga_masamichi_spawn_egg"
+KUSAKABE_ATSUYA_SPAWN_EGG:
+  - JujutsucraftModItems.KUSAKABE_ATSUYA_SPAWN_EGG.get()
+  - "jujutsucraft:kusakabe_atsuya_spawn_egg"
+MIWA_KASUMI_SPAWN_EGG:
+  - JujutsucraftModItems.MIWA_KASUMI_SPAWN_EGG.get()
+  - "jujutsucraft:miwa_kasumi_spawn_egg"
+NISHIMIYA_MOMO_SPAWN_EGG:
+  - JujutsucraftModItems.NISHIMIYA_MOMO_SPAWN_EGG.get()
+  - "jujutsucraft:nishimiya_momo_spawn_egg"
+KAMO_NORITOSHI_SPAWN_EGG:
+  - JujutsucraftModItems.KAMO_NORITOSHI_SPAWN_EGG.get()
+  - "jujutsucraft:kamo_noritoshi_spawn_egg"
+MECHAMARU_SPAWN_EGG:
+  - JujutsucraftModItems.MECHAMARU_SPAWN_EGG.get()
+  - "jujutsucraft:mechamaru_spawn_egg"
+GETO_SUGURU_SPAWN_EGG:
+  - JujutsucraftModItems.GETO_SUGURU_SPAWN_EGG.get()
+  - "jujutsucraft:geto_suguru_spawn_egg"
+GETO_SUGURU_CURSE_USER_SPAWN_EGG:
+  - JujutsucraftModItems.GETO_SUGURU_CURSE_USER_SPAWN_EGG.get()
+  - "jujutsucraft:geto_suguru_curse_user_spawn_egg"
+KENJAKU_SPAWN_EGG:
+  - JujutsucraftModItems.KENJAKU_SPAWN_EGG.get()
+  - "jujutsucraft:kenjaku_spawn_egg"
+GOJO_SATORU_SCHOOL_DAYS_SPAWN_EGG:
+  - JujutsucraftModItems.GOJO_SATORU_SCHOOL_DAYS_SPAWN_EGG.get()
+  - "jujutsucraft:gojo_satoru_school_days_spawn_egg"
+GOJO_SATORU_SPAWN_EGG:
+  - JujutsucraftModItems.GOJO_SATORU_SPAWN_EGG.get()
+  - "jujutsucraft:gojo_satoru_spawn_egg"
+JUJUTSU_SORCERER_SPAWN_EGG:
+  - JujutsucraftModItems.JUJUTSU_SORCERER_SPAWN_EGG.get()
+  - "jujutsucraft:jujutsu_sorcerer_spawn_egg"
+MEI_MEI_SPAWN_EGG:
+  - JujutsucraftModItems.MEI_MEI_SPAWN_EGG.get()
+  - "jujutsucraft:mei_mei_spawn_egg"
+NANAMI_KENTO_SPAWN_EGG:
+  - JujutsucraftModItems.NANAMI_KENTO_SPAWN_EGG.get()
+  - "jujutsucraft:nanami_kento_spawn_egg"
+TSUKUMO_YUKI_SPAWN_EGG:
+  - JujutsucraftModItems.TSUKUMO_YUKI_SPAWN_EGG.get()
+  - "jujutsucraft:tsukumo_yuki_spawn_egg"
+INO_TAKUMA_SPAWN_EGG:
+  - JujutsucraftModItems.INO_TAKUMA_SPAWN_EGG.get()
+  - "jujutsucraft:ino_takuma_spawn_egg"
+ZENIN_NAOBITO_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_NAOBITO_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_naobito_spawn_egg"
+ZENIN_NAOYA_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_NAOYA_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_naoya_spawn_egg"
+ZENIN_JINICHI_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_JINICHI_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_jinichi_spawn_egg"
+ZENIN_OGI_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_OGI_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_ogi_spawn_egg"
+YOSHINO_JUNPEI_SPAWN_EGG:
+  - JujutsucraftModItems.YOSHINO_JUNPEI_SPAWN_EGG.get()
+  - "jujutsucraft:yoshino_junpei_spawn_egg"
+ZENIN_RANTA_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_RANTA_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_ranta_spawn_egg"
+KUKURU_SPAWN_EGG:
+  - JujutsucraftModItems.KUKURU_SPAWN_EGG.get()
+  - "jujutsucraft:kukuru_spawn_egg"
+FUSHIGURO_TOJI_SPAWN_EGG:
+  - JujutsucraftModItems.FUSHIGURO_TOJI_SPAWN_EGG.get()
+  - "jujutsucraft:fushiguro_toji_spawn_egg"
+FUSHIGURO_TOJI_BUG_SPAWN_EGG:
+  - JujutsucraftModItems.FUSHIGURO_TOJI_BUG_SPAWN_EGG.get()
+  - "jujutsucraft:fushiguro_toji_bug_spawn_egg"
+CURSED_SPIRIT_GRADE_01_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_01_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_01_spawn_egg"
+CURSE_USER_SPAWN_EGG:
+  - JujutsucraftModItems.CURSE_USER_SPAWN_EGG.get()
+  - "jujutsucraft:curse_user_spawn_egg"
+CURSE_USER_1_SPAWN_EGG:
+  - JujutsucraftModItems.CURSE_USER_1_SPAWN_EGG.get()
+  - "jujutsucraft:curse_user_1_spawn_egg"
+Q_SPAWN_EGG:
+  - JujutsucraftModItems.Q_SPAWN_EGG.get()
+  - "jujutsucraft:q_spawn_egg"
+MIMIKO_SPAWN_EGG:
+  - JujutsucraftModItems.MIMIKO_SPAWN_EGG.get()
+  - "jujutsucraft:mimiko_spawn_egg"
+NANAKO_SPAWN_EGG:
+  - JujutsucraftModItems.NANAKO_SPAWN_EGG.get()
+  - "jujutsucraft:nanako_spawn_egg"
+NEGI_TOSHIHISA_SPAWN_EGG:
+  - JujutsucraftModItems.NEGI_TOSHIHISA_SPAWN_EGG.get()
+  - "jujutsucraft:negi_toshihisa_spawn_egg"
+LARUE_SPAWN_EGG:
+  - JujutsucraftModItems.LARUE_SPAWN_EGG.get()
+  - "jujutsucraft:larue_spawn_egg"
+MIGUEL_SPAWN_EGG:
+  - JujutsucraftModItems.MIGUEL_SPAWN_EGG.get()
+  - "jujutsucraft:miguel_spawn_egg"
+KUMIYA_JUZO_SPAWN_EGG:
+  - JujutsucraftModItems.KUMIYA_JUZO_SPAWN_EGG.get()
+  - "jujutsucraft:kumiya_juzo_spawn_egg"
+AWASAKA_JIRO_SPAWN_EGG:
+  - JujutsucraftModItems.AWASAKA_JIRO_SPAWN_EGG.get()
+  - "jujutsucraft:awasaka_jiro_spawn_egg"
+HANAMI_SPAWN_EGG:
+  - JujutsucraftModItems.HANAMI_SPAWN_EGG.get()
+  - "jujutsucraft:hanami_spawn_egg"
+MAHITO_SPAWN_EGG:
+  - JujutsucraftModItems.MAHITO_SPAWN_EGG.get()
+  - "jujutsucraft:mahito_spawn_egg"
+URAUME_SPAWN_EGG:
+  - JujutsucraftModItems.URAUME_SPAWN_EGG.get()
+  - "jujutsucraft:uraume_spawn_egg"
+SUKUNA_SPAWN_EGG:
+  - JujutsucraftModItems.SUKUNA_SPAWN_EGG.get()
+  - "jujutsucraft:sukuna_spawn_egg"
+SUKUNA_FUSHIGURO_SPAWN_EGG:
+  - JujutsucraftModItems.SUKUNA_FUSHIGURO_SPAWN_EGG.get()
+  - "jujutsucraft:sukuna_fushiguro_spawn_egg"
+SUKUNA_PERFECT_SPAWN_EGG:
+  - JujutsucraftModItems.SUKUNA_PERFECT_SPAWN_EGG.get()
+  - "jujutsucraft:sukuna_perfect_spawn_egg"
+ESO_SPAWN_EGG:
+  - JujutsucraftModItems.ESO_SPAWN_EGG.get()
+  - "jujutsucraft:eso_spawn_egg"
+CHOSO_SPAWN_EGG:
+  - JujutsucraftModItems.CHOSO_SPAWN_EGG.get()
+  - "jujutsucraft:choso_spawn_egg"
+HABA_SPAWN_EGG:
+  - JujutsucraftModItems.HABA_SPAWN_EGG.get()
+  - "jujutsucraft:haba_spawn_egg"
+HANYU_SPAWN_EGG:
+  - JujutsucraftModItems.HANYU_SPAWN_EGG.get()
+  - "jujutsucraft:hanyu_spawn_egg"
+TAKABA_FUMIHIKO_SPAWN_EGG:
+  - JujutsucraftModItems.TAKABA_FUMIHIKO_SPAWN_EGG.get()
+  - "jujutsucraft:takaba_fumihiko_spawn_egg"
+HIGURUMA_HIROMI_SPAWN_EGG:
+  - JujutsucraftModItems.HIGURUMA_HIROMI_SPAWN_EGG.get()
+  - "jujutsucraft:higuruma_hiromi_spawn_egg"
+CHARLES_BERNARD_SPAWN_EGG:
+  - JujutsucraftModItems.CHARLES_BERNARD_SPAWN_EGG.get()
+  - "jujutsucraft:charles_bernard_spawn_egg"
+ISHIGORI_RYU_SPAWN_EGG:
+  - JujutsucraftModItems.ISHIGORI_RYU_SPAWN_EGG.get()
+  - "jujutsucraft:ishigori_ryu_spawn_egg"
+KASHIMO_HAJIME_SPAWN_EGG:
+  - JujutsucraftModItems.KASHIMO_HAJIME_SPAWN_EGG.get()
+  - "jujutsucraft:kashimo_hajime_spawn_egg"
+KURUSU_HANA_SPAWN_EGG:
+  - JujutsucraftModItems.KURUSU_HANA_SPAWN_EGG.get()
+  - "jujutsucraft:kurusu_hana_spawn_egg"
+HAZENOKI_SPAWN_EGG:
+  - JujutsucraftModItems.HAZENOKI_SPAWN_EGG.get()
+  - "jujutsucraft:hazenoki_spawn_egg"
+REGGIE_STAR_SPAWN_EGG:
+  - JujutsucraftModItems.REGGIE_STAR_SPAWN_EGG.get()
+  - "jujutsucraft:reggie_star_spawn_egg"
+DAIDO_HAGANE_SPAWN_EGG:
+  - JujutsucraftModItems.DAIDO_HAGANE_SPAWN_EGG.get()
+  - "jujutsucraft:daido_hagane_spawn_egg"
+MIYO_ROKUJUSHI_SPAWN_EGG:
+  - JujutsucraftModItems.MIYO_ROKUJUSHI_SPAWN_EGG.get()
+  - "jujutsucraft:miyo_rokujushi_spawn_egg"
+YOROZU_SPAWN_EGG:
+  - JujutsucraftModItems.YOROZU_SPAWN_EGG.get()
+  - "jujutsucraft:yorozu_spawn_egg"
+ROZETSU_SHIKIGAMI_SPAWN_EGG:
+  - JujutsucraftModItems.ROZETSU_SHIKIGAMI_SPAWN_EGG.get()
+  - "jujutsucraft:rozetsu_shikigami_spawn_egg"
+TRANSFIGURED_HUMAN_SPAWN_EGG:
+  - JujutsucraftModItems.TRANSFIGURED_HUMAN_SPAWN_EGG.get()
+  - "jujutsucraft:transfigured_human_spawn_egg"
+POLYMORPHIC_SOUL_ISOMER_SPAWN_EGG:
+  - JujutsucraftModItems.POLYMORPHIC_SOUL_ISOMER_SPAWN_EGG.get()
+  - "jujutsucraft:polymorphic_soul_isomer_spawn_egg"
+HANAMI_EYE_HELMET:
+  - JujutsucraftModItems.HANAMI_EYE_HELMET.get()
+  - "jujutsucraft:hanami_eye_helmet"
+MYTHICAL_BEAST_AMBER_HELMET:
+  - JujutsucraftModItems.MYTHICAL_BEAST_AMBER_HELMET.get()
+  - "jujutsucraft:mythical_beast_amber_helmet"
+ITADORI_YUJI_PAPER_HELMET:
+  - JujutsucraftModItems.ITADORI_YUJI_PAPER_HELMET.get()
+  - "jujutsucraft:itadori_yuji_paper_helmet"
+ZENIN_NAOYA_CURSED_SPIRIT_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_NAOYA_CURSED_SPIRIT_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_naoya_cursed_spirit_spawn_egg"
+DAGON_SPAWN_EGG:
+  - JujutsucraftModItems.DAGON_SPAWN_EGG.get()
+  - "jujutsucraft:dagon_spawn_egg"
+SHIGEMO_HARUTA_SPAWN_EGG:
+  - JujutsucraftModItems.SHIGEMO_HARUTA_SPAWN_EGG.get()
+  - "jujutsucraft:shigemo_haruta_spawn_egg"
+ORCASAN_SPAWN_EGG:
+  - JujutsucraftModItems.ORCASAN_SPAWN_EGG.get()
+  - "jujutsucraft:orcasan_spawn_egg"
+PLAYFUL_CLOUD:
+  - JujutsucraftModItems.PLAYFUL_CLOUD.get()
+  - "jujutsucraft:playful_cloud"
+BLACK_ROPE:
+  - JujutsucraftModItems.BLACK_ROPE.get()
+  - "jujutsucraft:black_rope"
+MAHITO_HAND_1:
+  - JujutsucraftModItems.MAHITO_HAND_1.get()
+  - "jujutsucraft:mahito_hand_1"
+DEATH_PAINTING:
+  - JujutsucraftModItems.DEATH_PAINTING.get()
+  - "jujutsucraft:death_painting"
+DIVINE_DOG_TOTALITY_SPAWN_EGG:
+  - JujutsucraftModItems.DIVINE_DOG_TOTALITY_SPAWN_EGG.get()
+  - "jujutsucraft:divine_dog_totality_spawn_egg"
+NUE_SPAWN_EGG:
+  - JujutsucraftModItems.NUE_SPAWN_EGG.get()
+  - "jujutsucraft:nue_spawn_egg"
+TIGER_FUNERAL_SPAWN_EGG:
+  - JujutsucraftModItems.TIGER_FUNERAL_SPAWN_EGG.get()
+  - "jujutsucraft:tiger_funeral_spawn_egg"
+CURSED_SPIRIT_GRADE_010_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_010_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_010_spawn_egg"
+CAR_SPAWN_EGG:
+  - JujutsucraftModItems.CAR_SPAWN_EGG.get()
+  - "jujutsucraft:car_spawn_egg"
+CURSED_SPIRIT_GRADE_323_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_323_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_323_spawn_egg"
+CURSED_SPIRIT_GRADE_19_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_19_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_19_spawn_egg"
+CURSED_SPIRIT_GRADE_12_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_12_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_12_spawn_egg"
+CURSED_SPIRIT_GRADE_011_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_011_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_011_spawn_egg"
+CURSED_SPIRIT_GRADE_012_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_012_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_012_spawn_egg"
+CURSED_SPIRIT_GRADE_11_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_11_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_11_spawn_egg"
+KITCHEN_KNIFE:
+  - JujutsucraftModItems.KITCHEN_KNIFE.get()
+  - "jujutsucraft:kitchen_knife"
+TOOTH:
+  - JujutsucraftModItems.TOOTH.get()
+  - "jujutsucraft:tooth"
+EYE:
+  - JujutsucraftModItems.EYE.get()
+  - "jujutsucraft:eye"
+SUDA_MANAMI_SPAWN_EGG:
+  - JujutsucraftModItems.SUDA_MANAMI_SPAWN_EGG.get()
+  - "jujutsucraft:suda_manami_spawn_egg"
+BAYER_SPAWN_EGG:
+  - JujutsucraftModItems.BAYER_SPAWN_EGG.get()
+  - "jujutsucraft:bayer_spawn_egg"
+CURSED_SPIRIT_GRADE_320_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_320_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_320_spawn_egg"
+ZENIN_NOBUAKI_SPAWN_EGG:
+  - JujutsucraftModItems.ZENIN_NOBUAKI_SPAWN_EGG.get()
+  - "jujutsucraft:zenin_nobuaki_spawn_egg"
+ITEM_BULLET:
+  - JujutsucraftModItems.ITEM_BULLET.get()
+  - "jujutsucraft:item_bullet"
+EIGHT_HANDLED_SWORD_DIVERGENT_SILA_DIVINE_GENERAL_MAHORAGA_SPAWN_EGG:
+  - JujutsucraftModItems.EIGHT_HANDLED_SWORD_DIVERGENT_SILA_DIVINE_GENERAL_MAHORAGA_SPAWN_EGG.get()
+  - "jujutsucraft:eight_handled_sword_divergent_sila_divine_general_mahoraga_spawn_egg"
+CURSED_SPIRIT_GRADE_217_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_217_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_217_spawn_egg"
+CURSED_SPIRIT_GRADE_013_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_013_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_013_spawn_egg"
+ENTITY_TSUCHIGUMO_SPAWN_EGG:
+  - JujutsucraftModItems.ENTITY_TSUCHIGUMO_SPAWN_EGG.get()
+  - "jujutsucraft:entity_tsuchigumo_spawn_egg"
+CURSED_SPIRIT_GRADE_112_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_112_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_112_spawn_egg"
+CURSED_SPIRIT_GRADE_014_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_014_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_014_spawn_egg"
+CURSED_SPIRIT_GRADE_015_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_015_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_015_spawn_egg"
+DAITENGU_FAN:
+  - JujutsucraftModItems.DAITENGU_FAN.get()
+  - "jujutsucraft:daitengu_fan"
+PROFESSION_CHANGER:
+  - JujutsucraftModItems.PROFESSION_CHANGER.get()
+  - "jujutsucraft:profession_changer"
+DEMOTION_1:
+  - JujutsucraftModItems.DEMOTION_1.get()
+  - "jujutsucraft:demotion_1"
+GAVEL_LONG:
+  - JujutsucraftModItems.GAVEL_LONG.get()
+  - "jujutsucraft:gavel_long"
+GAVEL_BIG:
+  - JujutsucraftModItems.GAVEL_BIG.get()
+  - "jujutsucraft:gavel_big"
+CONFISCATION:
+  - JujutsucraftModItems.CONFISCATION.get()
+  - "jujutsucraft:confiscation"
+DHRUV_LAKDAWALLA_SPAWN_EGG:
+  - JujutsucraftModItems.DHRUV_LAKDAWALLA_SPAWN_EGG.get()
+  - "jujutsucraft:dhruv_lakdawalla_spawn_egg"
+CURSED_SPIRIT_GRADE_23_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_23_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_23_spawn_egg"
+CURSED_SPIRIT_GRADE_13_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_13_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_13_spawn_egg"
+CURSED_SPIRIT_GRADE_218_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_218_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_218_spawn_egg"
+CLOTHES_DABURA_KARABA_HELMET:
+  - JujutsucraftModItems.CLOTHES_DABURA_KARABA_HELMET.get()
+  - "jujutsucraft:clothes_dabura_karaba_helmet"
+CLOTHES_ITADORI_MODULO_HELMET:
+  - JujutsucraftModItems.CLOTHES_ITADORI_MODULO_HELMET.get()
+  - "jujutsucraft:clothes_itadori_modulo_helmet"
+CLOTHES_ITADORI_MODULO_CHESTPLATE:
+  - JujutsucraftModItems.CLOTHES_ITADORI_MODULO_CHESTPLATE.get()
+  - "jujutsucraft:clothes_itadori_modulo_chestplate"
+CLOTHES_ITADORI_MODULO_LEGGINGS:
+  - JujutsucraftModItems.CLOTHES_ITADORI_MODULO_LEGGINGS.get()
+  - "jujutsucraft:clothes_itadori_modulo_leggings"
+CLOTHES_ITADORI_MODULO_BOOTS:
+  - JujutsucraftModItems.CLOTHES_ITADORI_MODULO_BOOTS.get()
+  - "jujutsucraft:clothes_itadori_modulo_boots"
+YU_HAIBARA_SPAWN_EGG:
+  - JujutsucraftModItems.YU_HAIBARA_SPAWN_EGG.get()
+  - "jujutsucraft:yu_haibara_spawn_egg"
+CURSED_SPIRIT_GRADE_219_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_219_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_219_spawn_egg"
+CURSED_SPIRIT_GRADE_113_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_113_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_113_spawn_egg"
+CURSED_SPIRIT_GRADE_016_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_016_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_016_spawn_egg"
+CURSED_SPIRIT_GRADE_017_SPAWN_EGG:
+  - JujutsucraftModItems.CURSED_SPIRIT_GRADE_017_SPAWN_EGG.get()
+  - "jujutsucraft:cursed_spirit_grade_017_spawn_egg"
+ITADORI_YUJI_MODULO_SPAWN_EGG:
+  - JujutsucraftModItems.ITADORI_YUJI_MODULO_SPAWN_EGG.get()
+  - "jujutsucraft:itadori_yuji_modulo_spawn_egg"
+DABURA_KARABA_SPAWN_EGG:
+  - JujutsucraftModItems.DABURA_KARABA_SPAWN_EGG.get()
+  - "jujutsucraft:dabura_karaba_spawn_egg"

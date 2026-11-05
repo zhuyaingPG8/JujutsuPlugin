@@ -1,0 +1,135 @@
+PARTICLE_CURSE_POWER_BLUE:
+  - JujutsucraftModParticleTypes.PARTICLE_CURSE_POWER_BLUE.get()
+  - "jujutsucraft:particle_curse_power_blue"
+PARTICLE_CURSE_POWER_ORANGE:
+  - JujutsucraftModParticleTypes.PARTICLE_CURSE_POWER_ORANGE.get()
+  - "jujutsucraft:particle_curse_power_orange"
+PARTICLE_CURSE_POWER_RED:
+  - JujutsucraftModParticleTypes.PARTICLE_CURSE_POWER_RED.get()
+  - "jujutsucraft:particle_curse_power_red"
+PARTICLE_BLOOD_RED:
+  - JujutsucraftModParticleTypes.PARTICLE_BLOOD_RED.get()
+  - "jujutsucraft:particle_blood_red"
+PARTICLE_BLOOD_PURPLE:
+  - JujutsucraftModParticleTypes.PARTICLE_BLOOD_PURPLE.get()
+  - "jujutsucraft:particle_blood_purple"
+PARTICLE_SHOCK_HIT:
+  - JujutsucraftModParticleTypes.PARTICLE_SHOCK_HIT.get()
+  - "jujutsucraft:particle_shock_hit"
+PARTICLE_WATER:
+  - JujutsucraftModParticleTypes.PARTICLE_WATER.get()
+  - "jujutsucraft:particle_water"
+PARTICLE_BLACK_FLASH_1:
+  - JujutsucraftModParticleTypes.PARTICLE_BLACK_FLASH_1.get()
+  - "jujutsucraft:particle_black_flash_1"
+PARTICLE_FIRE_SPARK:
+  - JujutsucraftModParticleTypes.PARTICLE_FIRE_SPARK.get()
+  - "jujutsucraft:particle_fire_spark"
+PARTICLE_FANGS:
+  - JujutsucraftModParticleTypes.PARTICLE_FANGS.get()
+  - "jujutsucraft:particle_fangs"
+PARTICLE_CLAWS:
+  - JujutsucraftModParticleTypes.PARTICLE_CLAWS.get()
+  - "jujutsucraft:particle_claws"
+PARTICLE_THUNDER_BLUE:
+  - JujutsucraftModParticleTypes.PARTICLE_THUNDER_BLUE.get()
+  - "jujutsucraft:particle_thunder_blue"
+PARTICLE_BROKEN_GLASS:
+  - JujutsucraftModParticleTypes.PARTICLE_BROKEN_GLASS.get()
+  - "jujutsucraft:particle_broken_glass"
+PARTICLE_WATER_2:
+  - JujutsucraftModParticleTypes.PARTICLE_WATER_2.get()
+  - "jujutsucraft:particle_water_2"
+PARTICLE_NANAMI_1:
+  - JujutsucraftModParticleTypes.PARTICLE_NANAMI_1.get()
+  - "jujutsucraft:particle_nanami_1"
+PARTICLE_NANAMI_2:
+  - JujutsucraftModParticleTypes.PARTICLE_NANAMI_2.get()
+  - "jujutsucraft:particle_nanami_2"
+PARTICLE_BROKEN_GLASS_SMALL:
+  - JujutsucraftModParticleTypes.PARTICLE_BROKEN_GLASS_SMALL.get()
+  - "jujutsucraft:particle_broken_glass_small"
+PARTICLE_WI_FI:
+  - JujutsucraftModParticleTypes.PARTICLE_WI_FI.get()
+  - "jujutsucraft:particle_wi_fi"
+PARTICLE_MAGMA:
+  - JujutsucraftModParticleTypes.PARTICLE_MAGMA.get()
+  - "jujutsucraft:particle_magma"
+PARTICLE_FLOWER:
+  - JujutsucraftModParticleTypes.PARTICLE_FLOWER.get()
+  - "jujutsucraft:particle_flower"
+PARTICLE_FLAME:
+  - JujutsucraftModParticleTypes.PARTICLE_FLAME.get()
+  - "jujutsucraft:particle_flame"
+PARTICLE_BIG_SMOKE:
+  - JujutsucraftModParticleTypes.PARTICLE_BIG_SMOKE.get()
+  - "jujutsucraft:particle_big_smoke"
+PARTICLE_COCKROACH:
+  - JujutsucraftModParticleTypes.PARTICLE_COCKROACH.get()
+  - "jujutsucraft:particle_cockroach"
+PARTICLE_ICE:
+  - JujutsucraftModParticleTypes.PARTICLE_ICE.get()
+  - "jujutsucraft:particle_ice"
+PARTICLE_HOLLOW_WICKER_BASKET:
+  - JujutsucraftModParticleTypes.PARTICLE_HOLLOW_WICKER_BASKET.get()
+  - "jujutsucraft:particle_hollow_wicker_basket"
+PARTICLE_BLOOD_2:
+  - JujutsucraftModParticleTypes.PARTICLE_BLOOD_2.get()
+  - "jujutsucraft:particle_blood_2"
+PARTICLE_SLASH:
+  - JujutsucraftModParticleTypes.PARTICLE_SLASH.get()
+  - "jujutsucraft:particle_slash"
+PARTICLE_UNLIMITED_VOID:
+  - JujutsucraftModParticleTypes.PARTICLE_UNLIMITED_VOID.get()
+  - "jujutsucraft:particle_unlimited_void"
+PARTICLE_UNLIMITED_VOID_HOLE:
+  - JujutsucraftModParticleTypes.PARTICLE_UNLIMITED_VOID_HOLE.get()
+  - "jujutsucraft:particle_unlimited_void_hole"
+PARTICLE_CURSE_POWER_GREEN:
+  - JujutsucraftModParticleTypes.PARTICLE_CURSE_POWER_GREEN.get()
+  - "jujutsucraft:particle_curse_power_green"
+PARTICLE_THUNDER_BLUE_MINI:
+  - JujutsucraftModParticleTypes.PARTICLE_THUNDER_BLUE_MINI.get()
+  - "jujutsucraft:particle_thunder_blue_mini"
+PARTICLE_LIQUID_METAL:
+  - JujutsucraftModParticleTypes.PARTICLE_LIQUID_METAL.get()
+  - "jujutsucraft:particle_liquid_metal"
+PARTICLE_WATER_NO_GRAVITY:
+  - JujutsucraftModParticleTypes.PARTICLE_WATER_NO_GRAVITY.get()
+  - "jujutsucraft:particle_water_no_gravity"
+PARTICLE_GRAVITY:
+  - JujutsucraftModParticleTypes.PARTICLE_GRAVITY.get()
+  - "jujutsucraft:particle_gravity"
+PARTICLE_DISMANTLE_ITADORI:
+  - JujutsucraftModParticleTypes.PARTICLE_DISMANTLE_ITADORI.get()
+  - "jujutsucraft:particle_dismantle_itadori"
+PARTICLE_CURSE_POWER_PURPLE:
+  - JujutsucraftModParticleTypes.PARTICLE_CURSE_POWER_PURPLE.get()
+  - "jujutsucraft:particle_curse_power_purple"
+PARTICLE_RED:
+  - JujutsucraftModParticleTypes.PARTICLE_RED.get()
+  - "jujutsucraft:particle_red"
+PARTICLE_BLUE:
+  - JujutsucraftModParticleTypes.PARTICLE_BLUE.get()
+  - "jujutsucraft:particle_blue"
+PARTICLE_FLAME_PURPLE:
+  - JujutsucraftModParticleTypes.PARTICLE_FLAME_PURPLE.get()
+  - "jujutsucraft:particle_flame_purple"
+PARTICLE_SLASH_LARGE:
+  - JujutsucraftModParticleTypes.PARTICLE_SLASH_LARGE.get()
+  - "jujutsucraft:particle_slash_large"
+PARTICLE_CURSE_POWER_WHITE:
+  - JujutsucraftModParticleTypes.PARTICLE_CURSE_POWER_WHITE.get()
+  - "jujutsucraft:particle_curse_power_white"
+PARTICLE_THUNDER_PURPLE:
+  - JujutsucraftModParticleTypes.PARTICLE_THUNDER_PURPLE.get()
+  - "jujutsucraft:particle_thunder_purple"
+PARTICLE_WHITE:
+  - JujutsucraftModParticleTypes.PARTICLE_WHITE.get()
+  - "jujutsucraft:particle_white"
+PARTICLE_LIGHT:
+  - JujutsucraftModParticleTypes.PARTICLE_LIGHT.get()
+  - "jujutsucraft:particle_light"
+PARTICLE_DARKNESS:
+  - JujutsucraftModParticleTypes.PARTICLE_DARKNESS.get()
+  - "jujutsucraft:particle_darkness"

@@ -1,0 +1,1563 @@
+- Ambush:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- Ambush_Number:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Ambush Number"
+- Armoury:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- attack:
+  readable_name: "Attack"
+  required_apis:
+    - jujutsucraft
+  type: logic
+- BaseCursePower:
+  required_apis:
+    - jujutsucraft
+  type: number
+- betrayal:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Betrayal"
+- BlockDamage:
+  required_apis:
+    - jujutsucraft
+  type: number
+- BlockRange:
+  required_apis:
+    - jujutsucraft
+  type: number
+- Break:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- brokenBrain:
+  required_apis:
+    - jujutsucraft
+  type: number
+- bullet_power:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Bullet Power"
+- canFly:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- check:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Check"
+- circle:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Circle"
+- cn1:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cn1"
+- cnt_attack:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Attack"
+- cnt_backstep:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Backstep"
+- cnt_beat:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Beat"
+- cnt_boogie_woogie:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Boogie Woogie"
+- cnt_break:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Break"
+- cnt_breath:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Breath"
+- cnt_bullet_hit:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Bullet Hit"
+- cnt_connect:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Connect"
+- cnt_cover:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Cover"
+- cnt_cursed_spirit_manipulation:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Cursed Spirit Manipulation"
+- cnt_die:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Die"
+- cnt_domain_cancel:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Domain Cancel"
+- cnt_dying:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Dying"
+- cnt_explode:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Explode"
+- cnt_follow:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Follow"
+- cnt_guard:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Guard"
+- cnt_howl:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Howl"
+- cnt_learn_domain:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Learn Domain"
+- cnt_life:
+  readable_name: "Cnt Life"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt_life2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Life2"
+- cnt_nail:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Nail"
+- cnt_nanami:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Nanami"
+- cnt_noTarget:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt noTarget"
+- cnt_rest:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Rest"
+- cnt_return:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Return"
+- cnt_reverse:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Reverse"
+- cnt_reverse_lim:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Reverse Lim"
+- cnt_reverse_test:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Reverse Test"
+- cnt_rika:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Rika"
+- cnt_rock:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Rock"
+- cnt_settarget:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Settarget"
+- cnt_simpleDomain_spread:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt simpleDomain Spread"
+- cnt_sixEyes:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt sixEyes"
+- cnt_special:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Special"
+- cnt_target:
+  readable_name: "Cnt Target"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt_transform:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Transform"
+- cnt_uro:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Uro"
+- cnt_weapon_main:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Weapon Main"
+- cnt_weapon_off:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt Weapon Off"
+- cnt_x:
+  readable_name: "Cnt X"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt_x2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt X2"
+- cnt_x3:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt X3"
+- cnt_x4:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt X4"
+- cnt1:
+  readable_name: "Cnt1"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt1_forDomain:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt1 forDomain"
+- cnt10:
+  readable_name: "Cnt10"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt2:
+  readable_name: "Cnt2"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt2_forDomain:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cnt2 forDomain"
+- cnt3:
+  readable_name: "Cnt3"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt4:
+  readable_name: "Cnt4"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt5:
+  readable_name: "Cnt5"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt6:
+  readable_name: "Cnt6"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt7:
+  readable_name: "Cnt7"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt8:
+  readable_name: "Cnt8"
+  required_apis:
+    - jujutsucraft
+  type: number
+- cnt9:
+  readable_name: "Cnt9"
+  required_apis:
+    - jujutsucraft
+  type: number
+- color3:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Color3"
+- CONNECT_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Connect Uuid"
+- continue:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Continue"
+- COOLDOWN_TICKS:
+  readable_name: "Cooldown Ticks"
+  required_apis:
+    - jujutsucraft
+  type: number
+- COOLDOWN_TICKS_OLD:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Cooldown Ticks Old"
+- Cover:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- crime1:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Crime1"
+- crime2:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Crime2"
+- crime3:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Crime3"
+- crime4:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Crime4"
+- CursedSpirit:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- CurseUser:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- Damage:
+  required_apis:
+    - jujutsucraft
+  type: number
+- data_cursed_spirit_manipulation:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Data Cursed Spirit Manipulation"
+- data_cursed_spirit_manipulation1:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Data Cursed Spirit Manipulation1"
+- DataNameOld:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes1:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes10:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes2:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes4:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes5:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes6:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes7:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes8:
+  required_apis:
+    - jujutsucraft
+  type: string
+- DataSixEyes9:
+  required_apis:
+    - jujutsucraft
+  type: string
+- death_count1:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Death Count1"
+- death_count2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Death Count2"
+- death_painting:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Death Painting"
+- delay_time:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Delay Time"
+- despawn:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Despawn"
+- despawn_flag:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Despawn Flag"
+- distance:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Distance"
+- domain_entity:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Domain Entity"
+- domain_floor:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Domain Floor"
+- domain_inside:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Domain Inside"
+- domain_outside:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Domain Outside"
+- DomainAttack:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- DomainDefeated:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- dust_amount:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Dust Amount"
+- effect:
+  readable_name: "Effect"
+  required_apis:
+    - jujutsucraft
+  type: number
+- effectConfirm:
+  required_apis:
+    - jujutsucraft
+  type: number
+- entity_can_use_rct:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Entity Can Use Rct"
+- explode:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Explode"
+- ExtinctionBlock:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- Failed:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- failed_adjustment:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Failed Adjustment"
+- flag:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag"
+- flag_a:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag A"
+- flag_agito:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Agito"
+- flag_attack:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Attack"
+- flag_day:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Day"
+- flag_despawn:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Despawn"
+- flag_die:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Die"
+- flag_dismantle:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Dismantle"
+- flag_domain:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Domain"
+- flag_fall:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Fall"
+- flag_mahoraga:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Mahoraga"
+- flag_pendant:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Pendant"
+- flag_pet:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Pet"
+- flag_place:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Place"
+- flag_sixEyes:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag sixEyes"
+- flag_start:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Start"
+- flag_weapon:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag Weapon"
+- flag1:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag1"
+- flag2:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag2"
+- flag3:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flag3"
+- FlagSukuna:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- flame:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Flame"
+- FOLLOW_ID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Follow Id"
+- free:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Free"
+- FREEZE_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Freeze Uuid"
+- friend_num:
+  readable_name: "Friend Num"
+  required_apis:
+    - jujutsucraft
+  type: number
+- friend_num_keep:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Friend Num Keep"
+- friend_num_worker:
+  readable_name: "Friend Num Worker"
+  required_apis:
+    - jujutsucraft
+  type: number
+- friend_num2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Friend Num2"
+- GARUDA_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Garuda Uuid"
+- Giant:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- GojoNoUseInfinity:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- grade0:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade0"
+- grade03:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade03"
+- grade04:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade04"
+- grade05:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade05"
+- grade06:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade06"
+- grade07:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade07"
+- grade08:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade08"
+- grade1:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade1"
+- grade11:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade11"
+- grade110:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade110"
+- grade111:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade111"
+- grade112:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade112"
+- grade113:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade113"
+- grade114:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade114"
+- grade115:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade115"
+- grade12:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade12"
+- grade13:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade13"
+- grade14:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade14"
+- grade15:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade15"
+- grade16:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade16"
+- grade17:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade17"
+- grade18:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade18"
+- grade19:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Grade19"
+- guard:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Guard"
+- HasWeapon1:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- HasWeapon2:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- HasWeapon3:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- height:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Height"
+- ignore:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Ignore"
+- infinity:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Infinity"
+- IQ:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Iq"
+- jjkChara:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- JUDGE_ENTITY:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Judge Entity"
+- JujutsuSorcerer:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- kill_count:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Kill Count"
+- knockback:
+  readable_name: "Knockback"
+  required_apis:
+    - jujutsucraft
+  type: number
+- KnockbackFix:
+  required_apis:
+    - jujutsucraft
+  type: number
+- LevelResistance:
+  required_apis:
+    - jujutsucraft
+  type: number
+- Life:
+  required_apis:
+    - jujutsucraft
+  type: number
+- LIQUID_METAL_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Liquid Metal Uuid"
+- Marine:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- mode:
+  readable_name: "Mode"
+  required_apis:
+    - jujutsucraft
+  type: number
+- mode_fly:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Mode Fly"
+- mode_hakari:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Mode Hakari"
+- modement_mode:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Modement Mode"
+- move:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Move"
+- movement:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Movement"
+- movement_amount:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Movement Amount"
+- Nail:
+  required_apis:
+    - jujutsucraft
+  type: number
+- NameRanged:
+  required_apis:
+    - jujutsucraft
+  type: number
+- NameRanged_ranged:
+  readable_name: "NameRanged Ranged"
+  required_apis:
+    - jujutsucraft
+  type: number
+- NameRanged_ranged_keep:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "NameRanged Ranged Keep"
+- noEffect:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- NonSorcerer:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- noParticle:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- num_grade0:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Num Grade0"
+- num_grade1:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Num Grade1"
+- num_grade2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Num Grade2"
+- num_grade3:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Num Grade3"
+- NUM_TenShadowsTechnique:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Num TenShadowsTechnique"
+- old_barrier:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Old Barrier"
+- old_block:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Old Block"
+- old_power:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Old Power"
+- old_skill:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Old Skill"
+- old_x:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Old X"
+- old_x_position:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Old X Position"
+- old_y:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Old Y"
+- old_y_position:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Old Y Position"
+- old_z:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Old Z"
+- old_z_position:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Old Z Position"
+- oldHealth:
+  required_apis:
+    - jujutsucraft
+  type: number
+- onlyLiving:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- onlyRanged:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- owner_name:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Owner Name"
+- owner_name_data:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Owner Name Data"
+- OWNER_UUID:
+  readable_name: "Owner Uuid"
+  required_apis:
+    - jujutsucraft
+  type: string
+- OWNER_UUID_keep:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Owner Uuid Keep"
+- particle_id:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Particle Id"
+- particle_id2:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Particle Id2"
+- PASSIVE_POWERFIX:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Passive Powerfix"
+- Pirate:
+  required_apis:
+    - jujutsucraft
+  type: number
+- pitch:
+  readable_name: "Pitch"
+  required_apis:
+    - jujutsucraft
+  type: number
+- pitch_fix:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Pitch Fix"
+- Player:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- PlayerName:
+  required_apis:
+    - jujutsucraft
+  type: string
+- pName:
+  required_apis:
+    - jujutsucraft
+  type: string
+- position_pitch:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Position Pitch"
+- position_yaw:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Position Yaw"
+- PRESS_A:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Press A"
+- PRESS_D:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Press D"
+- PRESS_M:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Press M"
+- PRESS_S:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Press S"
+- PRESS_SPACE:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Press Space"
+- PRESS_W:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Press W"
+- PRESS_Z:
+  readable_name: "Press Z"
+  required_apis:
+    - jujutsucraft
+  type: logic
+- projectile_type:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Projectile Type"
+- Range:
+  required_apis:
+    - jujutsucraft
+  type: number
+- reach_action:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Reach Action"
+- Reserve:
+  required_apis:
+    - jujutsucraft
+  type: number
+- Revolutionary:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- RIKA_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Rika Uuid"
+- run_type:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Run Type"
+- SCALE_EFFECT_NUM:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Scale Effect Num"
+- SCALE_NOCHANGE:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Scale Nochange"
+- select:
+  readable_name: "Select"
+  required_apis:
+    - jujutsucraft
+  type: number
+- Shikigami:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- SHIKIGAMI_DHRUV1_:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Shikigami Dhruv1"
+- SHIKIGAMI_DHRUV1_1:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Shikigami Dhruv1 1"
+- SHIKIGAMI_DHRUV2_:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Shikigami Dhruv2"
+- SHIKIGAMI_DHRUV2_1:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Shikigami Dhruv2 1"
+- SHIKIGAMI_MOON_DREGS_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Shikigami Moon Dregs Uuid"
+- SHIKIGAMI_ROZETSU_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Shikigami Rozetsu Uuid"
+- SHIKIGAMI_TSUCHIGUMO_UUID0:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Shikigami Tsuchigumo Uuid0"
+- size:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Size"
+- skill:
+  readable_name: "Skill"
+  required_apis:
+    - jujutsucraft
+  type: number
+- skill_domain:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Skill Domain"
+- skill_num:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Skill Num"
+- SLOT:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Slot"
+- SLOT1:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Slot1"
+- SLOT2:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Slot2"
+- SLOT3:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Slot3"
+- speed:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Speed"
+- start:
+  readable_name: "Start"
+  required_apis:
+    - jujutsucraft
+  type: logic
+- StartDomainAttack:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- Stop:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- Strength:
+  required_apis:
+    - jujutsucraft
+  type: number
+- swing:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Swing"
+- takada_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Takada Uuid"
+- TARGET:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Target"
+- target_type:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Target Type"
+- TARGET_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Target Uuid"
+- target_x:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Target X"
+- target_y:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Target Y"
+- target_z:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Target Z"
+- TARGET1:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Target1"
+- TenShadowsTechnique:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique1:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique10:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique11:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique13:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique14:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique2:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique3:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique4:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique5:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique6:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique7:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique8:
+  required_apis:
+    - jujutsucraft
+  type: number
+- TenShadowsTechnique9:
+  required_apis:
+    - jujutsucraft
+  type: number
+- Thunder:
+  required_apis:
+    - jujutsucraft
+  type: number
+- totalDamage:
+  required_apis:
+    - jujutsucraft
+  type: number
+- transform:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Transform"
+- TRUE_SPHERE_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "True Sphere Uuid"
+- UpdateSkills:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- use_uzumaki:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Use Uzumaki"
+- UseCursedTechnique:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- used_technique_cost:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Used Technique Cost"
+- uzumaki:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Uzumaki"
+- x_knockback:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "X Knockback"
+- x_pos:
+  readable_name: "X Pos"
+  required_apis:
+    - jujutsucraft
+  type: number
+- x_pos_doma:
+  readable_name: "X Pos Doma"
+  required_apis:
+    - jujutsucraft
+  type: number
+- x_pos_doma2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "X Pos Doma2"
+- x_pos2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "X Pos2"
+- x_power:
+  readable_name: "X Power"
+  required_apis:
+    - jujutsucraft
+  type: number
+- y_knockback:
+  readable_name: "Y Knockback"
+  required_apis:
+    - jujutsucraft
+  type: number
+- y_offset:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Y Offset"
+- y_pos:
+  readable_name: "Y Pos"
+  required_apis:
+    - jujutsucraft
+  type: number
+- y_pos_doma:
+  readable_name: "Y Pos Doma"
+  required_apis:
+    - jujutsucraft
+  type: number
+- y_pos_doma2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Y Pos Doma2"
+- y_pos2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Y Pos2"
+- y_power:
+  readable_name: "Y Power"
+  required_apis:
+    - jujutsucraft
+  type: number
+- yaw:
+  readable_name: "Yaw"
+  required_apis:
+    - jujutsucraft
+  type: number
+- yaw_fix:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Yaw Fix"
+- z_knockback:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Z Knockback"
+- z_pos:
+  readable_name: "Z Pos"
+  required_apis:
+    - jujutsucraft
+  type: number
+- z_pos_doma:
+  readable_name: "Z Pos Doma"
+  required_apis:
+    - jujutsucraft
+  type: number
+- z_pos_doma2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Z Pos Doma2"
+- z_pos2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Z Pos2"
+- z_power:
+  readable_name: "Z Power"
+  required_apis:
+    - jujutsucraft
+  type: number

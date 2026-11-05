@@ -1,0 +1,1 @@
+JujutsuCraft.getJujutsuPlayerData().setSorcerer(${input$entity}, ${input$sorcererId});

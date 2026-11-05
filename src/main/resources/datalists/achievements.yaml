@@ -1,0 +1,627 @@
+- jujutsucraft/advancement_insect:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/advancement_select_technique:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/advancement_six_eyes:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/anti_open_barrier_type_domain:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_advancements:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_aoi_todo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_atsuya_kusakabe:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_charles_bernard:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_chojuro_zenin:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_choso:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_1:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_10:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_11:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_12:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_13:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_14:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_15:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_16:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_3:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_4:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_5:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_6:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_7:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_8:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_cursed_spirit_grade_special_9:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_dagon:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_dhruv_lakdawalla:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_eso:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_fumihiko_takaba:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_hagane_daido:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_hajime_kashimo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_hana_kurusu:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_hanami:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_haruta_shigemo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_hiromi_higuruma:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_iori_hazenoki:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_jinichi_zenin:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_jiro_awasaka:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_jogo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_juzo_kumiya:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_kasumi_miwa:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_kechizu:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_kenjaku:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_kento_nanami:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_kinji_hakari:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_kirara_hoshi:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_larue:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_mahito:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_mahoraga:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_maki_zenin:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_maki_zenin_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_masamichi_yaga:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_mechamaru:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_megumi_fushiguro:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_megumi_fushiguro_shibuya:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_mei_mei:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_miguel_1:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_miguel_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_mimiko_nanako:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_momo_nishimiya:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_naobito_zenin:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_naoya_zenin:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_naoya_zenin_cursed_spirit:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_nobara_kugisaki:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_noritoshi_kamo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_ogami:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_ogi_zenin:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_panda:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_reggie_star:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_rokujushi_miyo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_rozetsu:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_ryu_ishigori:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_satoru_gojo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_satoru_gojo_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_suguru_geto:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_suguru_geto_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_sukuna:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_sukuna_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_sukuna_3:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_takako_uro:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_takuma_ino:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_toge_inumaki:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_toji_fushiguro:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_toshihisa_negi:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_uraume:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_yorozu:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_yuji_itadori:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_yuji_itadori_shibuya:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_yuji_itadori_shinjuku:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_yuki_tsukumo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_yuta_okkotsu:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_yuta_okkotsu_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/black_flash:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/completely_physically_gifted:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/fame_1:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/fame_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/fame_3:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/fame_4:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/fame_special:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/jujutsu_craft_skills:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/junpei_yoshino:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/mastery_domain_amplification:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/mastery_domain_expansion:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/mastery_falling_blossom_emotion:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/mastery_open_barrier_type_domain:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/mastery_simple_domain:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/observation_of_the_soul:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/reverse_cursed_technique_1:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/reverse_cursed_technique_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/reward_weapons:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_bathynomus_giganteus:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_bird_strike:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_black_bird_manipulation:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_black_hole:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_blood_manipulation:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_blood_wave:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_cleave:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_collapse:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_convergence:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_copy:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_copy_cursed_speech:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_copy_dhruv_lakdawalla:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_copy_takako_uro:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_cursed_technique_lapse_blue:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_cursed_technique_reversal_red:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_curseis_lifted:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dagon:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_death_swarm:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_deep_concentration:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_disaster_flames:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dismantle:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dismantle_cut_the_world:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dismantle_itadori:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_divergent_fist:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_divine_dog_totality:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_divine_dogs:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_explodethe_air:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_flame_laser:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_flowing_red_scale:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_frost_calm:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_garuda:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_garuda_soccer:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_geto:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_gojo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_great_serpent:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_hanami:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_high_speed:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_hollow_technique_purple:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_huge_roots:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_icefall:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_infinity:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_instant_spirit_bodyof_distorted_killing:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_itadori:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_jogo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_lava_waves:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_mahito:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_mahoraga:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_mahoraga_wheel:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_max_elephant:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_max_elephant_piercing_blood:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_maximum_meteor:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_maximum_uzumaki:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_merged_beast_agito:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_nanami:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_naoya:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_new_shadow_style:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_new_shadow_style_lv_1:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_new_shadow_style_lv_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_new_shadow_style_lv_3:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_new_shadow_style_lv_4:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_nue:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_nue_titan:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_open:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_piercing_blood:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_piercing_blood_itadori:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_piercing_ox:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_polymorphic_soul_isomer:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_rabbit_escape:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_rika_control:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_round_deer:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_soul_multiplicity:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_strike_strengthening:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_sukuna:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_supernova:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_supernova_itadori:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_ten_shadows_technique:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_tiger_funeral:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_toad:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_tsukumo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_uraume:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/sorcerer_grade_1:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/sorcerer_grade_1_semi:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/sorcerer_grade_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/sorcerer_grade_2_semi:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/sorcerer_grade_3:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/sorcerer_grade_4:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/sorcerer_grade_special:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/start_jujutsu_craft:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/update:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_dabura_karaba:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/battle_yuji_itadori_modulo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dabura:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dabura_1:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dabura_1_combo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dabura_2:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dabura_2_combo:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dabura_3:
+  required_apis:
+    - jujutsucraft
+- jujutsucraft/skill_dabura_4:
+  required_apis:
+    - jujutsucraft

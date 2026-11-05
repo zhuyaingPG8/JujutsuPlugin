@@ -1,0 +1,65 @@
+- BULLET_BALL_PROJECTILE:
+  readable_name: "Bullet Ball Projectile"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_BLOOD_PROJECTILE:
+  readable_name: "Bullet Blood Projectile"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_CANNON_PROJECTILE:
+  readable_name: "Bullet Cannon Projectile"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_CURSE_POWER_PROJECTILE:
+  readable_name: "Bullet Curse Power Projectile"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_EYE:
+  readable_name: "Bullet Eye"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_FLAME_PROJECTILE:
+  readable_name: "Bullet Flame Projectile"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_HUMAN_PROJECTILE:
+  readable_name: "Bullet Human Projectile"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_KITCHEN_KNIFE:
+  readable_name: "Bullet Kitchen Knife"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_KNIFE:
+  readable_name: "Bullet Knife"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_NAIL:
+  readable_name: "Bullet Nail"
+  type: projectile_no_power
+  required_apis:
+    - jujutsucraft
+- BULLET_PISTOL:
+  readable_name: "Bullet Pistol"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_SKELETON_PROJECTILE:
+  readable_name: "Bullet Skeleton Projectile"
+  type: projectile
+  required_apis:
+    - jujutsucraft
+- BULLET_TOOTH:
+  readable_name: "Bullet Tooth"
+  type: projectile
+  required_apis:
+    - jujutsucraft

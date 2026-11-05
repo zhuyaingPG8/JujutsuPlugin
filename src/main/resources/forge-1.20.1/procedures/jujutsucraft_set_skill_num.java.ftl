@@ -1,0 +1,1 @@
+JujutsuCraft.getJujutsuPlayerData().setSkillNumber(${input$entity}, ${input$num}, ${input$num1});

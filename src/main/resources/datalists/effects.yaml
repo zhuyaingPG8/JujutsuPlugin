@@ -1,0 +1,230 @@
+- CURSED_TECHNIQUE:
+  readable_name: "Cursed Technique"
+  texture: cursed_technique
+  required_apis:
+    - jujutsucraft
+- INFINITY_EFFECT:
+  readable_name: "Infinity Effect"
+  texture: infinity_effect
+  required_apis:
+    - jujutsucraft
+- DOMAIN_EXPANSION:
+  readable_name: "Domain Expansion"
+  texture: domain_expansion
+  required_apis:
+    - jujutsucraft
+- NEUTRALIZATION:
+  readable_name: "Neutralization"
+  texture: neutralization
+  required_apis:
+    - jujutsucraft
+- COOLDOWN_TIME:
+  readable_name: "Cooldown Time"
+  texture: cooldown_time
+  required_apis:
+    - jujutsucraft
+- ZONE:
+  readable_name: "Zone"
+  texture: zone
+  required_apis:
+    - jujutsucraft
+- SIMPLE_DOMAIN:
+  readable_name: "Simple Domain"
+  texture: simple_domain
+  required_apis:
+    - jujutsucraft
+- PHYSICAL_GIFTED_EFFECT:
+  readable_name: "Physical Gifted Effect"
+  texture: physical_gifted_effect
+  required_apis:
+    - jujutsucraft
+- CANCEL_CURSED_TECHNIQUE:
+  readable_name: "Cancel Cursed Technique"
+  texture: cancel_cursed_technique
+  required_apis:
+    - jujutsucraft
+- SIX_EYES:
+  readable_name: "Six Eyes"
+  texture: six_eyes
+  required_apis:
+    - jujutsucraft
+- GUARD:
+  readable_name: "Guard"
+  texture: guard
+  required_apis:
+    - jujutsucraft
+- SPECIAL:
+  readable_name: "Special"
+  texture: special
+  required_apis:
+    - jujutsucraft
+- PROJECTION_SORCERY:
+  readable_name: "Projection Sorcery"
+  texture: projection_sorcery
+  required_apis:
+    - jujutsucraft
+- CONVERGENCE:
+  readable_name: "Convergence"
+  texture: convergence
+  required_apis:
+    - jujutsucraft
+- STAR_RAGE:
+  readable_name: "Star Rage"
+  texture: star_rage
+  required_apis:
+    - jujutsucraft
+- DEATH_PAINTING_BLOOD:
+  readable_name: "Death Painting Blood"
+  texture: death_painting_blood
+  required_apis:
+    - jujutsucraft
+- REVERSE_CURSED_TECHNIQUE:
+  readable_name: "Reverse Cursed Technique"
+  texture: reverse_cursed_technique
+  required_apis:
+    - jujutsucraft
+- DOMAIN_AMPLIFICATION:
+  readable_name: "Domain Amplification"
+  texture: domain_amplification
+  required_apis:
+    - jujutsucraft
+- UNSTABLE:
+  readable_name: "Unstable"
+  texture: unstable
+  required_apis:
+    - jujutsucraft
+- COOLDOWN_TIME_BACK_STEP:
+  readable_name: "Cooldown Time Back Step"
+  texture: cooldown_time_back_step
+  required_apis:
+    - jujutsucraft
+- COOLDOWN_TIME_SIMPLE_DOMAIN:
+  readable_name: "Cooldown Time Simple Domain"
+  texture: cooldown_time_simple_domain
+  required_apis:
+    - jujutsucraft
+- COMEDIAN:
+  readable_name: "Comedian"
+  texture: comedian
+  required_apis:
+    - jujutsucraft
+- SCALE_CHANGE:
+  readable_name: "Scale Change"
+  texture: scale_change
+  required_apis:
+    - jujutsucraft
+- SUKUNA_EFFECT:
+  readable_name: "Sukuna Effect"
+  texture: sukuna_effect
+  required_apis:
+    - jujutsucraft
+- MYTHICAL_BEAST_AMBER_EFFECT:
+  readable_name: "Mythical Beast Amber Effect"
+  texture: mythical_beast_amber_effect
+  required_apis:
+    - jujutsucraft
+- INSTANT_SPIRIT_BODYOF_DISTORTED_KILLING_EFFECT:
+  readable_name: "Instant Spirit Bodyof Distorted Killing Effect"
+  texture: instant_spirit_bodyof_distorted_killing_effect
+  required_apis:
+    - jujutsucraft
+- FALLING_BLOSSOM_EMOTION:
+  readable_name: "Falling Blossom Emotion"
+  texture: falling_blossom_emotion
+  required_apis:
+    - jujutsucraft
+- COOLDOWN_TIME_COMBAT:
+  readable_name: "Cooldown Time Combat"
+  texture: cooldown_time_combat
+  required_apis:
+    - jujutsucraft
+- FLY_EFFECT:
+  readable_name: "Fly Effect"
+  texture: fly_effect
+  required_apis:
+    - jujutsucraft
+- DOUBLE_JUMP_EFFECT:
+  readable_name: "Double Jump Effect"
+  texture: double_jump_effect
+  required_apis:
+    - jujutsucraft
+- JACKPOT:
+  readable_name: "Jackpot"
+  texture: jackpot
+  required_apis:
+    - jujutsucraft
+- PRAYER_SONG:
+  readable_name: "Prayer Song"
+  texture: prayer_song
+  required_apis:
+    - jujutsucraft
+- INSECT_ARMOR_TECHNIQUE:
+  readable_name: "Insect Armor Technique"
+  texture: insect_armor_technique
+  required_apis:
+    - jujutsucraft
+- CURSED_POISON:
+  readable_name: "Cursed Poison"
+  texture: cursed_poison
+  required_apis:
+    - jujutsucraft
+- FATIGUE:
+  readable_name: "Fatigue"
+  texture: fatigue
+  required_apis:
+    - jujutsucraft
+- BRAIN_DAMAGE:
+  readable_name: "Brain Damage"
+  texture: brain_damage
+  required_apis:
+    - jujutsucraft
+- DAMAGE_EFFECT:
+  readable_name: "Damage Effect"
+  texture: damage_effect
+  required_apis:
+    - jujutsucraft
+- EFFECT_KIRIN:
+  readable_name: "Effect Kirin"
+  texture: effect_kirin
+  required_apis:
+    - jujutsucraft
+- EFFECT_REIKI:
+  readable_name: "Effect Reiki"
+  texture: effect_reiki
+  required_apis:
+    - jujutsucraft
+- HIGH_SPEED:
+  readable_name: "High Speed"
+  texture: high_speed
+  required_apis:
+    - jujutsucraft
+- IGNORE_GUARD:
+  readable_name: "Ignore Guard"
+  texture: ignore_guard
+  required_apis:
+    - jujutsucraft
+- DEEP_CONCENTRATION:
+  readable_name: "Deep Concentration"
+  texture: deep_concentration
+  required_apis:
+    - jujutsucraft
+- COOLDOWN_TIME_GUARD:
+  readable_name: "Cooldown Time Guard"
+  texture: cooldown_time_guard
+  required_apis:
+    - jujutsucraft
+- STUN:
+  readable_name: "Stun"
+  texture: stun
+  required_apis:
+    - jujutsucraft
+- ATTACKING:
+  readable_name: "Attacking"
+  texture: attacking
+  required_apis:
+    - jujutsucraft
+- COLOR:
+  readable_name: "Color"
+  texture: color
+  required_apis:
+    - jujutsucraft

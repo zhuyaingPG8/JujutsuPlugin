@@ -1,0 +1,30 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "entity",
+      "check": "Entity"
+    },
+    {
+      "type": "field_data_list_selector",
+      "name": "variable",
+      "datalist": "jujutsucraft_playervars",
+      "typeFilter": "string"
+    }
+  ],
+  "inputsInline": true,
+  "output": "String",
+  "colour": "%{BKY_TEXTS_HUE}",
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_variables",
+    "toolbox_init": [
+      "<value name=\"entity\"><block type=\"entity_from_deps\"></block></value>"
+    ],
+    "fields": [
+      "variable"
+    ],
+    "inputs": [
+      "entity"
+    ]
+  }
+}

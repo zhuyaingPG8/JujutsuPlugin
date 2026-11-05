@@ -1,0 +1,28 @@
+templates:
+  - template: cursedtechnique/jujutsutechniquetemplate.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/technique/@NAMESorcererTechnique.java"
+  - template: cursedtechnique/jujutsutechniquetranslationtemplate.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/translation/@NAMESorcererTechniqueTranslation.java"
+
+global_templates:
+  - template: api/jujutsucraft.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/apis/JujutsuCraft.java"
+  - template: api/jujutsucurseddata.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/apis/JujutsuCursedData.java"
+  - template: api/jujutsuplayerdata.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/apis/JujutsuPlayerData.java"
+  - template: api/impl/jujutsucurseddataimpl.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/apis/impl/JujutsuCursedDataImpl.java"
+  - template: api/impl/jujutsuplayerdataimpl.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/apis/impl/JujutsuPlayerDataImpl.java"
+  - template: mixin/cursedtechniqueactivemixin.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/mixins/@JavaModNameCursedTechniqueActiveMixin.java"
+  - template: mixin/keychangetechniquemixin.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/mixins/@JavaModNameKeyChangeTechniqueMixin.java"
+  - template: mixin/keyusemainskillmixin.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/mixins/@JavaModNameKeyUseMainSkillMixin.java"
+
+localizationkeys:
+  - fromlist: data.slots
+    key: technique.@modid.skill_@item_index
+    mapto: name

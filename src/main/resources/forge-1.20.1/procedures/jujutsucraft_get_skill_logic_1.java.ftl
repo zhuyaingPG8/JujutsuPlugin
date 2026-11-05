@@ -1,0 +1,1 @@
+(JujutsuCraft.getJujutsuPlayerData().getSkillBoolean(${input$entity}, ${input$num}))

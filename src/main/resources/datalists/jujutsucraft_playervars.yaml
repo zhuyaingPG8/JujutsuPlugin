@@ -1,0 +1,141 @@
+- flag_shift:
+  readable_name: "Flag Shift"
+  type: logic
+  required_apis:
+    - jujutsucraft
+- flag_sukuna:
+  readable_name: "Flag Sukuna"
+  type: logic
+  required_apis:
+    - jujutsucraft
+- FlagSixEyes:
+  type: logic
+  required_apis:
+    - jujutsucraft
+- noChangeTechnique:
+  type: logic
+  required_apis:
+    - jujutsucraft
+- PassiveTechnique:
+  type: logic
+  required_apis:
+    - jujutsucraft
+- PhysicalAttack:
+  type: logic
+  required_apis:
+    - jujutsucraft
+- PlayerFlag_A:
+  readable_name: "PlayerFlag A"
+  type: logic
+  required_apis:
+    - jujutsucraft
+- PlayerFlag_B:
+  readable_name: "PlayerFlag B"
+  type: logic
+  required_apis:
+    - jujutsucraft
+- SecondTechnique:
+  type: logic
+  required_apis:
+    - jujutsucraft
+- cnt_curse1:
+  readable_name: "Cnt Curse1"
+  type: number
+  required_apis:
+    - jujutsucraft
+- friend_num_keep:
+  readable_name: "Friend Num Keep"
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerCharge:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerCursePower:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerCursePowerChange:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerCursePowerFormer:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerCursePowerMAX:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerCurseTechnique:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerCurseTechnique2:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerExperience:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerFame:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerLevel:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerProfession:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerSelectCurseTechnique:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerSelectCurseTechniqueCost:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerSelectCurseTechniqueCostOrgin:
+  type: number
+  required_apis:
+    - jujutsucraft
+- PlayerTechniqueUsedNumber:
+  type: number
+  required_apis:
+    - jujutsucraft
+- OVERLAY1:
+  readable_name: "Overlay1"
+  type: string
+  required_apis:
+    - jujutsucraft
+- OVERLAY2:
+  readable_name: "Overlay2"
+  type: string
+  required_apis:
+    - jujutsucraft
+- OverlayCost:
+  type: string
+  required_apis:
+    - jujutsucraft
+- OverlayCursePower:
+  type: string
+  required_apis:
+    - jujutsucraft
+- PlayerSelectCurseTechniqueName:
+  type: string
+  required_apis:
+    - jujutsucraft
+- use_mainSkill:
+  readable_name: "Use mainSkill"
+  type: logic
+  required_apis:
+    - jujutsucraft
+- BodyItem:
+  required_apis:
+    - jujutsucraft
+  type: item

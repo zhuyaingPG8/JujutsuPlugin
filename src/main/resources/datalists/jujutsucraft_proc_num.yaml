@@ -1,0 +1,56 @@
+- ReturnEntitySizeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GetDistanceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SizeByNBTProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GetReachProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GetWeaponSizeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GetSukunaLevelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ReturnEnergyColorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GetDistanceIteratorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- GetHeightFromGroundProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ChangeDamage1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- GetDistanceNearestEnemyProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ReturnTenShadowsNumProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GetDifficultyLevelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world
+- ChangeDamage2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: none

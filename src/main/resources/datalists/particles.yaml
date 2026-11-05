@@ -1,0 +1,180 @@
+- PARTICLE_CURSE_POWER_BLUE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Curse Power Blue"
+- PARTICLE_CURSE_POWER_ORANGE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Curse Power Orange"
+- PARTICLE_CURSE_POWER_RED:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Curse Power Red"
+- PARTICLE_BLOOD_RED:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Blood Red"
+- PARTICLE_BLOOD_PURPLE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Blood Purple"
+- PARTICLE_SHOCK_HIT:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Shock Hit"
+- PARTICLE_WATER:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Water"
+- PARTICLE_BLACK_FLASH_1:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Black Flash 1"
+- PARTICLE_FIRE_SPARK:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Fire Spark"
+- PARTICLE_FANGS:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Fangs"
+- PARTICLE_CLAWS:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Claws"
+- PARTICLE_THUNDER_BLUE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Thunder Blue"
+- PARTICLE_BROKEN_GLASS:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Broken Glass"
+- PARTICLE_WATER_2:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Water 2"
+- PARTICLE_NANAMI_1:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Nanami 1"
+- PARTICLE_NANAMI_2:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Nanami 2"
+- PARTICLE_BROKEN_GLASS_SMALL:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Broken Glass Small"
+- PARTICLE_WI_FI:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Wi Fi"
+- PARTICLE_MAGMA:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Magma"
+- PARTICLE_FLOWER:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Flower"
+- PARTICLE_FLAME:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Flame"
+- PARTICLE_BIG_SMOKE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Big Smoke"
+- PARTICLE_COCKROACH:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Cockroach"
+- PARTICLE_ICE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Ice"
+- PARTICLE_HOLLOW_WICKER_BASKET:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Hollow Wicker Basket"
+- PARTICLE_BLOOD_2:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Blood 2"
+- PARTICLE_SLASH:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Slash"
+- PARTICLE_UNLIMITED_VOID:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Unlimited Void"
+- PARTICLE_UNLIMITED_VOID_HOLE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Unlimited Void Hole"
+- PARTICLE_CURSE_POWER_GREEN:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Curse Power Green"
+- PARTICLE_THUNDER_BLUE_MINI:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Thunder Blue Mini"
+- PARTICLE_LIQUID_METAL:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Liquid Metal"
+- PARTICLE_WATER_NO_GRAVITY:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Water No Gravity"
+- PARTICLE_GRAVITY:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Gravity"
+- PARTICLE_DISMANTLE_ITADORI:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Dismantle Itadori"
+- PARTICLE_CURSE_POWER_PURPLE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Curse Power Purple"
+- PARTICLE_RED:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Red"
+- PARTICLE_BLUE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Blue"
+- PARTICLE_FLAME_PURPLE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Flame Purple"
+- PARTICLE_SLASH_LARGE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Slash Large"
+- PARTICLE_CURSE_POWER_WHITE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Curse Power White"
+- PARTICLE_THUNDER_PURPLE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Thunder Purple"
+- PARTICLE_WHITE:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle White"
+- PARTICLE_LIGHT:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Light"
+- PARTICLE_DARKNESS:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Particle Darkness"

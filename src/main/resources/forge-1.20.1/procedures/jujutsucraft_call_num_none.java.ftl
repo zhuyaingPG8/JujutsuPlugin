@@ -1,0 +1,1 @@
+${generator.map(field$procedure, "jujutsucraft_proc_num")}.execute()

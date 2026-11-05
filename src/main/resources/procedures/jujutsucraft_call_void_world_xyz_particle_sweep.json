@@ -1,0 +1,141 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "procedure",
+      "datalist": "jujutsucraft_proc_void",
+      "typeFilter": "world_xyz_particle_sweep"
+    },
+    {
+      "type": "input_value",
+      "name": "count",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "inaccuracyDegree",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "pitch",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "radius1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "radius2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "rollDegree",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "speed",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "x1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "x2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "yaw",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "id",
+      "check": "String"
+    },
+    {
+      "type": "field_image",
+      "src": "./res/server.png",
+      "width": 8,
+      "height": 24
+    }
+  ],
+  "inputsInline": true,
+  "colour": 240,
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_curse_technique",
+    "toolbox_init": [
+      "<value name=\"count\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"inaccuracyDegree\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"pitch\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"radius1\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"radius2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"rollDegree\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"speed\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"x1\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"x2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"y1\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"y2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"yaw\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"z1\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"z2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"id\"><block type=\"text\"><field name=\"TEXT\"></field></block></value>"
+    ],
+    "fields": [
+      "procedure"
+    ],
+    "inputs": [
+      "count",
+      "inaccuracyDegree",
+      "pitch",
+      "radius1",
+      "radius2",
+      "rollDegree",
+      "speed",
+      "x1",
+      "x2",
+      "y1",
+      "y2",
+      "yaw",
+      "z1",
+      "z2",
+      "id"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  },
+  "previousStatement": null,
+  "nextStatement": null
+}

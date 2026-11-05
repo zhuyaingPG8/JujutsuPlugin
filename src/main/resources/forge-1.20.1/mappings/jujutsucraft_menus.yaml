@@ -1,0 +1,4 @@
+_default: SelectTechnique
+SELECT_TECHNIQUE: SelectTechnique
+SELECT_PROFESSION: SelectProfession
+SELECT_TECHNIQUE_2: SelectTechnique2

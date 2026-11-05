@@ -1,0 +1,220 @@
+- C_Power:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number C Power"
+- cnt_adaptation:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Cnt adaptation"
+- cnt_heal:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Cnt heal"
+- COOLDOWN_TICKS:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number COOLDOWN TICKS"
+- CursePower:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number CursePower"
+- CursePower_:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number CursePower"
+- domain2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Domain2"
+- effect:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Effect"
+- Knockback:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Knockback"
+- Knockback_:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Knockback"
+- Power:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Power"
+- Power_:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Power"
+- power_energy:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Power energy"
+- Range:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Range"
+- Range_:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Range"
+- Reach:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Reach"
+- Reach_:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Reach"
+- SHIKIGAMI_HP:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number SHIKIGAMI HP"
+- skill:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Skill"
+- skill105:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Skill105"
+- skill205:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Skill205"
+- skill206:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Skill206"
+- TechniqueNumber1:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number TechniqueNumber1"
+- TechniqueNumber2:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number TechniqueNumber2"
+- toLiving:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number ToLiving"
+- y_data:
+  required_apis:
+    - jujutsucraft
+  type: number
+  readable_name: "Item number Y data"
+- DistributionItem:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Item flag DistributionItem"
+- effect_item:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Item flag Effect item"
+- hand:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Item flag Hand"
+- Used:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Item flag Used"
+- used_item:
+  required_apis:
+    - jujutsucraft
+  type: logic
+  readable_name: "Item flag Used item"
+- color1:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text Color1"
+- color2:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text Color2"
+- color3:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text Color3"
+- confiscation_item:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text Confiscation item"
+- DATA:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text DATA"
+- geckoAnim:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text GeckoAnim"
+- name_data:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text Name data"
+- owner_name_data:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text Owner name data"
+- OWNER_UUID:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text OWNER UUID"
+- SHIKIGAMI_NAME:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text SHIKIGAMI NAME"
+- slash_color:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text Slash color"
+- TARGET:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text TARGET"
+- TechniqueName:
+  required_apis:
+    - jujutsucraft
+  type: string
+  readable_name: "Item text TechniqueName"

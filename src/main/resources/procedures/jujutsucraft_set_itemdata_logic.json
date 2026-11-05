@@ -1,0 +1,38 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "key",
+      "datalist": "jujutsucraft_itemdata",
+      "typeFilter": "logic"
+    },
+    {
+      "type": "input_value",
+      "name": "item",
+      "check": "MCItem"
+    },
+    {
+      "type": "input_value",
+      "name": "value",
+      "check": "Boolean"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_variables",
+    "toolbox_init": [
+      "<value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\"></field></block></value>",
+      "<value name=\"value\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value>"
+    ],
+    "fields": [
+      "key"
+    ],
+    "inputs": [
+      "value",
+      "item"
+    ]
+  }
+}

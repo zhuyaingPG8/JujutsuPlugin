@@ -1,0 +1,15 @@
+- SELECT_TECHNIQUE:
+  texture: select_technique
+  required_apis:
+    - jujutsucraft
+  readable_name: "Select Technique"
+- SELECT_PROFESSION:
+  texture: select_profession
+  required_apis:
+    - jujutsucraft
+  readable_name: "Select Profession"
+- SELECT_TECHNIQUE_2:
+  texture: select_technique_2
+  required_apis:
+    - jujutsucraft
+  readable_name: "Select Technique 2"

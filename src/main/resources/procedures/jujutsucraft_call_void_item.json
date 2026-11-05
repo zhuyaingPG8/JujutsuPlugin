@@ -1,0 +1,37 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "procedure",
+      "datalist": "jujutsucraft_proc_void",
+      "typeFilter": "item"
+    },
+    {
+      "type": "input_value",
+      "name": "item",
+      "check": "MCItem"
+    },
+    {
+      "type": "field_image",
+      "src": "./res/server.png",
+      "width": 8,
+      "height": 24
+    }
+  ],
+  "inputsInline": true,
+  "colour": 240,
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_curse_technique",
+    "toolbox_init": [
+      "<value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\"></field></block></value>"
+    ],
+    "fields": [
+      "procedure"
+    ],
+    "inputs": [
+      "item"
+    ]
+  },
+  "previousStatement": null,
+  "nextStatement": null
+}

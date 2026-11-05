@@ -1,0 +1,464 @@
+- amane_dachi:
+  readable_name: "Amane Dachi"
+  required_apis:
+    - jujutsucraft
+- backstep:
+  readable_name: "Backstep"
+  required_apis:
+    - jujutsucraft
+- both_arm_front:
+  readable_name: "Both Arm Front"
+  required_apis:
+    - jujutsucraft
+- both_arm_ground:
+  readable_name: "Both Arm Ground"
+  required_apis:
+    - jujutsucraft
+- both_arm_up:
+  readable_name: "Both Arm Up"
+  required_apis:
+    - jujutsucraft
+- breath1:
+  readable_name: "Breath 1"
+  required_apis:
+    - jujutsucraft
+- breath2:
+  readable_name: "Breath 2"
+  required_apis:
+    - jujutsucraft
+- cancel:
+  readable_name: "Cancel"
+  required_apis:
+    - jujutsucraft
+- charge1:
+  readable_name: "Charge 1"
+  required_apis:
+    - jujutsucraft
+- charge2:
+  readable_name: "Charge 2"
+  required_apis:
+    - jujutsucraft
+- clap:
+  readable_name: "Clap"
+  required_apis:
+    - jujutsucraft
+- combo1:
+  readable_name: "Combo 1"
+  required_apis:
+    - jujutsucraft
+- combo2:
+  readable_name: "Combo 2"
+  required_apis:
+    - jujutsucraft
+- combo3:
+  readable_name: "Combo 3"
+  required_apis:
+    - jujutsucraft
+- dance1:
+  readable_name: "Dance 1"
+  required_apis:
+    - jujutsucraft
+- dance2:
+  readable_name: "Dance 2"
+  required_apis:
+    - jujutsucraft
+- dance3:
+  readable_name: "Dance 3"
+  required_apis:
+    - jujutsucraft
+- dance4:
+  readable_name: "Dance 4"
+  required_apis:
+    - jujutsucraft
+- dance5:
+  readable_name: "Dance 5"
+  required_apis:
+    - jujutsucraft
+- death:
+  readable_name: "Death"
+  required_apis:
+    - jujutsucraft
+- domain_expansion1:
+  readable_name: "Domain Expansion1"
+  required_apis:
+    - jujutsucraft
+- energy_charge:
+  readable_name: "Energy Charge"
+  required_apis:
+    - jujutsucraft
+- enkai:
+  readable_name: "Enkai"
+  required_apis:
+    - jujutsucraft
+- fall1:
+  readable_name: "Fall 1"
+  required_apis:
+    - jujutsucraft
+- fly:
+  readable_name: "Fly"
+  required_apis:
+    - jujutsucraft
+- fly_back:
+  readable_name: "Fly Back"
+  required_apis:
+    - jujutsucraft
+- fly_back2:
+  readable_name: "Fly Back2"
+  required_apis:
+    - jujutsucraft
+- fly_front:
+  readable_name: "Fly Front"
+  required_apis:
+    - jujutsucraft
+- fly_front2:
+  readable_name: "Fly Front2"
+  required_apis:
+    - jujutsucraft
+- fly_front3:
+  readable_name: "Fly Front3"
+  required_apis:
+    - jujutsucraft
+- gear_2:
+  readable_name: "Gear 2"
+  required_apis:
+    - jujutsucraft
+- guard:
+  readable_name: "Guard"
+  required_apis:
+    - jujutsucraft
+- hakoku_left1:
+  readable_name: "Hakoku Left1"
+  required_apis:
+    - jujutsucraft
+- hakoku_left2:
+  readable_name: "Hakoku Left2"
+  required_apis:
+    - jujutsucraft
+- hakoku_right1:
+  readable_name: "Hakoku Right1"
+  required_apis:
+    - jujutsucraft
+- hakoku_right2:
+  readable_name: "Hakoku Right2"
+  required_apis:
+    - jujutsucraft
+- head_overhead:
+  readable_name: "Head Overhead"
+  required_apis:
+    - jujutsucraft
+- headbutt_1:
+  readable_name: "Headbutt 1"
+  required_apis:
+    - jujutsucraft
+- headbutt_2:
+  readable_name: "Headbutt 2"
+  required_apis:
+    - jujutsucraft
+- iai1:
+  readable_name: "Iai 1"
+  required_apis:
+    - jujutsucraft
+- invisibility:
+  readable_name: "Invisibility"
+  required_apis:
+    - jujutsucraft
+- kaishin1:
+  readable_name: "Kaishin 1"
+  required_apis:
+    - jujutsucraft
+- kaishin2:
+  readable_name: "Kaishin 2"
+  required_apis:
+    - jujutsucraft
+- kaishin3:
+  readable_name: "Kaishin 3"
+  required_apis:
+    - jujutsucraft
+- kaishin4:
+  readable_name: "Kaishin 4"
+  required_apis:
+    - jujutsucraft
+- kamusari1:
+  readable_name: "Kamusari 1"
+  required_apis:
+    - jujutsucraft
+- kamusari2:
+  readable_name: "Kamusari 2"
+  required_apis:
+    - jujutsucraft
+- kamusari3:
+  readable_name: "Kamusari 3"
+  required_apis:
+    - jujutsucraft
+- kashimo_kick:
+  readable_name: "Kashimo Kick"
+  required_apis:
+    - jujutsucraft
+- kick_flying:
+  readable_name: "Kick Flying"
+  required_apis:
+    - jujutsucraft
+- kick_left:
+  readable_name: "Kick Left"
+  required_apis:
+    - jujutsucraft
+- kick_right:
+  readable_name: "Kick Right"
+  required_apis:
+    - jujutsucraft
+- kick_rotate1:
+  readable_name: "Kick Rotate1"
+  required_apis:
+    - jujutsucraft
+- kick_rotate2:
+  readable_name: "Kick Rotate2"
+  required_apis:
+    - jujutsucraft
+- kick_rotate3:
+  readable_name: "Kick Rotate3"
+  required_apis:
+    - jujutsucraft
+- kick_rotate4:
+  readable_name: "Kick Rotate4"
+  required_apis:
+    - jujutsucraft
+- kick_rotate5:
+  readable_name: "Kick Rotate5"
+  required_apis:
+    - jujutsucraft
+- kick_rotate9:
+  readable_name: "Kick Rotate9"
+  required_apis:
+    - jujutsucraft
+- negative:
+  readable_name: "Negative"
+  required_apis:
+    - jujutsucraft
+- onigiri1:
+  readable_name: "Onigiri 1"
+  required_apis:
+    - jujutsucraft
+- onigiri2:
+  readable_name: "Onigiri 2"
+  required_apis:
+    - jujutsucraft
+- open:
+  readable_name: "Open"
+  required_apis:
+    - jujutsucraft
+- plus_ultra:
+  readable_name: "Plus Ultra"
+  required_apis:
+    - jujutsucraft
+- punch_both:
+  readable_name: "Punch Both"
+  required_apis:
+    - jujutsucraft
+- punch_gomu_gatling1:
+  readable_name: "Punch Gomu Gatling1"
+  required_apis:
+    - jujutsucraft
+- punch_gomu_gatling2:
+  readable_name: "Punch Gomu Gatling2"
+  required_apis:
+    - jujutsucraft
+- punch_gomu_pistol1:
+  readable_name: "Punch Gomu Pistol1"
+  required_apis:
+    - jujutsucraft
+- punch_gomu_pistol2:
+  readable_name: "Punch Gomu Pistol2"
+  required_apis:
+    - jujutsucraft
+- punch_left:
+  readable_name: "Punch Left"
+  required_apis:
+    - jujutsucraft
+- punch_overhead:
+  readable_name: "Punch Overhead"
+  required_apis:
+    - jujutsucraft
+- punch_overhead2:
+  readable_name: "Punch Overhead2"
+  required_apis:
+    - jujutsucraft
+- punch_right:
+  readable_name: "Punch Right"
+  required_apis:
+    - jujutsucraft
+- punch_right_jinbe:
+  readable_name: "Punch Right Jinbe"
+  required_apis:
+    - jujutsucraft
+- ragnaraku1:
+  readable_name: "Ragnaraku 1"
+  required_apis:
+    - jujutsucraft
+- ragnaraku2:
+  readable_name: "Ragnaraku 2"
+  required_apis:
+    - jujutsucraft
+- ragnaraku3:
+  readable_name: "Ragnaraku 3"
+  required_apis:
+    - jujutsucraft
+- raimei_hakke1:
+  readable_name: "Raimei Hakke1"
+  required_apis:
+    - jujutsucraft
+- raimei_hakke2:
+  readable_name: "Raimei Hakke2"
+  required_apis:
+    - jujutsucraft
+- red:
+  readable_name: "Red"
+  required_apis:
+    - jujutsucraft
+- right_arm_front:
+  readable_name: "Right Arm Front"
+  required_apis:
+    - jujutsucraft
+- right_arm_front2:
+  readable_name: "Right Arm Front2"
+  required_apis:
+    - jujutsucraft
+- right_arm_up:
+  readable_name: "Right Arm Up"
+  required_apis:
+    - jujutsucraft
+- right_leg_front:
+  readable_name: "Right Leg Front"
+  required_apis:
+    - jujutsucraft
+- rin:
+  readable_name: "Rin"
+  required_apis:
+    - jujutsucraft
+- rokuogan:
+  readable_name: "Rokuogan"
+  required_apis:
+    - jujutsucraft
+- rotation:
+  readable_name: "Rotation"
+  required_apis:
+    - jujutsucraft
+- rotation2:
+  readable_name: "Rotation 2"
+  required_apis:
+    - jujutsucraft
+- sanzen_sekai1:
+  readable_name: "Sanzen Sekai1"
+  required_apis:
+    - jujutsucraft
+- sanzen_sekai2:
+  readable_name: "Sanzen Sekai2"
+  required_apis:
+    - jujutsucraft
+- simple_domain1:
+  readable_name: "Simple Domain1"
+  required_apis:
+    - jujutsucraft
+- simple_domain2:
+  readable_name: "Simple Domain2"
+  required_apis:
+    - jujutsucraft
+- speed_attack1:
+  readable_name: "Speed Attack1"
+  required_apis:
+    - jujutsucraft
+- speed_attack_punch:
+  readable_name: "Speed Attack Punch"
+  required_apis:
+    - jujutsucraft
+- speed_attack_sword:
+  readable_name: "Speed Attack Sword"
+  required_apis:
+    - jujutsucraft
+- sprint:
+  readable_name: "Sprint"
+  required_apis:
+    - jujutsucraft
+- sprint2:
+  readable_name: "Sprint 2"
+  required_apis:
+    - jujutsucraft
+- step_back:
+  readable_name: "Step Back"
+  required_apis:
+    - jujutsucraft
+- step_front:
+  readable_name: "Step Front"
+  required_apis:
+    - jujutsucraft
+- step_left:
+  readable_name: "Step Left"
+  required_apis:
+    - jujutsucraft
+- step_right:
+  readable_name: "Step Right"
+  required_apis:
+    - jujutsucraft
+- swim_butterfly:
+  readable_name: "Swim Butterfly"
+  required_apis:
+    - jujutsucraft
+- sword_overhead:
+  readable_name: "Sword Overhead"
+  required_apis:
+    - jujutsucraft
+- sword_overhead2:
+  readable_name: "Sword Overhead2"
+  required_apis:
+    - jujutsucraft
+- sword_rotate:
+  readable_name: "Sword Rotate"
+  required_apis:
+    - jujutsucraft
+- sword_to_left:
+  readable_name: "Sword To Left"
+  required_apis:
+    - jujutsucraft
+- sword_to_right:
+  readable_name: "Sword To Right"
+  required_apis:
+    - jujutsucraft
+- ten_shadows_technique_mahoraga:
+  readable_name: "Ten Shadows Technique Mahoraga"
+  required_apis:
+    - jujutsucraft
+- togen_totsuka1:
+  readable_name: "Togen Totsuka1"
+  required_apis:
+    - jujutsucraft
+- togen_totsuka2:
+  readable_name: "Togen Totsuka2"
+  required_apis:
+    - jujutsucraft
+- toragari1:
+  readable_name: "Toragari 1"
+  required_apis:
+    - jujutsucraft
+- toragari2:
+  readable_name: "Toragari 2"
+  required_apis:
+    - jujutsucraft
+- ul_zugan:
+  readable_name: "Ul Zugan"
+  required_apis:
+    - jujutsucraft
+- ursus_shock:
+  readable_name: "Ursus Shock"
+  required_apis:
+    - jujutsucraft
+- wifi:
+  readable_name: "Wifi"
+  required_apis:
+    - jujutsucraft
+- yamiyami_blackhole:
+  readable_name: "Yamiyami Blackhole"
+  required_apis:
+    - jujutsucraft
+- yasakani_no_magatama:
+  readable_name: "Yasakani No Magatama"
+  required_apis:
+    - jujutsucraft

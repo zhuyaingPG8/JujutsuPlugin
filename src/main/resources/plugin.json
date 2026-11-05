@@ -1,0 +1,16 @@
+{
+  "id": "jujutsu_plugin",
+  "supportedversions": [
+    2026002
+  ],
+  "weight": 0,
+  "javaplugin": "me.zhuyaing.jujutsu.JujutsuPlugin",
+  "info": {
+    "name": "JujutsuPlugin",
+    "version": "1.2",
+    "description": "mcreator plugin of the orca's jujutsucraft",
+    "author": "zhuyaingPG8",
+    "updateJSONURL": "https://raw.githubusercontent.com/zhuyaingPG8/JujutsuPlugin/main/update.json",
+    "pluginPageID": 124890
+  }
+}

@@ -1,0 +1,1280 @@
+FLAME_ARROW:
+  - FlameArrowEntity
+  - JujutsucraftModEntities.FLAME_ARROW.get()
+  - "jujutsucraft:flame_arrow"
+ENTITY_MALEVOLENT_SHRINE:
+  - EntityMalevolentShrineEntity
+  - JujutsucraftModEntities.ENTITY_MALEVOLENT_SHRINE.get()
+  - "jujutsucraft:entity_malevolent_shrine"
+ENTITY_SKULL:
+  - EntitySkullEntity
+  - JujutsucraftModEntities.ENTITY_SKULL.get()
+  - "jujutsucraft:entity_skull"
+CURSED_SPIRIT_GRADE_31:
+  - CursedSpiritGrade31Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_31.get()
+  - "jujutsucraft:cursed_spirit_grade_31"
+CURSED_SPIRIT_GRADE_32:
+  - CursedSpiritGrade32Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_32.get()
+  - "jujutsucraft:cursed_spirit_grade_32"
+CURSED_SPIRIT_GRADE_33:
+  - CursedSpiritGrade33Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_33.get()
+  - "jujutsucraft:cursed_spirit_grade_33"
+JOGO_HEAD:
+  - JogoHeadEntity
+  - JujutsucraftModEntities.JOGO_HEAD.get()
+  - "jujutsucraft:jogo_head"
+SOCCER_PLAYER:
+  - SoccerPlayerEntity
+  - JujutsucraftModEntities.SOCCER_PLAYER.get()
+  - "jujutsucraft:soccer_player"
+JOGO_ASH:
+  - JogoAshEntity
+  - JujutsucraftModEntities.JOGO_ASH.get()
+  - "jujutsucraft:jogo_ash"
+GRAVESTONE_1:
+  - Gravestone1Entity
+  - JujutsucraftModEntities.GRAVESTONE_1.get()
+  - "jujutsucraft:gravestone_1"
+GRAVESTONE_2:
+  - Gravestone2Entity
+  - JujutsucraftModEntities.GRAVESTONE_2.get()
+  - "jujutsucraft:gravestone_2"
+ENTITY_BLACK_FLASH:
+  - EntityBlackFlashEntity
+  - JujutsucraftModEntities.ENTITY_BLACK_FLASH.get()
+  - "jujutsucraft:entity_black_flash"
+STEVENSON_SCREEN:
+  - StevensonScreenEntity
+  - JujutsucraftModEntities.STEVENSON_SCREEN.get()
+  - "jujutsucraft:stevenson_screen"
+PURE_LOVE_CANNON:
+  - PureLoveCannonEntity
+  - JujutsucraftModEntities.PURE_LOVE_CANNON.get()
+  - "jujutsucraft:pure_love_cannon"
+DIVINE_DOG_WHITE:
+  - DivineDogWhiteEntity
+  - JujutsucraftModEntities.DIVINE_DOG_WHITE.get()
+  - "jujutsucraft:divine_dog_white"
+DIVINE_DOG_BLACK:
+  - DivineDogBlackEntity
+  - JujutsucraftModEntities.DIVINE_DOG_BLACK.get()
+  - "jujutsucraft:divine_dog_black"
+GREAT_SERPENT:
+  - GreatSerpentEntity
+  - JujutsucraftModEntities.GREAT_SERPENT.get()
+  - "jujutsucraft:great_serpent"
+MAX_ELEPHANT:
+  - MaxElephantEntity
+  - JujutsucraftModEntities.MAX_ELEPHANT.get()
+  - "jujutsucraft:max_elephant"
+MAHORAGA_DOG:
+  - MahoragaDogEntity
+  - JujutsucraftModEntities.MAHORAGA_DOG.get()
+  - "jujutsucraft:mahoraga_dog"
+MAHORAGA_FROG:
+  - MahoragaFrogEntity
+  - JujutsucraftModEntities.MAHORAGA_FROG.get()
+  - "jujutsucraft:mahoraga_frog"
+RABBIT_ESCAPE:
+  - RabbitEscapeEntity
+  - JujutsucraftModEntities.RABBIT_ESCAPE.get()
+  - "jujutsucraft:rabbit_escape"
+CURSED_SPIRIT_GRADE_34:
+  - CursedSpiritGrade34Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_34.get()
+  - "jujutsucraft:cursed_spirit_grade_34"
+CURSED_SPIRIT_GRADE_35:
+  - CursedSpiritGrade35Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_35.get()
+  - "jujutsucraft:cursed_spirit_grade_35"
+RED:
+  - RedEntity
+  - JujutsucraftModEntities.RED.get()
+  - "jujutsucraft:red"
+BLUE:
+  - BlueEntity
+  - JujutsucraftModEntities.BLUE.get()
+  - "jujutsucraft:blue"
+PURPLE:
+  - PurpleEntity
+  - JujutsucraftModEntities.PURPLE.get()
+  - "jujutsucraft:purple"
+PALM_TREE:
+  - PalmTreeEntity
+  - JujutsucraftModEntities.PALM_TREE.get()
+  - "jujutsucraft:palm_tree"
+CURSED_SPIRIT_GRADE_36:
+  - CursedSpiritGrade36Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_36.get()
+  - "jujutsucraft:cursed_spirit_grade_36"
+FRAME:
+  - FrameEntity
+  - JujutsucraftModEntities.FRAME.get()
+  - "jujutsucraft:frame"
+KECHIZU:
+  - KechizuEntity
+  - JujutsucraftModEntities.KECHIZU.get()
+  - "jujutsucraft:kechizu"
+SLICING_EXORCISM:
+  - SlicingExorcismEntity
+  - JujutsucraftModEntities.SLICING_EXORCISM.get()
+  - "jujutsucraft:slicing_exorcism"
+BLOOD_BALL:
+  - BloodBallEntity
+  - JujutsucraftModEntities.BLOOD_BALL.get()
+  - "jujutsucraft:blood_ball"
+FIST:
+  - FistEntity
+  - JujutsucraftModEntities.FIST.get()
+  - "jujutsucraft:fist"
+CURSED_SPIRIT_GRADE_37:
+  - CursedSpiritGrade37Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_37.get()
+  - "jujutsucraft:cursed_spirit_grade_37"
+CROW:
+  - CrowEntity
+  - JujutsucraftModEntities.CROW.get()
+  - "jujutsucraft:crow"
+DOMAIN_EXPANSION_ENTITY:
+  - DomainExpansionEntityEntity
+  - JujutsucraftModEntities.DOMAIN_EXPANSION_ENTITY.get()
+  - "jujutsucraft:domain_expansion_entity"
+CURSED_SPIRIT_GRADE_311:
+  - CursedSpiritGrade311Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_311.get()
+  - "jujutsucraft:cursed_spirit_grade_311"
+CURSED_SPIRIT_GRADE_38:
+  - CursedSpiritGrade38Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_38.get()
+  - "jujutsucraft:cursed_spirit_grade_38"
+CURSED_SPIRIT_GRADE_39:
+  - CursedSpiritGrade39Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_39.get()
+  - "jujutsucraft:cursed_spirit_grade_39"
+CURSED_SPIRIT_GRADE_310:
+  - CursedSpiritGrade310Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_310.get()
+  - "jujutsucraft:cursed_spirit_grade_310"
+ROCK_FRAGMENT:
+  - RockFragmentEntity
+  - JujutsucraftModEntities.ROCK_FRAGMENT.get()
+  - "jujutsucraft:rock_fragment"
+TOAD_2:
+  - Toad2Entity
+  - JujutsucraftModEntities.TOAD_2.get()
+  - "jujutsucraft:toad_2"
+WOODEN_SPEAR_1:
+  - WoodenSpear1Entity
+  - JujutsucraftModEntities.WOODEN_SPEAR_1.get()
+  - "jujutsucraft:wooden_spear_1"
+ENTITY_HANDS:
+  - EntityHandsEntity
+  - JujutsucraftModEntities.ENTITY_HANDS.get()
+  - "jujutsucraft:entity_hands"
+THUNDER_IMPACT:
+  - ThunderImpactEntity
+  - JujutsucraftModEntities.THUNDER_IMPACT.get()
+  - "jujutsucraft:thunder_impact"
+ENTITY_WATER:
+  - EntityWaterEntity
+  - JujutsucraftModEntities.ENTITY_WATER.get()
+  - "jujutsucraft:entity_water"
+PIERCING_OX:
+  - PiercingOxEntity
+  - JujutsucraftModEntities.PIERCING_OX.get()
+  - "jujutsucraft:piercing_ox"
+ROUND_DEER:
+  - RoundDeerEntity
+  - JujutsucraftModEntities.ROUND_DEER.get()
+  - "jujutsucraft:round_deer"
+UZUMAKI:
+  - UzumakiEntity
+  - JujutsucraftModEntities.UZUMAKI.get()
+  - "jujutsucraft:uzumaki"
+CURSED_SPIRIT_GRADE_312:
+  - CursedSpiritGrade312Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_312.get()
+  - "jujutsucraft:cursed_spirit_grade_312"
+ENTITY_TIME_CELL_MOON_PALACE:
+  - EntityTimeCellMoonPalaceEntity
+  - JujutsucraftModEntities.ENTITY_TIME_CELL_MOON_PALACE.get()
+  - "jujutsucraft:entity_time_cell_moon_palace"
+ENTITY_WATER_2:
+  - EntityWater2Entity
+  - JujutsucraftModEntities.ENTITY_WATER_2.get()
+  - "jujutsucraft:entity_water_2"
+SEA_SERPENT_MINI:
+  - SeaSerpentMiniEntity
+  - JujutsucraftModEntities.SEA_SERPENT_MINI.get()
+  - "jujutsucraft:sea_serpent_mini"
+GARUDA:
+  - GarudaEntity
+  - JujutsucraftModEntities.GARUDA.get()
+  - "jujutsucraft:garuda"
+GARUDA_BALL:
+  - GarudaBallEntity
+  - JujutsucraftModEntities.GARUDA_BALL.get()
+  - "jujutsucraft:garuda_ball"
+FOOT:
+  - FootEntity
+  - JujutsucraftModEntities.FOOT.get()
+  - "jujutsucraft:foot"
+ENERGY_BALL_WHITE:
+  - EnergyBallWhiteEntity
+  - JujutsucraftModEntities.ENERGY_BALL_WHITE.get()
+  - "jujutsucraft:energy_ball_white"
+ENTITY_ITEM:
+  - EntityItemEntity
+  - JujutsucraftModEntities.ENTITY_ITEM.get()
+  - "jujutsucraft:entity_item"
+ENTITY_MAHITO_HAND_3:
+  - EntityMahitoHand3Entity
+  - JujutsucraftModEntities.ENTITY_MAHITO_HAND_3.get()
+  - "jujutsucraft:entity_mahito_hand_3"
+BODY_REPEL:
+  - BodyRepelEntity
+  - JujutsucraftModEntities.BODY_REPEL.get()
+  - "jujutsucraft:body_repel"
+HUMAN_CAR:
+  - HumanCarEntity
+  - JujutsucraftModEntities.HUMAN_CAR.get()
+  - "jujutsucraft:human_car"
+BULLET_FLAME_PROJECTILE:
+  - BulletFlameProjectileEntity
+  - JujutsucraftModEntities.BULLET_FLAME_PROJECTILE.get()
+  - "jujutsucraft:bullet_flame_projectile"
+BULLET_BLOOD_PROJECTILE:
+  - BulletBloodProjectileEntity
+  - JujutsucraftModEntities.BULLET_BLOOD_PROJECTILE.get()
+  - "jujutsucraft:bullet_blood_projectile"
+BULLET_SKELETON_PROJECTILE:
+  - BulletSkeletonProjectileEntity
+  - JujutsucraftModEntities.BULLET_SKELETON_PROJECTILE.get()
+  - "jujutsucraft:bullet_skeleton_projectile"
+BULLET_CURSE_POWER_PROJECTILE:
+  - BulletCursePowerProjectileEntity
+  - JujutsucraftModEntities.BULLET_CURSE_POWER_PROJECTILE.get()
+  - "jujutsucraft:bullet_curse_power_projectile"
+BULLET_CANNON_PROJECTILE:
+  - BulletCannonProjectileEntity
+  - JujutsucraftModEntities.BULLET_CANNON_PROJECTILE.get()
+  - "jujutsucraft:bullet_cannon_projectile"
+BULLET_HUMAN_PROJECTILE:
+  - BulletHumanProjectileEntity
+  - JujutsucraftModEntities.BULLET_HUMAN_PROJECTILE.get()
+  - "jujutsucraft:bullet_human_projectile"
+ENTITY_JUPITER:
+  - EntityJupiterEntity
+  - JujutsucraftModEntities.ENTITY_JUPITER.get()
+  - "jujutsucraft:entity_jupiter"
+ENTITY_CLOCK:
+  - EntityClockEntity
+  - JujutsucraftModEntities.ENTITY_CLOCK.get()
+  - "jujutsucraft:entity_clock"
+ENTITY_SAND_STONE:
+  - EntitySandStoneEntity
+  - JujutsucraftModEntities.ENTITY_SAND_STONE.get()
+  - "jujutsucraft:entity_sand_stone"
+ENTITY_WOMB_PROFUSION:
+  - EntityWombProfusionEntity
+  - JujutsucraftModEntities.ENTITY_WOMB_PROFUSION.get()
+  - "jujutsucraft:entity_womb_profusion"
+CURSED_SPIRIT_GRADE_24:
+  - CursedSpiritGrade24Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_24.get()
+  - "jujutsucraft:cursed_spirit_grade_24"
+CURSED_SPIRIT_GRADE_14:
+  - CursedSpiritGrade14Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_14.get()
+  - "jujutsucraft:cursed_spirit_grade_14"
+COCKROACHES:
+  - CockroachesEntity
+  - JujutsucraftModEntities.COCKROACHES.get()
+  - "jujutsucraft:cockroaches"
+KILLER_1:
+  - Killer1Entity
+  - JujutsucraftModEntities.KILLER_1.get()
+  - "jujutsucraft:killer_1"
+ENTITY_PROJECTION_SORCERY:
+  - EntityProjectionSorceryEntity
+  - JujutsucraftModEntities.ENTITY_PROJECTION_SORCERY.get()
+  - "jujutsucraft:entity_projection_sorcery"
+SEA_SERPENT:
+  - SeaSerpentEntity
+  - JujutsucraftModEntities.SEA_SERPENT.get()
+  - "jujutsucraft:sea_serpent"
+EMBER_INSECT:
+  - EmberInsectEntity
+  - JujutsucraftModEntities.EMBER_INSECT.get()
+  - "jujutsucraft:ember_insect"
+JOGO:
+  - JogoEntity
+  - JujutsucraftModEntities.JOGO.get()
+  - "jujutsucraft:jogo"
+BULLET_SKULL:
+  - BulletSkullEntity
+  - JujutsucraftModEntities.BULLET_SKULL.get()
+  - "jujutsucraft:bullet_skull"
+CURSED_SPIRIT_GRADE_15:
+  - CursedSpiritGrade15Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_15.get()
+  - "jujutsucraft:cursed_spirit_grade_15"
+CURSED_SPIRIT_GRADE_22:
+  - CursedSpiritGrade22Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_22.get()
+  - "jujutsucraft:cursed_spirit_grade_22"
+TAKADA:
+  - TakadaEntity
+  - JujutsucraftModEntities.TAKADA.get()
+  - "jujutsucraft:takada"
+ICE_SPEAR:
+  - IceSpearEntity
+  - JujutsucraftModEntities.ICE_SPEAR.get()
+  - "jujutsucraft:ice_spear"
+ICE_SPEAR_2:
+  - IceSpear2Entity
+  - JujutsucraftModEntities.ICE_SPEAR_2.get()
+  - "jujutsucraft:ice_spear_2"
+WOODEN_SPEAR_2:
+  - WoodenSpear2Entity
+  - JujutsucraftModEntities.WOODEN_SPEAR_2.get()
+  - "jujutsucraft:wooden_spear_2"
+CURSED_SPIRIT_GRADE_25:
+  - CursedSpiritGrade25Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_25.get()
+  - "jujutsucraft:cursed_spirit_grade_25"
+CURSED_SPIRIT_GRADE_02:
+  - CursedSpiritGrade02Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_02.get()
+  - "jujutsucraft:cursed_spirit_grade_02"
+CURSED_SPIRIT_GRADE_03:
+  - CursedSpiritGrade03Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_03.get()
+  - "jujutsucraft:cursed_spirit_grade_03"
+CURSED_SPIRIT_GRADE_05:
+  - CursedSpiritGrade05Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_05.get()
+  - "jujutsucraft:cursed_spirit_grade_05"
+CURSED_SPIRIT_GRADE_16:
+  - CursedSpiritGrade16Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_16.get()
+  - "jujutsucraft:cursed_spirit_grade_16"
+GRAVESTONE_3:
+  - Gravestone3Entity
+  - JujutsucraftModEntities.GRAVESTONE_3.get()
+  - "jujutsucraft:gravestone_3"
+COFFIN:
+  - CoffinEntity
+  - JujutsucraftModEntities.COFFIN.get()
+  - "jujutsucraft:coffin"
+BATHYNOMUS_GIGANTEUS:
+  - BathynomusGiganteusEntity
+  - JujutsucraftModEntities.BATHYNOMUS_GIGANTEUS.get()
+  - "jujutsucraft:bathynomus_giganteus"
+MERGED_BEAST_AGITO:
+  - MergedBeastAgitoEntity
+  - JujutsucraftModEntities.MERGED_BEAST_AGITO.get()
+  - "jujutsucraft:merged_beast_agito"
+ENTITY_HEART:
+  - EntityHeartEntity
+  - JujutsucraftModEntities.ENTITY_HEART.get()
+  - "jujutsucraft:entity_heart"
+ENTITY_COCKROACH_EGGS:
+  - EntityCockroachEggsEntity
+  - JujutsucraftModEntities.ENTITY_COCKROACH_EGGS.get()
+  - "jujutsucraft:entity_cockroach_eggs"
+CURSED_SPIRIT_GRADE_313:
+  - CursedSpiritGrade313Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_313.get()
+  - "jujutsucraft:cursed_spirit_grade_313"
+CURSED_SPIRIT_GRADE_314:
+  - CursedSpiritGrade314Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_314.get()
+  - "jujutsucraft:cursed_spirit_grade_314"
+CURSED_SPIRIT_GRADE_315:
+  - CursedSpiritGrade315Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_315.get()
+  - "jujutsucraft:cursed_spirit_grade_315"
+CURSED_SPIRIT_GRADE_316:
+  - CursedSpiritGrade316Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_316.get()
+  - "jujutsucraft:cursed_spirit_grade_316"
+CURSED_SPIRIT_GRADE_317:
+  - CursedSpiritGrade317Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_317.get()
+  - "jujutsucraft:cursed_spirit_grade_317"
+CURSED_SPIRIT_GRADE_318:
+  - CursedSpiritGrade318Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_318.get()
+  - "jujutsucraft:cursed_spirit_grade_318"
+CURSED_SPIRIT_GRADE_26:
+  - CursedSpiritGrade26Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_26.get()
+  - "jujutsucraft:cursed_spirit_grade_26"
+CURSED_SPIRIT_GRADE_27:
+  - CursedSpiritGrade27Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_27.get()
+  - "jujutsucraft:cursed_spirit_grade_27"
+CURSED_SPIRIT_GRADE_28:
+  - CursedSpiritGrade28Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_28.get()
+  - "jujutsucraft:cursed_spirit_grade_28"
+CURSED_SPIRIT_GRADE_29:
+  - CursedSpiritGrade29Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_29.get()
+  - "jujutsucraft:cursed_spirit_grade_29"
+CURSED_SPIRIT_GRADE_21:
+  - CursedSpiritGrade21Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_21.get()
+  - "jujutsucraft:cursed_spirit_grade_21"
+ENTITY_DOOR:
+  - EntityDoorEntity
+  - JujutsucraftModEntities.ENTITY_DOOR.get()
+  - "jujutsucraft:entity_door"
+FOX_FIRE:
+  - FoxFireEntity
+  - JujutsucraftModEntities.FOX_FIRE.get()
+  - "jujutsucraft:fox_fire"
+FLAME_TIGER:
+  - FlameTigerEntity
+  - JujutsucraftModEntities.FLAME_TIGER.get()
+  - "jujutsucraft:flame_tiger"
+BLACK_HOLE:
+  - BlackHoleEntity
+  - JujutsucraftModEntities.BLACK_HOLE.get()
+  - "jujutsucraft:black_hole"
+CURSED_SPIRIT_GRADE_17:
+  - CursedSpiritGrade17Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_17.get()
+  - "jujutsucraft:cursed_spirit_grade_17"
+CURSED_SPIRIT_GRADE_18:
+  - CursedSpiritGrade18Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_18.get()
+  - "jujutsucraft:cursed_spirit_grade_18"
+ENTITY_SCISSORS:
+  - EntityScissorsEntity
+  - JujutsucraftModEntities.ENTITY_SCISSORS.get()
+  - "jujutsucraft:entity_scissors"
+CURSED_SPIRIT_GRADE_06:
+  - CursedSpiritGrade06Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_06.get()
+  - "jujutsucraft:cursed_spirit_grade_06"
+CURSED_SPIRIT_GRADE_07:
+  - CursedSpiritGrade07Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_07.get()
+  - "jujutsucraft:cursed_spirit_grade_07"
+CURSED_SPIRIT_GRADE_08:
+  - CursedSpiritGrade08Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_08.get()
+  - "jujutsucraft:cursed_spirit_grade_08"
+ENTITY_AWAJI_KNOT:
+  - EntityAwajiKnotEntity
+  - JujutsucraftModEntities.ENTITY_AWAJI_KNOT.get()
+  - "jujutsucraft:entity_awaji_knot"
+GRAVESTONE_4:
+  - Gravestone4Entity
+  - JujutsucraftModEntities.GRAVESTONE_4.get()
+  - "jujutsucraft:gravestone_4"
+ENTITY_CHIMERA_SHADOW_GARDEN:
+  - EntityChimeraShadowGardenEntity
+  - JujutsucraftModEntities.ENTITY_CHIMERA_SHADOW_GARDEN.get()
+  - "jujutsucraft:entity_chimera_shadow_garden"
+RIKA_2:
+  - Rika2Entity
+  - JujutsucraftModEntities.RIKA_2.get()
+  - "jujutsucraft:rika_2"
+RIKA:
+  - RikaEntity
+  - JujutsucraftModEntities.RIKA.get()
+  - "jujutsucraft:rika"
+ENTITY_WITNESS_STAND:
+  - EntityWitnessStandEntity
+  - JujutsucraftModEntities.ENTITY_WITNESS_STAND.get()
+  - "jujutsucraft:entity_witness_stand"
+WOODEN_BALL_1:
+  - WoodenBall1Entity
+  - JujutsucraftModEntities.WOODEN_BALL_1.get()
+  - "jujutsucraft:wooden_ball_1"
+JUDGEMAN:
+  - JudgemanEntity
+  - JujutsucraftModEntities.JUDGEMAN.get()
+  - "jujutsucraft:judgeman"
+TOAD:
+  - ToadEntity
+  - JujutsucraftModEntities.TOAD.get()
+  - "jujutsucraft:toad"
+TODO_AOI:
+  - TodoAoiEntity
+  - JujutsucraftModEntities.TODO_AOI.get()
+  - "jujutsucraft:todo_aoi"
+TRUCK:
+  - TruckEntity
+  - JujutsucraftModEntities.TRUCK.get()
+  - "jujutsucraft:truck"
+ENTITY_JACOBS_LADDER_CIRCLE:
+  - EntityJacobsLadderCircleEntity
+  - JujutsucraftModEntities.ENTITY_JACOBS_LADDER_CIRCLE.get()
+  - "jujutsucraft:entity_jacobs_ladder_circle"
+ENTITY_JACOBS_LADDER_ANGEL:
+  - EntityJacobsLadderAngelEntity
+  - JujutsucraftModEntities.ENTITY_JACOBS_LADDER_ANGEL.get()
+  - "jujutsucraft:entity_jacobs_ladder_angel"
+ENTITY_TREE:
+  - EntityTreeEntity
+  - JujutsucraftModEntities.ENTITY_TREE.get()
+  - "jujutsucraft:entity_tree"
+ENTITY_UNLIMITED_VOID:
+  - EntityUnlimitedVoidEntity
+  - JujutsucraftModEntities.ENTITY_UNLIMITED_VOID.get()
+  - "jujutsucraft:entity_unlimited_void"
+EARTHEN_INSECT_TRANCE:
+  - EarthenInsectTranceEntity
+  - JujutsucraftModEntities.EARTHEN_INSECT_TRANCE.get()
+  - "jujutsucraft:earthen_insect_trance"
+ENTITY_TORNADO:
+  - EntityTornadoEntity
+  - JujutsucraftModEntities.ENTITY_TORNADO.get()
+  - "jujutsucraft:entity_tornado"
+COCKROACH_LARVA:
+  - CockroachLarvaEntity
+  - JujutsucraftModEntities.COCKROACH_LARVA.get()
+  - "jujutsucraft:cockroach_larva"
+ENTITY_TEMPLE_MAIN:
+  - EntityTempleMainEntity
+  - JujutsucraftModEntities.ENTITY_TEMPLE_MAIN.get()
+  - "jujutsucraft:entity_temple_main"
+URO_TAKAKO:
+  - UroTakakoEntity
+  - JujutsucraftModEntities.URO_TAKAKO.get()
+  - "jujutsucraft:uro_takako"
+OGAMI:
+  - OgamiEntity
+  - JujutsucraftModEntities.OGAMI.get()
+  - "jujutsucraft:ogami"
+TICKET_GATE:
+  - TicketGateEntity
+  - JujutsucraftModEntities.TICKET_GATE.get()
+  - "jujutsucraft:ticket_gate"
+ENTITY_DOORS:
+  - EntityDoorsEntity
+  - JujutsucraftModEntities.ENTITY_DOORS.get()
+  - "jujutsucraft:entity_doors"
+SLOT:
+  - SlotEntity
+  - JujutsucraftModEntities.SLOT.get()
+  - "jujutsucraft:slot"
+BULLET_BALL_PROJECTILE:
+  - BulletBallProjectileEntity
+  - JujutsucraftModEntities.BULLET_BALL_PROJECTILE.get()
+  - "jujutsucraft:bullet_ball_projectile"
+MIGUEL_DANCER:
+  - MiguelDancerEntity
+  - JujutsucraftModEntities.MIGUEL_DANCER.get()
+  - "jujutsucraft:miguel_dancer"
+ROZETSU:
+  - RozetsuEntity
+  - JujutsucraftModEntities.ROZETSU.get()
+  - "jujutsucraft:rozetsu"
+ZENIN_CHOJURO:
+  - ZeninChojuroEntity
+  - JujutsucraftModEntities.ZENIN_CHOJURO.get()
+  - "jujutsucraft:zenin_chojuro"
+ENTITY_JINICHI_DOMAIN_1:
+  - EntityJinichiDomain1Entity
+  - JujutsucraftModEntities.ENTITY_JINICHI_DOMAIN_1.get()
+  - "jujutsucraft:entity_jinichi_domain_1"
+ENTITY_JINICHI_DOMAIN_2:
+  - EntityJinichiDomain2Entity
+  - JujutsucraftModEntities.ENTITY_JINICHI_DOMAIN_2.get()
+  - "jujutsucraft:entity_jinichi_domain_2"
+CURSED_SPIRIT_GRADE_319:
+  - CursedSpiritGrade319Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_319.get()
+  - "jujutsucraft:cursed_spirit_grade_319"
+CURSED_SPIRIT_GRADE_210:
+  - CursedSpiritGrade210Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_210.get()
+  - "jujutsucraft:cursed_spirit_grade_210"
+CURSED_SPIRIT_GRADE_211:
+  - CursedSpiritGrade211Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_211.get()
+  - "jujutsucraft:cursed_spirit_grade_211"
+CURSED_SPIRIT_GRADE_212:
+  - CursedSpiritGrade212Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_212.get()
+  - "jujutsucraft:cursed_spirit_grade_212"
+MOON_DREGS:
+  - MoonDregsEntity
+  - JujutsucraftModEntities.MOON_DREGS.get()
+  - "jujutsucraft:moon_dregs"
+ENTITY_HAND:
+  - EntityHandEntity
+  - JujutsucraftModEntities.ENTITY_HAND.get()
+  - "jujutsucraft:entity_hand"
+PANDA_NORMAL:
+  - PandaNormalEntity
+  - JujutsucraftModEntities.PANDA_NORMAL.get()
+  - "jujutsucraft:panda_normal"
+DOLL_1:
+  - Doll1Entity
+  - JujutsucraftModEntities.DOLL_1.get()
+  - "jujutsucraft:doll_1"
+ENTITY_SLASH:
+  - EntitySlashEntity
+  - JujutsucraftModEntities.ENTITY_SLASH.get()
+  - "jujutsucraft:entity_slash"
+ENTITY_BROOM:
+  - EntityBroomEntity
+  - JujutsucraftModEntities.ENTITY_BROOM.get()
+  - "jujutsucraft:entity_broom"
+BULLET_NAIL:
+  - BulletNailEntity
+  - JujutsucraftModEntities.BULLET_NAIL.get()
+  - "jujutsucraft:bullet_nail"
+RESONANCE:
+  - ResonanceEntity
+  - JujutsucraftModEntities.RESONANCE.get()
+  - "jujutsucraft:resonance"
+SHIKIGAMI_HETEROCEPHALUS_GLABER:
+  - ShikigamiHeterocephalusGlaberEntity
+  - JujutsucraftModEntities.SHIKIGAMI_HETEROCEPHALUS_GLABER.get()
+  - "jujutsucraft:shikigami_heterocephalus_glaber"
+SHIKIGAMI_PTEROSAUR:
+  - ShikigamiPterosaurEntity
+  - JujutsucraftModEntities.SHIKIGAMI_PTEROSAUR.get()
+  - "jujutsucraft:shikigami_pterosaur"
+SHIKIGAMI_RIKA_DHRUV:
+  - ShikigamiRikaDhruvEntity
+  - JujutsucraftModEntities.SHIKIGAMI_RIKA_DHRUV.get()
+  - "jujutsucraft:shikigami_rika_dhruv"
+CURSED_SPIRIT_GRADE_110:
+  - CursedSpiritGrade110Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_110.get()
+  - "jujutsucraft:cursed_spirit_grade_110"
+CURSED_SPIRIT_GRADE_09:
+  - CursedSpiritGrade09Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_09.get()
+  - "jujutsucraft:cursed_spirit_grade_09"
+TRUE_SPHERE:
+  - TrueSphereEntity
+  - JujutsucraftModEntities.TRUE_SPHERE.get()
+  - "jujutsucraft:true_sphere"
+ENTITY_THREEFOLD_AFFLICTION:
+  - EntityThreefoldAfflictionEntity
+  - JujutsucraftModEntities.ENTITY_THREEFOLD_AFFLICTION.get()
+  - "jujutsucraft:entity_threefold_affliction"
+LIQUID_METAL:
+  - LiquidMetalEntity
+  - JujutsucraftModEntities.LIQUID_METAL.get()
+  - "jujutsucraft:liquid_metal"
+NEEDLE:
+  - NeedleEntity
+  - JujutsucraftModEntities.NEEDLE.get()
+  - "jujutsucraft:needle"
+CURSED_SPIRIT_GRADE_213:
+  - CursedSpiritGrade213Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_213.get()
+  - "jujutsucraft:cursed_spirit_grade_213"
+CURSED_SPIRIT_GRADE_214:
+  - CursedSpiritGrade214Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_214.get()
+  - "jujutsucraft:cursed_spirit_grade_214"
+KAICHI:
+  - KaichiEntity
+  - JujutsucraftModEntities.KAICHI.get()
+  - "jujutsucraft:kaichi"
+RYU:
+  - RyuEntity
+  - JujutsucraftModEntities.RYU.get()
+  - "jujutsucraft:ryu"
+CURSED_SPIRIT_GRADE_321:
+  - CursedSpiritGrade321Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_321.get()
+  - "jujutsucraft:cursed_spirit_grade_321"
+CURSED_SPIRIT_GRADE_322:
+  - CursedSpiritGrade322Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_322.get()
+  - "jujutsucraft:cursed_spirit_grade_322"
+CURSED_SPIRIT_GRADE_215:
+  - CursedSpiritGrade215Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_215.get()
+  - "jujutsucraft:cursed_spirit_grade_215"
+ENTITY_MALEVOLENT_SHRINE_2:
+  - EntityMalevolentShrine2Entity
+  - JujutsucraftModEntities.ENTITY_MALEVOLENT_SHRINE_2.get()
+  - "jujutsucraft:entity_malevolent_shrine_2"
+ENTITY_DOMAIN_KUGISAKI:
+  - EntityDomainKugisakiEntity
+  - JujutsucraftModEntities.ENTITY_DOMAIN_KUGISAKI.get()
+  - "jujutsucraft:entity_domain_kugisaki"
+ENTITY_DOMAIN_INUMAKI:
+  - EntityDomainInumakiEntity
+  - JujutsucraftModEntities.ENTITY_DOMAIN_INUMAKI.get()
+  - "jujutsucraft:entity_domain_inumaki"
+CURSED_SPIRIT_GRADE_111:
+  - CursedSpiritGrade111Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_111.get()
+  - "jujutsucraft:cursed_spirit_grade_111"
+CURSED_SPIRIT_GRADE_216:
+  - CursedSpiritGrade216Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_216.get()
+  - "jujutsucraft:cursed_spirit_grade_216"
+ROZETSU_SHIKIGAMI_VESSEL:
+  - RozetsuShikigamiVesselEntity
+  - JujutsucraftModEntities.ROZETSU_SHIKIGAMI_VESSEL.get()
+  - "jujutsucraft:rozetsu_shikigami_vessel"
+ROZETSU_SHIKIGAMI_VESSEL_2:
+  - RozetsuShikigamiVessel2Entity
+  - JujutsucraftModEntities.ROZETSU_SHIKIGAMI_VESSEL_2.get()
+  - "jujutsucraft:rozetsu_shikigami_vessel_2"
+CURSED_SPIRIT_GRADE_04:
+  - CursedSpiritGrade04Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_04.get()
+  - "jujutsucraft:cursed_spirit_grade_04"
+ITADORI_YUJI:
+  - ItadoriYujiEntity
+  - JujutsucraftModEntities.ITADORI_YUJI.get()
+  - "jujutsucraft:itadori_yuji"
+ITADORI_YUJI_SHIBUYA:
+  - ItadoriYujiShibuyaEntity
+  - JujutsucraftModEntities.ITADORI_YUJI_SHIBUYA.get()
+  - "jujutsucraft:itadori_yuji_shibuya"
+ITADORI_YUJI_SHINJUKU:
+  - ItadoriYujiShinjukuEntity
+  - JujutsucraftModEntities.ITADORI_YUJI_SHINJUKU.get()
+  - "jujutsucraft:itadori_yuji_shinjuku"
+FUSHIGURO_MEGUMI:
+  - FushiguroMegumiEntity
+  - JujutsucraftModEntities.FUSHIGURO_MEGUMI.get()
+  - "jujutsucraft:fushiguro_megumi"
+FUSHIGURO_MEGUMI_SHIBUYA:
+  - FushiguroMegumiShibuyaEntity
+  - JujutsucraftModEntities.FUSHIGURO_MEGUMI_SHIBUYA.get()
+  - "jujutsucraft:fushiguro_megumi_shibuya"
+NOBARA_KUGISAKI:
+  - NobaraKugisakiEntity
+  - JujutsucraftModEntities.NOBARA_KUGISAKI.get()
+  - "jujutsucraft:nobara_kugisaki"
+INUMAKI_TOGE:
+  - InumakiTogeEntity
+  - JujutsucraftModEntities.INUMAKI_TOGE.get()
+  - "jujutsucraft:inumaki_toge"
+ZENIN_MAKI:
+  - ZeninMakiEntity
+  - JujutsucraftModEntities.ZENIN_MAKI.get()
+  - "jujutsucraft:zenin_maki"
+ZENIN_MAKI_CULLING_GAME:
+  - ZeninMakiCullingGameEntity
+  - JujutsucraftModEntities.ZENIN_MAKI_CULLING_GAME.get()
+  - "jujutsucraft:zenin_maki_culling_game"
+OKKOTSU_YUTA:
+  - OkkotsuYutaEntity
+  - JujutsucraftModEntities.OKKOTSU_YUTA.get()
+  - "jujutsucraft:okkotsu_yuta"
+OKKOTSU_YUTA_CULLING_GAME:
+  - OkkotsuYutaCullingGameEntity
+  - JujutsucraftModEntities.OKKOTSU_YUTA_CULLING_GAME.get()
+  - "jujutsucraft:okkotsu_yuta_culling_game"
+HOSHI_KIRARA:
+  - HoshiKiraraEntity
+  - JujutsucraftModEntities.HOSHI_KIRARA.get()
+  - "jujutsucraft:hoshi_kirara"
+HAKARI_KINJI:
+  - HakariKinjiEntity
+  - JujutsucraftModEntities.HAKARI_KINJI.get()
+  - "jujutsucraft:hakari_kinji"
+YAGA_MASAMICHI:
+  - YagaMasamichiEntity
+  - JujutsucraftModEntities.YAGA_MASAMICHI.get()
+  - "jujutsucraft:yaga_masamichi"
+KUSAKABE_ATSUYA:
+  - KusakabeAtsuyaEntity
+  - JujutsucraftModEntities.KUSAKABE_ATSUYA.get()
+  - "jujutsucraft:kusakabe_atsuya"
+MIWA_KASUMI:
+  - MiwaKasumiEntity
+  - JujutsucraftModEntities.MIWA_KASUMI.get()
+  - "jujutsucraft:miwa_kasumi"
+NISHIMIYA_MOMO:
+  - NishimiyaMomoEntity
+  - JujutsucraftModEntities.NISHIMIYA_MOMO.get()
+  - "jujutsucraft:nishimiya_momo"
+KAMO_NORITOSHI:
+  - KamoNoritoshiEntity
+  - JujutsucraftModEntities.KAMO_NORITOSHI.get()
+  - "jujutsucraft:kamo_noritoshi"
+MECHAMARU:
+  - MechamaruEntity
+  - JujutsucraftModEntities.MECHAMARU.get()
+  - "jujutsucraft:mechamaru"
+GETO_SUGURU:
+  - GetoSuguruEntity
+  - JujutsucraftModEntities.GETO_SUGURU.get()
+  - "jujutsucraft:geto_suguru"
+GETO_SUGURU_CURSE_USER:
+  - GetoSuguruCurseUserEntity
+  - JujutsucraftModEntities.GETO_SUGURU_CURSE_USER.get()
+  - "jujutsucraft:geto_suguru_curse_user"
+KENJAKU:
+  - KenjakuEntity
+  - JujutsucraftModEntities.KENJAKU.get()
+  - "jujutsucraft:kenjaku"
+GOJO_SATORU_SCHOOL_DAYS:
+  - GojoSatoruSchoolDaysEntity
+  - JujutsucraftModEntities.GOJO_SATORU_SCHOOL_DAYS.get()
+  - "jujutsucraft:gojo_satoru_school_days"
+GOJO_SATORU:
+  - GojoSatoruEntity
+  - JujutsucraftModEntities.GOJO_SATORU.get()
+  - "jujutsucraft:gojo_satoru"
+JUJUTSU_SORCERER:
+  - JujutsuSorcererEntity
+  - JujutsucraftModEntities.JUJUTSU_SORCERER.get()
+  - "jujutsucraft:jujutsu_sorcerer"
+MEI_MEI:
+  - MeiMeiEntity
+  - JujutsucraftModEntities.MEI_MEI.get()
+  - "jujutsucraft:mei_mei"
+NANAMI_KENTO:
+  - NanamiKentoEntity
+  - JujutsucraftModEntities.NANAMI_KENTO.get()
+  - "jujutsucraft:nanami_kento"
+TSUKUMO_YUKI:
+  - TsukumoYukiEntity
+  - JujutsucraftModEntities.TSUKUMO_YUKI.get()
+  - "jujutsucraft:tsukumo_yuki"
+INO_TAKUMA:
+  - InoTakumaEntity
+  - JujutsucraftModEntities.INO_TAKUMA.get()
+  - "jujutsucraft:ino_takuma"
+ZENIN_NAOBITO:
+  - ZeninNaobitoEntity
+  - JujutsucraftModEntities.ZENIN_NAOBITO.get()
+  - "jujutsucraft:zenin_naobito"
+ZENIN_NAOYA:
+  - ZeninNaoyaEntity
+  - JujutsucraftModEntities.ZENIN_NAOYA.get()
+  - "jujutsucraft:zenin_naoya"
+ZENIN_JINICHI:
+  - ZeninJinichiEntity
+  - JujutsucraftModEntities.ZENIN_JINICHI.get()
+  - "jujutsucraft:zenin_jinichi"
+ZENIN_OGI:
+  - ZeninOgiEntity
+  - JujutsucraftModEntities.ZENIN_OGI.get()
+  - "jujutsucraft:zenin_ogi"
+YOSHINO_JUNPEI:
+  - YoshinoJunpeiEntity
+  - JujutsucraftModEntities.YOSHINO_JUNPEI.get()
+  - "jujutsucraft:yoshino_junpei"
+ZENIN_RANTA:
+  - ZeninRantaEntity
+  - JujutsucraftModEntities.ZENIN_RANTA.get()
+  - "jujutsucraft:zenin_ranta"
+KUKURU:
+  - KukuruEntity
+  - JujutsucraftModEntities.KUKURU.get()
+  - "jujutsucraft:kukuru"
+FUSHIGURO_TOJI:
+  - FushiguroTojiEntity
+  - JujutsucraftModEntities.FUSHIGURO_TOJI.get()
+  - "jujutsucraft:fushiguro_toji"
+FUSHIGURO_TOJI_BUG:
+  - FushiguroTojiBugEntity
+  - JujutsucraftModEntities.FUSHIGURO_TOJI_BUG.get()
+  - "jujutsucraft:fushiguro_toji_bug"
+CURSED_SPIRIT_GRADE_01:
+  - CursedSpiritGrade01Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_01.get()
+  - "jujutsucraft:cursed_spirit_grade_01"
+CURSE_USER:
+  - CurseUserEntity
+  - JujutsucraftModEntities.CURSE_USER.get()
+  - "jujutsucraft:curse_user"
+CURSE_USER_1:
+  - CurseUser1Entity
+  - JujutsucraftModEntities.CURSE_USER_1.get()
+  - "jujutsucraft:curse_user_1"
+Q:
+  - QEntity
+  - JujutsucraftModEntities.Q.get()
+  - "jujutsucraft:q"
+MIMIKO:
+  - MimikoEntity
+  - JujutsucraftModEntities.MIMIKO.get()
+  - "jujutsucraft:mimiko"
+NANAKO:
+  - NanakoEntity
+  - JujutsucraftModEntities.NANAKO.get()
+  - "jujutsucraft:nanako"
+NEGI_TOSHIHISA:
+  - NegiToshihisaEntity
+  - JujutsucraftModEntities.NEGI_TOSHIHISA.get()
+  - "jujutsucraft:negi_toshihisa"
+LARUE:
+  - LarueEntity
+  - JujutsucraftModEntities.LARUE.get()
+  - "jujutsucraft:larue"
+MIGUEL:
+  - MiguelEntity
+  - JujutsucraftModEntities.MIGUEL.get()
+  - "jujutsucraft:miguel"
+KUMIYA_JUZO:
+  - KumiyaJuzoEntity
+  - JujutsucraftModEntities.KUMIYA_JUZO.get()
+  - "jujutsucraft:kumiya_juzo"
+AWASAKA_JIRO:
+  - AwasakaJiroEntity
+  - JujutsucraftModEntities.AWASAKA_JIRO.get()
+  - "jujutsucraft:awasaka_jiro"
+HANAMI:
+  - HanamiEntity
+  - JujutsucraftModEntities.HANAMI.get()
+  - "jujutsucraft:hanami"
+MAHITO:
+  - MahitoEntity
+  - JujutsucraftModEntities.MAHITO.get()
+  - "jujutsucraft:mahito"
+URAUME:
+  - UraumeEntity
+  - JujutsucraftModEntities.URAUME.get()
+  - "jujutsucraft:uraume"
+SUKUNA:
+  - SukunaEntity
+  - JujutsucraftModEntities.SUKUNA.get()
+  - "jujutsucraft:sukuna"
+SUKUNA_FUSHIGURO:
+  - SukunaFushiguroEntity
+  - JujutsucraftModEntities.SUKUNA_FUSHIGURO.get()
+  - "jujutsucraft:sukuna_fushiguro"
+SUKUNA_PERFECT:
+  - SukunaPerfectEntity
+  - JujutsucraftModEntities.SUKUNA_PERFECT.get()
+  - "jujutsucraft:sukuna_perfect"
+ESO:
+  - EsoEntity
+  - JujutsucraftModEntities.ESO.get()
+  - "jujutsucraft:eso"
+CHOSO:
+  - ChosoEntity
+  - JujutsucraftModEntities.CHOSO.get()
+  - "jujutsucraft:choso"
+HABA:
+  - HabaEntity
+  - JujutsucraftModEntities.HABA.get()
+  - "jujutsucraft:haba"
+HANYU:
+  - HanyuEntity
+  - JujutsucraftModEntities.HANYU.get()
+  - "jujutsucraft:hanyu"
+TAKABA_FUMIHIKO:
+  - TakabaFumihikoEntity
+  - JujutsucraftModEntities.TAKABA_FUMIHIKO.get()
+  - "jujutsucraft:takaba_fumihiko"
+HIGURUMA_HIROMI:
+  - HigurumaHiromiEntity
+  - JujutsucraftModEntities.HIGURUMA_HIROMI.get()
+  - "jujutsucraft:higuruma_hiromi"
+CHARLES_BERNARD:
+  - CharlesBernardEntity
+  - JujutsucraftModEntities.CHARLES_BERNARD.get()
+  - "jujutsucraft:charles_bernard"
+ISHIGORI_RYU:
+  - IshigoriRyuEntity
+  - JujutsucraftModEntities.ISHIGORI_RYU.get()
+  - "jujutsucraft:ishigori_ryu"
+KASHIMO_HAJIME:
+  - KashimoHajimeEntity
+  - JujutsucraftModEntities.KASHIMO_HAJIME.get()
+  - "jujutsucraft:kashimo_hajime"
+KURUSU_HANA:
+  - KurusuHanaEntity
+  - JujutsucraftModEntities.KURUSU_HANA.get()
+  - "jujutsucraft:kurusu_hana"
+HAZENOKI:
+  - HazenokiEntity
+  - JujutsucraftModEntities.HAZENOKI.get()
+  - "jujutsucraft:hazenoki"
+REGGIE_STAR:
+  - ReggieStarEntity
+  - JujutsucraftModEntities.REGGIE_STAR.get()
+  - "jujutsucraft:reggie_star"
+DAIDO_HAGANE:
+  - DaidoHaganeEntity
+  - JujutsucraftModEntities.DAIDO_HAGANE.get()
+  - "jujutsucraft:daido_hagane"
+MIYO_ROKUJUSHI:
+  - MiyoRokujushiEntity
+  - JujutsucraftModEntities.MIYO_ROKUJUSHI.get()
+  - "jujutsucraft:miyo_rokujushi"
+YOROZU:
+  - YorozuEntity
+  - JujutsucraftModEntities.YOROZU.get()
+  - "jujutsucraft:yorozu"
+ROZETSU_SHIKIGAMI:
+  - RozetsuShikigamiEntity
+  - JujutsucraftModEntities.ROZETSU_SHIKIGAMI.get()
+  - "jujutsucraft:rozetsu_shikigami"
+TRANSFIGURED_HUMAN:
+  - TransfiguredHumanEntity
+  - JujutsucraftModEntities.TRANSFIGURED_HUMAN.get()
+  - "jujutsucraft:transfigured_human"
+POLYMORPHIC_SOUL_ISOMER:
+  - PolymorphicSoulIsomerEntity
+  - JujutsucraftModEntities.POLYMORPHIC_SOUL_ISOMER.get()
+  - "jujutsucraft:polymorphic_soul_isomer"
+ZENIN_NAOYA_CURSED_SPIRIT:
+  - ZeninNaoyaCursedSpiritEntity
+  - JujutsucraftModEntities.ZENIN_NAOYA_CURSED_SPIRIT.get()
+  - "jujutsucraft:zenin_naoya_cursed_spirit"
+DAGON:
+  - DagonEntity
+  - JujutsucraftModEntities.DAGON.get()
+  - "jujutsucraft:dagon"
+SHIGEMO_HARUTA:
+  - ShigemoHarutaEntity
+  - JujutsucraftModEntities.SHIGEMO_HARUTA.get()
+  - "jujutsucraft:shigemo_haruta"
+ENTITY_ATTACK_SLASH:
+  - EntityAttackSlashEntity
+  - JujutsucraftModEntities.ENTITY_ATTACK_SLASH.get()
+  - "jujutsucraft:entity_attack_slash"
+ENTITY_ATTACK_SWEEP:
+  - EntityAttackSweepEntity
+  - JujutsucraftModEntities.ENTITY_ATTACK_SWEEP.get()
+  - "jujutsucraft:entity_attack_sweep"
+ORCASAN:
+  - OrcasanEntity
+  - JujutsucraftModEntities.ORCASAN.get()
+  - "jujutsucraft:orcasan"
+ENTITY_TREE_HANAMI:
+  - EntityTreeHanamiEntity
+  - JujutsucraftModEntities.ENTITY_TREE_HANAMI.get()
+  - "jujutsucraft:entity_tree_hanami"
+ENTITY_ROZETSU_DOMAIN:
+  - EntityRozetsuDomainEntity
+  - JujutsucraftModEntities.ENTITY_ROZETSU_DOMAIN.get()
+  - "jujutsucraft:entity_rozetsu_domain"
+DIVINE_DOG_TOTALITY:
+  - DivineDogTotalityEntity
+  - JujutsucraftModEntities.DIVINE_DOG_TOTALITY.get()
+  - "jujutsucraft:divine_dog_totality"
+NUE:
+  - NueEntity
+  - JujutsucraftModEntities.NUE.get()
+  - "jujutsucraft:nue"
+TIGER_FUNERAL:
+  - TigerFuneralEntity
+  - JujutsucraftModEntities.TIGER_FUNERAL.get()
+  - "jujutsucraft:tiger_funeral"
+BULLET_PISTOL:
+  - BulletPistolEntity
+  - JujutsucraftModEntities.BULLET_PISTOL.get()
+  - "jujutsucraft:bullet_pistol"
+ENTITY_CRACK:
+  - EntityCrackEntity
+  - JujutsucraftModEntities.ENTITY_CRACK.get()
+  - "jujutsucraft:entity_crack"
+CURSED_SPIRIT_GRADE_010:
+  - CursedSpiritGrade010Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_010.get()
+  - "jujutsucraft:cursed_spirit_grade_010"
+PROJECTILE_SLASH:
+  - ProjectileSlashEntity
+  - JujutsucraftModEntities.PROJECTILE_SLASH.get()
+  - "jujutsucraft:projectile_slash"
+CAR:
+  - CarEntity
+  - JujutsucraftModEntities.CAR.get()
+  - "jujutsucraft:car"
+CURSED_SPIRIT_GRADE_323:
+  - CursedSpiritGrade323Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_323.get()
+  - "jujutsucraft:cursed_spirit_grade_323"
+HANAKO_HAND:
+  - HanakoHandEntity
+  - JujutsucraftModEntities.HANAKO_HAND.get()
+  - "jujutsucraft:hanako_hand"
+CURSED_SPIRIT_GRADE_19:
+  - CursedSpiritGrade19Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_19.get()
+  - "jujutsucraft:cursed_spirit_grade_19"
+CURSED_SPIRIT_GRADE_12:
+  - CursedSpiritGrade12Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_12.get()
+  - "jujutsucraft:cursed_spirit_grade_12"
+CURSED_SPIRIT_GRADE_011:
+  - CursedSpiritGrade011Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_011.get()
+  - "jujutsucraft:cursed_spirit_grade_011"
+CURSED_SPIRIT_GRADE_012:
+  - CursedSpiritGrade012Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_012.get()
+  - "jujutsucraft:cursed_spirit_grade_012"
+CURSED_SPIRIT_GRADE_11:
+  - CursedSpiritGrade11Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_11.get()
+  - "jujutsucraft:cursed_spirit_grade_11"
+ENTITY_IMPACT_WAVE:
+  - EntityImpactWaveEntity
+  - JujutsucraftModEntities.ENTITY_IMPACT_WAVE.get()
+  - "jujutsucraft:entity_impact_wave"
+BULLET_KITCHEN_KNIFE:
+  - BulletKitchenKnifeEntity
+  - JujutsucraftModEntities.BULLET_KITCHEN_KNIFE.get()
+  - "jujutsucraft:bullet_kitchen_knife"
+ENTITY_RECEIPT:
+  - EntityReceiptEntity
+  - JujutsucraftModEntities.ENTITY_RECEIPT.get()
+  - "jujutsucraft:entity_receipt"
+BULLET_TOOTH:
+  - BulletToothEntity
+  - JujutsucraftModEntities.BULLET_TOOTH.get()
+  - "jujutsucraft:bullet_tooth"
+BULLET_EYE:
+  - BulletEyeEntity
+  - JujutsucraftModEntities.BULLET_EYE.get()
+  - "jujutsucraft:bullet_eye"
+ENTITY_HOUSE:
+  - EntityHouseEntity
+  - JujutsucraftModEntities.ENTITY_HOUSE.get()
+  - "jujutsucraft:entity_house"
+SUDA_MANAMI:
+  - SudaManamiEntity
+  - JujutsucraftModEntities.SUDA_MANAMI.get()
+  - "jujutsucraft:suda_manami"
+BAYER:
+  - BayerEntity
+  - JujutsucraftModEntities.BAYER.get()
+  - "jujutsucraft:bayer"
+BULLET_KNIFE:
+  - BulletKnifeEntity
+  - JujutsucraftModEntities.BULLET_KNIFE.get()
+  - "jujutsucraft:bullet_knife"
+CURSED_SPIRIT_GRADE_320:
+  - CursedSpiritGrade320Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_320.get()
+  - "jujutsucraft:cursed_spirit_grade_320"
+ZENIN_NOBUAKI:
+  - ZeninNobuakiEntity
+  - JujutsucraftModEntities.ZENIN_NOBUAKI.get()
+  - "jujutsucraft:zenin_nobuaki"
+ENTITY_EYE_RANTA:
+  - EntityEyeRantaEntity
+  - JujutsucraftModEntities.ENTITY_EYE_RANTA.get()
+  - "jujutsucraft:entity_eye_ranta"
+EIGHT_HANDLED_SWORD_DIVERGENT_SILA_DIVINE_GENERAL_MAHORAGA:
+  - EightHandledSwordDivergentSilaDivineGeneralMahoragaEntity
+  - JujutsucraftModEntities.EIGHT_HANDLED_SWORD_DIVERGENT_SILA_DIVINE_GENERAL_MAHORAGA.get()
+  - "jujutsucraft:eight_handled_sword_divergent_sila_divine_general_mahoraga"
+CURSED_SPIRIT_GRADE_217:
+  - CursedSpiritGrade217Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_217.get()
+  - "jujutsucraft:cursed_spirit_grade_217"
+CURSED_SPIRIT_GRADE_013:
+  - CursedSpiritGrade013Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_013.get()
+  - "jujutsucraft:cursed_spirit_grade_013"
+ENTITY_TSUCHIGUMO:
+  - EntityTsuchigumoEntity
+  - JujutsucraftModEntities.ENTITY_TSUCHIGUMO.get()
+  - "jujutsucraft:entity_tsuchigumo"
+CURSED_SPIRIT_GRADE_112:
+  - CursedSpiritGrade112Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_112.get()
+  - "jujutsucraft:cursed_spirit_grade_112"
+CURSED_SPIRIT_GRADE_014:
+  - CursedSpiritGrade014Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_014.get()
+  - "jujutsucraft:cursed_spirit_grade_014"
+CURSED_SPIRIT_GRADE_015:
+  - CursedSpiritGrade015Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_015.get()
+  - "jujutsucraft:cursed_spirit_grade_015"
+ENTITY_CRYSTAL:
+  - EntityCrystalEntity
+  - JujutsucraftModEntities.ENTITY_CRYSTAL.get()
+  - "jujutsucraft:entity_crystal"
+THROWING_ITEM:
+  - ThrowingItemEntity
+  - JujutsucraftModEntities.THROWING_ITEM.get()
+  - "jujutsucraft:throwing_item"
+ENTITY_ATTACK_STRIKE:
+  - EntityAttackStrikeEntity
+  - JujutsucraftModEntities.ENTITY_ATTACK_STRIKE.get()
+  - "jujutsucraft:entity_attack_strike"
+METEOR:
+  - MeteorEntity
+  - JujutsucraftModEntities.METEOR.get()
+  - "jujutsucraft:meteor"
+ENTITY_GUILLOTINE:
+  - EntityGuillotineEntity
+  - JujutsucraftModEntities.ENTITY_GUILLOTINE.get()
+  - "jujutsucraft:entity_guillotine"
+DHRUV_LAKDAWALLA:
+  - DhruvLakdawallaEntity
+  - JujutsucraftModEntities.DHRUV_LAKDAWALLA.get()
+  - "jujutsucraft:dhruv_lakdawalla"
+CURSED_SPIRIT_GRADE_23:
+  - CursedSpiritGrade23Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_23.get()
+  - "jujutsucraft:cursed_spirit_grade_23"
+CURSED_SPIRIT_GRADE_13:
+  - CursedSpiritGrade13Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_13.get()
+  - "jujutsucraft:cursed_spirit_grade_13"
+CURSED_SPIRIT_GRADE_218:
+  - CursedSpiritGrade218Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_218.get()
+  - "jujutsucraft:cursed_spirit_grade_218"
+ENTITY_DOMAIN_URO:
+  - EntityDomainUroEntity
+  - JujutsucraftModEntities.ENTITY_DOMAIN_URO.get()
+  - "jujutsucraft:entity_domain_uro"
+ENTITY_DOMAIN_ISHIGORI:
+  - EntityDomainIshigoriEntity
+  - JujutsucraftModEntities.ENTITY_DOMAIN_ISHIGORI.get()
+  - "jujutsucraft:entity_domain_ishigori"
+YU_HAIBARA:
+  - YuHaibaraEntity
+  - JujutsucraftModEntities.YU_HAIBARA.get()
+  - "jujutsucraft:yu_haibara"
+CURSED_SPIRIT_GRADE_219:
+  - CursedSpiritGrade219Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_219.get()
+  - "jujutsucraft:cursed_spirit_grade_219"
+CURSED_SPIRIT_GRADE_113:
+  - CursedSpiritGrade113Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_113.get()
+  - "jujutsucraft:cursed_spirit_grade_113"
+CURSED_SPIRIT_GRADE_016:
+  - CursedSpiritGrade016Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_016.get()
+  - "jujutsucraft:cursed_spirit_grade_016"
+CURSED_SPIRIT_GRADE_017:
+  - CursedSpiritGrade017Entity
+  - JujutsucraftModEntities.CURSED_SPIRIT_GRADE_017.get()
+  - "jujutsucraft:cursed_spirit_grade_017"
+ITADORI_YUJI_MODULO:
+  - ItadoriYujiModuloEntity
+  - JujutsucraftModEntities.ITADORI_YUJI_MODULO.get()
+  - "jujutsucraft:itadori_yuji_modulo"
+DABURA_KARABA:
+  - DaburaKarabaEntity
+  - JujutsucraftModEntities.DABURA_KARABA.get()
+  - "jujutsucraft:dabura_karaba"
+ENTITY_DOMAIN_DABURA:
+  - EntityDomainDaburaEntity
+  - JujutsucraftModEntities.ENTITY_DOMAIN_DABURA.get()
+  - "jujutsucraft:entity_domain_dabura"
+ENTITY_DARKNESS:
+  - EntityDarknessEntity
+  - JujutsucraftModEntities.ENTITY_DARKNESS.get()
+  - "jujutsucraft:entity_darkness"
+ENTITY_LIGHT:
+  - EntityLightEntity
+  - JujutsucraftModEntities.ENTITY_LIGHT.get()
+  - "jujutsucraft:entity_light"

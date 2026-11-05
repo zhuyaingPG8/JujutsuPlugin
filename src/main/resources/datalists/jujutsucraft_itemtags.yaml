@@ -1,0 +1,72 @@
+- forge__blindfold:
+  readable_name: "Forge blindfold items"
+  required_apis:
+    - jujutsucraft
+- forge__bow:
+  readable_name: "Forge bow items"
+  required_apis:
+    - jujutsucraft
+- forge__cursed_tool:
+  readable_name: "Forge cursed tools"
+  required_apis:
+    - jujutsucraft
+- forge__metallic:
+  readable_name: "Forge metallic items"
+  required_apis:
+    - jujutsucraft
+- forge__rifle:
+  readable_name: "Forge rifle items"
+  required_apis:
+    - jujutsucraft
+- forge__spear:
+  readable_name: "Forge spear items"
+  required_apis:
+    - jujutsucraft
+- forge__sword:
+  readable_name: "Forge sword items"
+  required_apis:
+    - jujutsucraft
+- forge__whip:
+  readable_name: "Forge whip items"
+  required_apis:
+    - jujutsucraft
+- jujutsucraft__cursed_tool_grade0:
+  readable_name: "Cursed tool grade 0"
+  required_apis:
+    - jujutsucraft
+- jujutsucraft__cursed_tool_grade1:
+  readable_name: "Cursed tool grade 1"
+  required_apis:
+    - jujutsucraft
+- jujutsucraft__cursed_tool_grade2:
+  readable_name: "Cursed tool grade 2"
+  required_apis:
+    - jujutsucraft
+- jujutsucraft__cursed_tool_grade3:
+  readable_name: "Cursed tool grade 3"
+  required_apis:
+    - jujutsucraft
+- jujutsucraft__cursed_tool_grade4:
+  readable_name: "Cursed tool grade 4"
+  required_apis:
+    - jujutsucraft
+- jujutsucraft__has_technique_tools:
+  readable_name: "Items carrying technique tools"
+  required_apis:
+    - jujutsucraft
+- minecraft__axes:
+  readable_name: "Vanilla axes"
+  required_apis:
+    - jujutsucraft
+- minecraft__beds:
+  readable_name: "Vanilla beds"
+  required_apis:
+    - jujutsucraft
+- minecraft__pickaxes:
+  readable_name: "Vanilla pickaxes"
+  required_apis:
+    - jujutsucraft
+- minecraft__swords:
+  readable_name: "Vanilla swords"
+  required_apis:
+    - jujutsucraft

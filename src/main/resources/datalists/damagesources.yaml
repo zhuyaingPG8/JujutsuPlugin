@@ -1,0 +1,9 @@
+- DAMAGE_COMBAT:
+  required_apis:
+    - jujutsucraft
+- DAMAGE_CURSE:
+  required_apis:
+    - jujutsucraft
+- START_ANIMATION:
+  required_apis:
+    - jujutsucraft

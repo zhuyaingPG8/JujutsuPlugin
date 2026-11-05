@@ -1,0 +1,1 @@
+ChangeCurseEnergyProcedure.execute(${input$entity}, ${input$num});

@@ -1,0 +1,120 @@
+- GetEntityAnimationProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DataSixEyes4Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DataSixEyes5Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DataSixEyes6Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DataSixEyes7Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DataSixEyes8Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DataSixEyes9Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OBackstepProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OChangeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OCoolTimeCombatProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OCoolTimeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OCoolTimeSelectingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OCostProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OCursePowerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ODoubleJumpProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OFlyProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OOverlay1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OOverlay2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OSixEye1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OSixEye2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OSwitchProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OTechniqueNameProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OUseProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayKeyCProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayKeyGProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayKeyMProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayKeyNProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayKeyRProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayKeyVProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayKeyZProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity

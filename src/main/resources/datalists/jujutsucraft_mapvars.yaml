@@ -1,0 +1,32 @@
+- BlastGame:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- config_doVanillaMobSpawning:
+  required_apis:
+    - jujutsucraft
+  type: logic
+- DomainExpansionRadius:
+  required_apis:
+    - jujutsucraft
+  type: number
+- STRONGEST_PLAYER:
+  required_apis:
+    - jujutsucraft
+  type: number
+- BlastGameDistance:
+  required_apis:
+    - jujutsucraft
+  type: number
+- BlastGameXCenter:
+  required_apis:
+    - jujutsucraft
+  type: number
+- BlastGameYCenter:
+  required_apis:
+    - jujutsucraft
+  type: number
+- BlastGameZCenter:
+  required_apis:
+    - jujutsucraft
+  type: number

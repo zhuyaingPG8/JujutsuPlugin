@@ -1,0 +1,4 @@
+SIZE: JujutsucraftModAttributes.SIZE.get()
+PROFESSION: JujutsucraftModAttributes.PROFESSION.get()
+ANIMATION_1: JujutsucraftModAttributes.ANIMATION_1.get()
+ANIMATION_2: JujutsucraftModAttributes.ANIMATION_2.get()

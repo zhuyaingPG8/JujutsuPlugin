@@ -1,0 +1,1 @@
+AnimationResetProcedure.execute(${input$entity});

@@ -1,0 +1,12 @@
+_default:
+  - ResourceKey.create(Registries.DAMAGE_TYPE, new ResourceLocation("jujutsucraft:damage_combat"))
+  - "jujutsucraft:damage_combat"
+DAMAGE_COMBAT:
+  - ResourceKey.create(Registries.DAMAGE_TYPE, new ResourceLocation("jujutsucraft:damage_combat"))
+  - "jujutsucraft:damage_combat"
+DAMAGE_CURSE:
+  - ResourceKey.create(Registries.DAMAGE_TYPE, new ResourceLocation("jujutsucraft:damage_curse"))
+  - "jujutsucraft:damage_curse"
+START_ANIMATION:
+  - ResourceKey.create(Registries.DAMAGE_TYPE, new ResourceLocation("jujutsucraft:start_animation"))
+  - "jujutsucraft:start_animation"

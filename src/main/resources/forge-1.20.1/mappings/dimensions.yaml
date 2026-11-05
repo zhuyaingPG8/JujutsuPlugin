@@ -1,0 +1,6 @@
+_default:
+  - ResourceKey.create(Registries.DIMENSION, new ResourceLocation("jujutsucraft:cursed_spirit_manipulation_dimension"))
+  - "jujutsucraft:cursed_spirit_manipulation_dimension"
+CursedSpiritManipulation:
+  - ResourceKey.create(Registries.DIMENSION, new ResourceLocation("jujutsucraft:cursed_spirit_manipulation_dimension"))
+  - "jujutsucraft:cursed_spirit_manipulation_dimension"

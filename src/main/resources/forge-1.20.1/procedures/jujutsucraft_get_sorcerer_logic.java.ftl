@@ -1,0 +1,1 @@
+(JujutsuCraft.getJujutsuPlayerData().getSorcererBoolean(${input$entity}, ${input$num}))

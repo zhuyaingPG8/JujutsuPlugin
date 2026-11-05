@@ -1,0 +1,37 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "variable",
+      "datalist": "jujutsucraft_mapvars",
+      "typeFilter": "logic"
+    },
+    {
+      "type": "input_value",
+      "name": "value",
+      "check": "Boolean"
+    }
+  ],
+  "inputsInline": true,
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_variables",
+    "toolbox_init": [
+      "<value name=\"value\"><block type=\"logic_boolean\"><field name=\"BOOL\">TRUE</field></block></value>"
+    ],
+    "fields": [
+      "variable"
+    ],
+    "inputs": [
+      "value"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  },
+  "previousStatement": null,
+  "nextStatement": null
+}

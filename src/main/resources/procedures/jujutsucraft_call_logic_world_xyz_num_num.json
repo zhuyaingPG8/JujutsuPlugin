@@ -1,0 +1,70 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "procedure",
+      "datalist": "jujutsucraft_proc_logic",
+      "typeFilter": "world_xyz_num_num"
+    },
+    {
+      "type": "input_value",
+      "name": "x",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "num",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "num2",
+      "check": "Number"
+    },
+    {
+      "type": "field_image",
+      "src": "./res/server.png",
+      "width": 8,
+      "height": 24
+    }
+  ],
+  "inputsInline": true,
+  "colour": "%{BKY_LOGIC_HUE}",
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_variables",
+    "toolbox_init": [
+      "<value name=\"x\"><block type=\"coord_x\"></block></value>",
+      "<value name=\"y\"><block type=\"coord_y\"></block></value>",
+      "<value name=\"z\"><block type=\"coord_z\"></block></value>",
+      "<value name=\"num\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"num2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>"
+    ],
+    "fields": [
+      "procedure"
+    ],
+    "inputs": [
+      "x",
+      "y",
+      "z",
+      "num",
+      "num2"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  },
+  "output": "Boolean"
+}

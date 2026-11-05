@@ -1,0 +1,1599 @@
+- FLAME_ARROW:
+  readable_name: "Flame Arrow"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_MALEVOLENT_SHRINE:
+  readable_name: "Entity Malevolent Shrine"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_SKULL:
+  readable_name: "Entity Skull"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_31:
+  readable_name: "Cursed Spirit Grade 31"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_32:
+  readable_name: "Cursed Spirit Grade 32"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_33:
+  readable_name: "Cursed Spirit Grade 33"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- JOGO_HEAD:
+  readable_name: "Jogo Head"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SOCCER_PLAYER:
+  readable_name: "Soccer Player"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- JOGO_ASH:
+  readable_name: "Jogo Ash"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GRAVESTONE_1:
+  readable_name: "Gravestone 1"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GRAVESTONE_2:
+  readable_name: "Gravestone 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_BLACK_FLASH:
+  readable_name: "Entity Black Flash"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- STEVENSON_SCREEN:
+  readable_name: "Stevenson Screen"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- PURE_LOVE_CANNON:
+  readable_name: "Pure Love Cannon"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DIVINE_DOG_WHITE:
+  readable_name: "Divine Dog White"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DIVINE_DOG_BLACK:
+  readable_name: "Divine Dog Black"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GREAT_SERPENT:
+  readable_name: "Great Serpent"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MAX_ELEPHANT:
+  readable_name: "Max Elephant"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MAHORAGA_DOG:
+  readable_name: "Mahoraga Dog"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MAHORAGA_FROG:
+  readable_name: "Mahoraga Frog"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- RABBIT_ESCAPE:
+  readable_name: "Rabbit Escape"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_34:
+  readable_name: "Cursed Spirit Grade 34"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_35:
+  readable_name: "Cursed Spirit Grade 35"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- RED:
+  readable_name: "Red"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BLUE:
+  readable_name: "Blue"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- PURPLE:
+  readable_name: "Purple"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- PALM_TREE:
+  readable_name: "Palm Tree"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_36:
+  readable_name: "Cursed Spirit Grade 36"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FRAME:
+  readable_name: "Frame"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KECHIZU:
+  readable_name: "Kechizu"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SLICING_EXORCISM:
+  readable_name: "Slicing Exorcism"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BLOOD_BALL:
+  readable_name: "Blood Ball"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FIST:
+  readable_name: "Fist"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_37:
+  readable_name: "Cursed Spirit Grade 37"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CROW:
+  readable_name: "Crow"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DOMAIN_EXPANSION_ENTITY:
+  readable_name: "Domain Expansion Entity"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_311:
+  readable_name: "Cursed Spirit Grade 311"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_38:
+  readable_name: "Cursed Spirit Grade 38"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_39:
+  readable_name: "Cursed Spirit Grade 39"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_310:
+  readable_name: "Cursed Spirit Grade 310"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ROCK_FRAGMENT:
+  readable_name: "Rock Fragment"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TOAD_2:
+  readable_name: "Toad 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- WOODEN_SPEAR_1:
+  readable_name: "Wooden Spear 1"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_HANDS:
+  readable_name: "Entity Hands"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- THUNDER_IMPACT:
+  readable_name: "Thunder Impact"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_WATER:
+  readable_name: "Entity Water"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- PIERCING_OX:
+  readable_name: "Piercing Ox"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ROUND_DEER:
+  readable_name: "Round Deer"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- UZUMAKI:
+  readable_name: "Uzumaki"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_312:
+  readable_name: "Cursed Spirit Grade 312"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_TIME_CELL_MOON_PALACE:
+  readable_name: "Entity Time Cell Moon Palace"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_WATER_2:
+  readable_name: "Entity Water 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SEA_SERPENT_MINI:
+  readable_name: "Sea Serpent Mini"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GARUDA:
+  readable_name: "Garuda"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GARUDA_BALL:
+  readable_name: "Garuda Ball"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FOOT:
+  readable_name: "Foot"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENERGY_BALL_WHITE:
+  readable_name: "Energy Ball White"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_ITEM:
+  readable_name: "Entity Item"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_MAHITO_HAND_3:
+  readable_name: "Entity Mahito Hand 3"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BODY_REPEL:
+  readable_name: "Body Repel"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HUMAN_CAR:
+  readable_name: "Human Car"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_FLAME_PROJECTILE:
+  readable_name: "Bullet Flame Projectile"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_BLOOD_PROJECTILE:
+  readable_name: "Bullet Blood Projectile"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_SKELETON_PROJECTILE:
+  readable_name: "Bullet Skeleton Projectile"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_CURSE_POWER_PROJECTILE:
+  readable_name: "Bullet Curse Power Projectile"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_CANNON_PROJECTILE:
+  readable_name: "Bullet Cannon Projectile"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_HUMAN_PROJECTILE:
+  readable_name: "Bullet Human Projectile"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_JUPITER:
+  readable_name: "Entity Jupiter"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_CLOCK:
+  readable_name: "Entity Clock"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_SAND_STONE:
+  readable_name: "Entity Sand Stone"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_WOMB_PROFUSION:
+  readable_name: "Entity Womb Profusion"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_24:
+  readable_name: "Cursed Spirit Grade 24"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_14:
+  readable_name: "Cursed Spirit Grade 14"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- COCKROACHES:
+  readable_name: "Cockroaches"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KILLER_1:
+  readable_name: "Killer 1"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_PROJECTION_SORCERY:
+  readable_name: "Entity Projection Sorcery"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SEA_SERPENT:
+  readable_name: "Sea Serpent"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- EMBER_INSECT:
+  readable_name: "Ember Insect"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- JOGO:
+  readable_name: "Jogo"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_SKULL:
+  readable_name: "Bullet Skull"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_15:
+  readable_name: "Cursed Spirit Grade 15"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_22:
+  readable_name: "Cursed Spirit Grade 22"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TAKADA:
+  readable_name: "Takada"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ICE_SPEAR:
+  readable_name: "Ice Spear"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ICE_SPEAR_2:
+  readable_name: "Ice Spear 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- WOODEN_SPEAR_2:
+  readable_name: "Wooden Spear 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_25:
+  readable_name: "Cursed Spirit Grade 25"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_02:
+  readable_name: "Cursed Spirit Grade 02"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_03:
+  readable_name: "Cursed Spirit Grade 03"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_05:
+  readable_name: "Cursed Spirit Grade 05"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_16:
+  readable_name: "Cursed Spirit Grade 16"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GRAVESTONE_3:
+  readable_name: "Gravestone 3"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- COFFIN:
+  readable_name: "Coffin"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BATHYNOMUS_GIGANTEUS:
+  readable_name: "Bathynomus Giganteus"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MERGED_BEAST_AGITO:
+  readable_name: "Merged Beast Agito"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_HEART:
+  readable_name: "Entity Heart"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_COCKROACH_EGGS:
+  readable_name: "Entity Cockroach Eggs"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_313:
+  readable_name: "Cursed Spirit Grade 313"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_314:
+  readable_name: "Cursed Spirit Grade 314"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_315:
+  readable_name: "Cursed Spirit Grade 315"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_316:
+  readable_name: "Cursed Spirit Grade 316"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_317:
+  readable_name: "Cursed Spirit Grade 317"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_318:
+  readable_name: "Cursed Spirit Grade 318"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_26:
+  readable_name: "Cursed Spirit Grade 26"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_27:
+  readable_name: "Cursed Spirit Grade 27"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_28:
+  readable_name: "Cursed Spirit Grade 28"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_29:
+  readable_name: "Cursed Spirit Grade 29"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_21:
+  readable_name: "Cursed Spirit Grade 21"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_DOOR:
+  readable_name: "Entity Door"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FOX_FIRE:
+  readable_name: "Fox Fire"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FLAME_TIGER:
+  readable_name: "Flame Tiger"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BLACK_HOLE:
+  readable_name: "Black Hole"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_17:
+  readable_name: "Cursed Spirit Grade 17"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_18:
+  readable_name: "Cursed Spirit Grade 18"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_SCISSORS:
+  readable_name: "Entity Scissors"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_06:
+  readable_name: "Cursed Spirit Grade 06"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_07:
+  readable_name: "Cursed Spirit Grade 07"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_08:
+  readable_name: "Cursed Spirit Grade 08"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_AWAJI_KNOT:
+  readable_name: "Entity Awaji Knot"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GRAVESTONE_4:
+  readable_name: "Gravestone 4"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_CHIMERA_SHADOW_GARDEN:
+  readable_name: "Entity Chimera Shadow Garden"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- RIKA_2:
+  readable_name: "Rika 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- RIKA:
+  readable_name: "Rika"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_WITNESS_STAND:
+  readable_name: "Entity Witness Stand"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- WOODEN_BALL_1:
+  readable_name: "Wooden Ball 1"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- JUDGEMAN:
+  readable_name: "Judgeman"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TOAD:
+  readable_name: "Toad"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TODO_AOI:
+  readable_name: "Todo Aoi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TRUCK:
+  readable_name: "Truck"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_JACOBS_LADDER_CIRCLE:
+  readable_name: "Entity Jacobs Ladder Circle"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_JACOBS_LADDER_ANGEL:
+  readable_name: "Entity Jacobs Ladder Angel"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_TREE:
+  readable_name: "Entity Tree"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_UNLIMITED_VOID:
+  readable_name: "Entity Unlimited Void"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- EARTHEN_INSECT_TRANCE:
+  readable_name: "Earthen Insect Trance"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_TORNADO:
+  readable_name: "Entity Tornado"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- COCKROACH_LARVA:
+  readable_name: "Cockroach Larva"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_TEMPLE_MAIN:
+  readable_name: "Entity Temple Main"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- URO_TAKAKO:
+  readable_name: "Uro Takako"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- OGAMI:
+  readable_name: "Ogami"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TICKET_GATE:
+  readable_name: "Ticket Gate"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_DOORS:
+  readable_name: "Entity Doors"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SLOT:
+  readable_name: "Slot"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_BALL_PROJECTILE:
+  readable_name: "Bullet Ball Projectile"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MIGUEL_DANCER:
+  readable_name: "Miguel Dancer"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ROZETSU:
+  readable_name: "Rozetsu"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_CHOJURO:
+  readable_name: "Zenin Chojuro"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_JINICHI_DOMAIN_1:
+  readable_name: "Entity Jinichi Domain 1"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_JINICHI_DOMAIN_2:
+  readable_name: "Entity Jinichi Domain 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_319:
+  readable_name: "Cursed Spirit Grade 319"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_210:
+  readable_name: "Cursed Spirit Grade 210"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_211:
+  readable_name: "Cursed Spirit Grade 211"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_212:
+  readable_name: "Cursed Spirit Grade 212"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MOON_DREGS:
+  readable_name: "Moon Dregs"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_HAND:
+  readable_name: "Entity Hand"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- PANDA_NORMAL:
+  readable_name: "Panda Normal"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DOLL_1:
+  readable_name: "Doll 1"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_SLASH:
+  readable_name: "Entity Slash"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_BROOM:
+  readable_name: "Entity Broom"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_NAIL:
+  readable_name: "Bullet Nail"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- RESONANCE:
+  readable_name: "Resonance"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SHIKIGAMI_HETEROCEPHALUS_GLABER:
+  readable_name: "Shikigami Heterocephalus Glaber"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SHIKIGAMI_PTEROSAUR:
+  readable_name: "Shikigami Pterosaur"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SHIKIGAMI_RIKA_DHRUV:
+  readable_name: "Shikigami Rika Dhruv"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_110:
+  readable_name: "Cursed Spirit Grade 110"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_09:
+  readable_name: "Cursed Spirit Grade 09"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TRUE_SPHERE:
+  readable_name: "True Sphere"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_THREEFOLD_AFFLICTION:
+  readable_name: "Entity Threefold Affliction"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- LIQUID_METAL:
+  readable_name: "Liquid Metal"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- NEEDLE:
+  readable_name: "Needle"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_213:
+  readable_name: "Cursed Spirit Grade 213"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_214:
+  readable_name: "Cursed Spirit Grade 214"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KAICHI:
+  readable_name: "Kaichi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- RYU:
+  readable_name: "Ryu"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_321:
+  readable_name: "Cursed Spirit Grade 321"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_322:
+  readable_name: "Cursed Spirit Grade 322"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_215:
+  readable_name: "Cursed Spirit Grade 215"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_MALEVOLENT_SHRINE_2:
+  readable_name: "Entity Malevolent Shrine 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_DOMAIN_KUGISAKI:
+  readable_name: "Entity Domain Kugisaki"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_DOMAIN_INUMAKI:
+  readable_name: "Entity Domain Inumaki"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_111:
+  readable_name: "Cursed Spirit Grade 111"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_216:
+  readable_name: "Cursed Spirit Grade 216"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ROZETSU_SHIKIGAMI_VESSEL:
+  readable_name: "Rozetsu Shikigami Vessel"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ROZETSU_SHIKIGAMI_VESSEL_2:
+  readable_name: "Rozetsu Shikigami Vessel 2"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_04:
+  readable_name: "Cursed Spirit Grade 04"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI:
+  readable_name: "Itadori Yuji"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI_SHIBUYA:
+  readable_name: "Itadori Yuji Shibuya"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI_SHINJUKU:
+  readable_name: "Itadori Yuji Shinjuku"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FUSHIGURO_MEGUMI:
+  readable_name: "Fushiguro Megumi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FUSHIGURO_MEGUMI_SHIBUYA:
+  readable_name: "Fushiguro Megumi Shibuya"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- NOBARA_KUGISAKI:
+  readable_name: "Nobara Kugisaki"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- INUMAKI_TOGE:
+  readable_name: "Inumaki Toge"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_MAKI:
+  readable_name: "Zenin Maki"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_MAKI_CULLING_GAME:
+  readable_name: "Zenin Maki Culling Game"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- OKKOTSU_YUTA:
+  readable_name: "Okkotsu Yuta"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- OKKOTSU_YUTA_CULLING_GAME:
+  readable_name: "Okkotsu Yuta Culling Game"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HOSHI_KIRARA:
+  readable_name: "Hoshi Kirara"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HAKARI_KINJI:
+  readable_name: "Hakari Kinji"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- YAGA_MASAMICHI:
+  readable_name: "Yaga Masamichi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KUSAKABE_ATSUYA:
+  readable_name: "Kusakabe Atsuya"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MIWA_KASUMI:
+  readable_name: "Miwa Kasumi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- NISHIMIYA_MOMO:
+  readable_name: "Nishimiya Momo"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KAMO_NORITOSHI:
+  readable_name: "Kamo Noritoshi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MECHAMARU:
+  readable_name: "Mechamaru"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GETO_SUGURU:
+  readable_name: "Geto Suguru"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GETO_SUGURU_CURSE_USER:
+  readable_name: "Geto Suguru Curse User"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KENJAKU:
+  readable_name: "Kenjaku"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GOJO_SATORU_SCHOOL_DAYS:
+  readable_name: "Gojo Satoru School Days"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- GOJO_SATORU:
+  readable_name: "Gojo Satoru"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- JUJUTSU_SORCERER:
+  readable_name: "Jujutsu Sorcerer"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MEI_MEI:
+  readable_name: "Mei Mei"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- NANAMI_KENTO:
+  readable_name: "Nanami Kento"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TSUKUMO_YUKI:
+  readable_name: "Tsukumo Yuki"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- INO_TAKUMA:
+  readable_name: "Ino Takuma"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_NAOBITO:
+  readable_name: "Zenin Naobito"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_NAOYA:
+  readable_name: "Zenin Naoya"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_JINICHI:
+  readable_name: "Zenin Jinichi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_OGI:
+  readable_name: "Zenin Ogi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- YOSHINO_JUNPEI:
+  readable_name: "Yoshino Junpei"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_RANTA:
+  readable_name: "Zenin Ranta"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KUKURU:
+  readable_name: "Kukuru"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FUSHIGURO_TOJI:
+  readable_name: "Fushiguro Toji"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- FUSHIGURO_TOJI_BUG:
+  readable_name: "Fushiguro Toji Bug"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_01:
+  readable_name: "Cursed Spirit Grade 01"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSE_USER:
+  readable_name: "Curse User"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSE_USER_1:
+  readable_name: "Curse User 1"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- Q:
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MIMIKO:
+  readable_name: "Mimiko"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- NANAKO:
+  readable_name: "Nanako"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- NEGI_TOSHIHISA:
+  readable_name: "Negi Toshihisa"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- LARUE:
+  readable_name: "Larue"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MIGUEL:
+  readable_name: "Miguel"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KUMIYA_JUZO:
+  readable_name: "Kumiya Juzo"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- AWASAKA_JIRO:
+  readable_name: "Awasaka Jiro"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HANAMI:
+  readable_name: "Hanami"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MAHITO:
+  readable_name: "Mahito"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- URAUME:
+  readable_name: "Uraume"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SUKUNA:
+  readable_name: "Sukuna"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SUKUNA_FUSHIGURO:
+  readable_name: "Sukuna Fushiguro"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SUKUNA_PERFECT:
+  readable_name: "Sukuna Perfect"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ESO:
+  readable_name: "Eso"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CHOSO:
+  readable_name: "Choso"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HABA:
+  readable_name: "Haba"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HANYU:
+  readable_name: "Hanyu"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TAKABA_FUMIHIKO:
+  readable_name: "Takaba Fumihiko"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HIGURUMA_HIROMI:
+  readable_name: "Higuruma Hiromi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CHARLES_BERNARD:
+  readable_name: "Charles Bernard"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ISHIGORI_RYU:
+  readable_name: "Ishigori Ryu"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KASHIMO_HAJIME:
+  readable_name: "Kashimo Hajime"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- KURUSU_HANA:
+  readable_name: "Kurusu Hana"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HAZENOKI:
+  readable_name: "Hazenoki"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- REGGIE_STAR:
+  readable_name: "Reggie Star"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DAIDO_HAGANE:
+  readable_name: "Daido Hagane"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- MIYO_ROKUJUSHI:
+  readable_name: "Miyo Rokujushi"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- YOROZU:
+  readable_name: "Yorozu"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ROZETSU_SHIKIGAMI:
+  readable_name: "Rozetsu Shikigami"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TRANSFIGURED_HUMAN:
+  readable_name: "Transfigured Human"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- POLYMORPHIC_SOUL_ISOMER:
+  readable_name: "Polymorphic Soul Isomer"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_NAOYA_CURSED_SPIRIT:
+  readable_name: "Zenin Naoya Cursed Spirit"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DAGON:
+  readable_name: "Dagon"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SHIGEMO_HARUTA:
+  readable_name: "Shigemo Haruta"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_ATTACK_SLASH:
+  readable_name: "Entity Attack Slash"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_ATTACK_SWEEP:
+  readable_name: "Entity Attack Sweep"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ORCASAN:
+  readable_name: "Orcasan"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_TREE_HANAMI:
+  readable_name: "Entity Tree Hanami"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_ROZETSU_DOMAIN:
+  readable_name: "Entity Rozetsu Domain"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DIVINE_DOG_TOTALITY:
+  readable_name: "Divine Dog Totality"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- NUE:
+  readable_name: "Nue"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- TIGER_FUNERAL:
+  readable_name: "Tiger Funeral"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_PISTOL:
+  readable_name: "Bullet Pistol"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_CRACK:
+  readable_name: "Entity Crack"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_010:
+  readable_name: "Cursed Spirit Grade 010"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- PROJECTILE_SLASH:
+  readable_name: "Projectile Slash"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CAR:
+  readable_name: "Car"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_323:
+  readable_name: "Cursed Spirit Grade 323"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- HANAKO_HAND:
+  readable_name: "Hanako Hand"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_19:
+  readable_name: "Cursed Spirit Grade 19"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_12:
+  readable_name: "Cursed Spirit Grade 12"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_011:
+  readable_name: "Cursed Spirit Grade 011"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_012:
+  readable_name: "Cursed Spirit Grade 012"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_11:
+  readable_name: "Cursed Spirit Grade 11"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_IMPACT_WAVE:
+  readable_name: "Entity Impact Wave"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_KITCHEN_KNIFE:
+  readable_name: "Bullet Kitchen Knife"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_RECEIPT:
+  readable_name: "Entity Receipt"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_TOOTH:
+  readable_name: "Bullet Tooth"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_EYE:
+  readable_name: "Bullet Eye"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_HOUSE:
+  readable_name: "Entity House"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- SUDA_MANAMI:
+  readable_name: "Suda Manami"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BAYER:
+  readable_name: "Bayer"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- BULLET_KNIFE:
+  readable_name: "Bullet Knife"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_320:
+  readable_name: "Cursed Spirit Grade 320"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ZENIN_NOBUAKI:
+  readable_name: "Zenin Nobuaki"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_EYE_RANTA:
+  readable_name: "Entity Eye Ranta"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- EIGHT_HANDLED_SWORD_DIVERGENT_SILA_DIVINE_GENERAL_MAHORAGA:
+  readable_name: "Eight Handled Sword Divergent Sila Divine General Mahoraga"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_217:
+  readable_name: "Cursed Spirit Grade 217"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_013:
+  readable_name: "Cursed Spirit Grade 013"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_TSUCHIGUMO:
+  readable_name: "Entity Tsuchigumo"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_112:
+  readable_name: "Cursed Spirit Grade 112"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_014:
+  readable_name: "Cursed Spirit Grade 014"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_015:
+  readable_name: "Cursed Spirit Grade 015"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_CRYSTAL:
+  readable_name: "Entity Crystal"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- THROWING_ITEM:
+  readable_name: "Throwing Item"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_ATTACK_STRIKE:
+  readable_name: "Entity Attack Strike"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- METEOR:
+  readable_name: "Meteor"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_GUILLOTINE:
+  readable_name: "Entity Guillotine"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DHRUV_LAKDAWALLA:
+  readable_name: "Dhruv Lakdawalla"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_23:
+  readable_name: "Cursed Spirit Grade 23"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_13:
+  readable_name: "Cursed Spirit Grade 13"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_218:
+  readable_name: "Cursed Spirit Grade 218"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_DOMAIN_URO:
+  readable_name: "Entity Domain Uro"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_DOMAIN_ISHIGORI:
+  readable_name: "Entity Domain Ishigori"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- YU_HAIBARA:
+  readable_name: "Yu Haibara"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_219:
+  readable_name: "Cursed Spirit Grade 219"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_113:
+  readable_name: "Cursed Spirit Grade 113"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_016:
+  readable_name: "Cursed Spirit Grade 016"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- CURSED_SPIRIT_GRADE_017:
+  readable_name: "Cursed Spirit Grade 017"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ITADORI_YUJI_MODULO:
+  readable_name: "Itadori Yuji Modulo"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- DABURA_KARABA:
+  readable_name: "Dabura Karaba"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_DOMAIN_DABURA:
+  readable_name: "Entity Domain Dabura"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_DARKNESS:
+  readable_name: "Entity Darkness"
+  type: spawnable
+  required_apis:
+    - jujutsucraft
+- ENTITY_LIGHT:
+  readable_name: "Entity Light"
+  type: spawnable
+  required_apis:
+    - jujutsucraft

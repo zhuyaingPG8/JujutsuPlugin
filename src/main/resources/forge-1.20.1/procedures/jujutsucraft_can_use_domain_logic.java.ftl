@@ -1,0 +1,1 @@
+(JujutsuCraft.getJujutsuCursedData().canDomainExpansion(${input$entity}))

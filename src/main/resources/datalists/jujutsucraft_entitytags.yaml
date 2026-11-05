@@ -1,0 +1,156 @@
+- black_flash_able:
+  readable_name: "Black Flash Able"
+  required_apis:
+    - jujutsucraft
+- cant_combat:
+  readable_name: "Cant Combat"
+  required_apis:
+    - jujutsucraft
+- group_1:
+  readable_name: "Group 1"
+  required_apis:
+    - jujutsucraft
+- group_2:
+  readable_name: "Group 2"
+  required_apis:
+    - jujutsucraft
+- group_3:
+  readable_name: "Group 3"
+  required_apis:
+    - jujutsucraft
+- group_4:
+  readable_name: "Group 4"
+  required_apis:
+    - jujutsucraft
+- group_5:
+  readable_name: "Group 5"
+  required_apis:
+    - jujutsucraft
+- have_claws:
+  readable_name: "Have Claws"
+  required_apis:
+    - jujutsucraft
+- human:
+  readable_name: "Human"
+  required_apis:
+    - jujutsucraft
+- iron_body:
+  readable_name: "Iron Body"
+  required_apis:
+    - jujutsucraft
+- no_curse_power:
+  readable_name: "No Curse Power"
+  required_apis:
+    - jujutsucraft
+- no_cursed_technique:
+  readable_name: "No Cursed Technique"
+  required_apis:
+    - jujutsucraft
+- not_living:
+  readable_name: "Not Living"
+  required_apis:
+    - jujutsucraft
+- ranged_ammo:
+  readable_name: "Ranged Ammo"
+  required_apis:
+    - jujutsucraft
+- ranged_ammo_no_move:
+  readable_name: "Ranged Ammo No Move"
+  required_apis:
+    - jujutsucraft
+- rideable_entity:
+  readable_name: "Rideable Entity"
+  required_apis:
+    - jujutsucraft
+- soul_perception:
+  readable_name: "Soul Perception"
+  required_apis:
+    - jujutsucraft
+- vanilla_mob:
+  readable_name: "Vanilla Mob"
+  required_apis:
+    - jujutsucraft
+- woman:
+  readable_name: "Woman"
+  required_apis:
+    - jujutsucraft
+- can_use_domain_amplification:
+  readable_name: "Can Use Domain Amplification"
+  required_apis:
+    - jujutsucraft
+- can_use_falling_blossom_emotion:
+  readable_name: "Can Use Falling Blossom Emotion"
+  required_apis:
+    - jujutsucraft
+- can_use_hollow_wicker_basket:
+  readable_name: "Can Use Hollow Wicker Basket"
+  required_apis:
+    - jujutsucraft
+- can_use_reverse_cursed_technique:
+  readable_name: "Can Use Reverse Cursed Technique"
+  required_apis:
+    - jujutsucraft
+- can_use_reverse_cursed_technique_output:
+  readable_name: "Can Use Reverse Cursed Technique Output"
+  required_apis:
+    - jujutsucraft
+- can_use_simple_domain:
+  readable_name: "Can Use Simple Domain"
+  required_apis:
+    - jujutsucraft
+- cant_barrage_attack:
+  readable_name: "Cant Barrage Attack"
+  required_apis:
+    - jujutsucraft
+- combat_type:
+  readable_name: "Combat Type"
+  required_apis:
+    - jujutsucraft
+- death_painting:
+  readable_name: "Death Painting"
+  required_apis:
+    - jujutsucraft
+- group_6:
+  readable_name: "Group 6"
+  required_apis:
+    - jujutsucraft
+- jumping_attackable:
+  readable_name: "Jumping Attackable"
+  required_apis:
+    - jujutsucraft
+- no_guard:
+  readable_name: "No Guard"
+  required_apis:
+    - jujutsucraft
+- overhead_attackable:
+  readable_name: "Overhead Attackable"
+  required_apis:
+    - jujutsucraft
+- running_attackable:
+  readable_name: "Running Attackable"
+  required_apis:
+    - jujutsucraft
+- speed_attackable:
+  readable_name: "Speed Attackable"
+  required_apis:
+    - jujutsucraft
+- ten_shadows_technique:
+  readable_name: "Ten Shadows Technique"
+  required_apis:
+    - jujutsucraft
+- transfigured_human:
+  readable_name: "Transfigured Human"
+  required_apis:
+    - jujutsucraft
+- zenin:
+  readable_name: "Zenin"
+  required_apis:
+    - jujutsucraft
+- simurian:
+  readable_name: "Simurian"
+  required_apis:
+    - jujutsucraft
+- simurian_rumel:
+  readable_name: "Simurian Rumel"
+  required_apis:
+    - jujutsucraft

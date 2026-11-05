@@ -1,0 +1,112 @@
+- GUARD:
+  readable_name: "Guard"
+  required_apis:
+    - jujutsucraft
+- SWORD_SWEEP:
+  readable_name: "Sword Sweep"
+  required_apis:
+    - jujutsucraft
+- FLAME_EXPLODE:
+  readable_name: "Flame Explode"
+  required_apis:
+    - jujutsucraft
+- PUNCH:
+  readable_name: "Punch"
+  required_apis:
+    - jujutsucraft
+- WIND_CHIME:
+  readable_name: "Wind Chime"
+  required_apis:
+    - jujutsucraft
+- SLOW_MOTION_END:
+  readable_name: "Slow Motion End"
+  required_apis:
+    - jujutsucraft
+- PIANO_HORROR:
+  readable_name: "Piano Horror"
+  required_apis:
+    - jujutsucraft
+- TINNITUS:
+  readable_name: "Tinnitus"
+  required_apis:
+    - jujutsucraft
+- ELECTRIC_SHOCK:
+  readable_name: "Electric Shock"
+  required_apis:
+    - jujutsucraft
+- GUARD_JUST:
+  readable_name: "Guard Just"
+  required_apis:
+    - jujutsucraft
+- FRAME_SET:
+  readable_name: "Frame Set"
+  required_apis:
+    - jujutsucraft
+- STONE_CRASH:
+  readable_name: "Stone Crash"
+  required_apis:
+    - jujutsucraft
+- GLASS_CRASH:
+  readable_name: "Glass Crash"
+  required_apis:
+    - jujutsucraft
+- GACON:
+  readable_name: "Gacon"
+  required_apis:
+    - jujutsucraft
+- SCHOOL_BELL:
+  readable_name: "School Bell"
+  required_apis:
+    - jujutsucraft
+- DEVIL_LAUGH:
+  readable_name: "Devil Laugh"
+  required_apis:
+    - jujutsucraft
+- STRONG_HIT:
+  readable_name: "Strong Hit"
+  required_apis:
+    - jujutsucraft
+- CLAP:
+  readable_name: "Clap"
+  required_apis:
+    - jujutsucraft
+- CRUSH:
+  readable_name: "Crush"
+  required_apis:
+    - jujutsucraft
+- GUARD_SWORD:
+  readable_name: "Guard Sword"
+  required_apis:
+    - jujutsucraft
+- ICE_GENERATE:
+  readable_name: "Ice Generate"
+  required_apis:
+    - jujutsucraft
+- HAKARI1:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Hakari1"
+- GAVEL:
+  readable_name: "Gavel"
+  required_apis:
+    - jujutsucraft
+- CRITICAL:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Critical"
+- THUNDER_IMPACT:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Thunder Impact"
+- GRAVITY:
+  readable_name: "Gravity"
+  required_apis:
+    - jujutsucraft
+- WATER_SPLASH:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Water Splash"
+- BEAM:
+  required_apis:
+    - jujutsucraft
+  readable_name: "Beam"

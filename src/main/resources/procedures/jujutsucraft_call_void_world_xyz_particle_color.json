@@ -1,0 +1,113 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "procedure",
+      "datalist": "jujutsucraft_proc_void",
+      "typeFilter": "world_xyz_particle_color"
+    },
+    {
+      "type": "input_value",
+      "name": "caliber_radius",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "count",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "inaccuracy",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "speed",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "x1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "x2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "id",
+      "check": "String"
+    },
+    {
+      "type": "field_image",
+      "src": "./res/server.png",
+      "width": 8,
+      "height": 24
+    }
+  ],
+  "inputsInline": true,
+  "colour": 240,
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_curse_technique",
+    "toolbox_init": [
+      "<value name=\"caliber_radius\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"count\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"inaccuracy\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"speed\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"x1\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"x2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"y1\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"y2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"z1\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"z2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"id\"><block type=\"text\"><field name=\"TEXT\"></field></block></value>"
+    ],
+    "fields": [
+      "procedure"
+    ],
+    "inputs": [
+      "caliber_radius",
+      "count",
+      "inaccuracy",
+      "speed",
+      "x1",
+      "x2",
+      "y1",
+      "y2",
+      "z1",
+      "z2",
+      "id"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  },
+  "previousStatement": null,
+  "nextStatement": null
+}

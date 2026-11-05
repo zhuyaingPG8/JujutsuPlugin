@@ -1,0 +1,58 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "procedure",
+      "datalist": "jujutsucraft_proc_void",
+      "typeFilter": "num_num_num_entity"
+    },
+    {
+      "type": "input_value",
+      "name": "num",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "num2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "num3",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "entity",
+      "check": "Entity"
+    },
+    {
+      "type": "field_image",
+      "src": "./res/server.png",
+      "width": 8,
+      "height": 24
+    }
+  ],
+  "inputsInline": true,
+  "colour": 240,
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_curse_technique",
+    "toolbox_init": [
+      "<value name=\"num\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"num2\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"num3\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value>",
+      "<value name=\"entity\"><block type=\"entity_from_deps\"></block></value>"
+    ],
+    "fields": [
+      "procedure"
+    ],
+    "inputs": [
+      "num",
+      "num2",
+      "num3",
+      "entity"
+    ]
+  },
+  "previousStatement": null,
+  "nextStatement": null
+}

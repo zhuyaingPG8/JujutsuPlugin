@@ -1,0 +1,280 @@
+- LogicAttackTargetProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicStartProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicStartPassiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicAIProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicSwordProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicAIActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicCooldownCombatProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AntiInfinityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ActiveTickConditionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- WoodenSpear1DisplayConditionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ButtonMakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayDefaultSkillProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DetectEnemyProjectileProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- LogicAttackTargetStartProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- LogicOwnerExistProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- InsideSolidProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- OnGroundProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- LocateRikaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- LocateLiquidMetalProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- LocateTrueSphereProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- LogicRifleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- LogicAttackProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- LogicAttackDomainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- CanSeeSukunaSlashProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- LogicConfilmDomainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDomainLogicProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- LocateBloodBallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CanPassThroughBarriersProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DataSixEyesDisplayOverlayIngameProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EntityProjectionSorceryDisplayConditionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- FloatInWaterProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GojoSatoruDisplayConditionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LocateGarudaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- LogicBetrayalProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- LogicCantJustGuardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicCooldownMagicOnlyProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicCooldownProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicDoubleCursedTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicGuardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicGuardSuccessProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- LogicIronBodyProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicJustGuardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- LogicUseMinePieceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- MeteorDisplayConditionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ODoubleJumpDispProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OFlyDispProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayCooldown2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayCooldown2TimerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayCursedSkillProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayDomainSkillProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayHaveCursedTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayHaveTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayPassiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OverlayPhysicalSkillProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ProfessionLogicProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- RenderSkyProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SolidInsideWallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SukunaFushiguroDisplayConditionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- InsideSolidCalculateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_num_num
+- ChangeTechniqueTest2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num_num
+- ChangeTechniqueTestProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num_num
+- ProjectileSlashInsideWallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_logic
+- AlwayTrueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: none
+- LogicSimpleDomainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: none
+- ReturnConfigDoVanillaMobSpawningProcedure:
+  required_apis:
+    - jujutsucraft
+  type: none
+- ReturnConfigForceRandomCursedTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: none
+- SpawnLevel2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world
+- SpawnLevel3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world
+- SpawnLevel4Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world
+- SpawnLevel5Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world

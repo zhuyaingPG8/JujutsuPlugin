@@ -1,0 +1,1 @@
+JujutsuCraft.getJujutsuCursedData().chantingIncantations(world, ${input$x}, ${input$y}, ${input$z}, ${input$entity}, ${input$num}, ${input$text}, ${input$energy});

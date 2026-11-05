@@ -1,0 +1,9 @@
+_default: DomainExpansionRadius
+BlastGame: BlastGame
+config_doVanillaMobSpawning: config_doVanillaMobSpawning
+DomainExpansionRadius: DomainExpansionRadius
+STRONGEST_PLAYER: STRONGEST_PLAYER
+BlastGameDistance: BlastGameDistance
+BlastGameXCenter: BlastGameXCenter
+BlastGameYCenter: BlastGameYCenter
+BlastGameZCenter: BlastGameZCenter

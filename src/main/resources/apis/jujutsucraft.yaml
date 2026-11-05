@@ -1,0 +1,22 @@
+---
+forge-1.20.1:
+  gradle: |
+    repositories {
+      exclusiveContent {
+        forRepository {
+          maven {
+            url = "https://cursemaven.com"
+          }
+        }
+        filter {
+          includeGroupAndSubgroups('curse.maven')
+        }
+      }
+    }
+
+    dependencies {
+      modImplementation "curse.maven:sorceryfight-471288:9146690"
+    }
+  update_files:
+    - ~
+name: "SorceryFight"

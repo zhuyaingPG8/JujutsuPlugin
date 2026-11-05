@@ -1,0 +1,16 @@
+- SIZE:
+  readable_name: "Size"
+  required_apis:
+    - jujutsucraft
+- PROFESSION:
+  readable_name: "Profession"
+  required_apis:
+    - jujutsucraft
+- ANIMATION_1:
+  readable_name: "Animation 1"
+  required_apis:
+    - jujutsucraft
+- ANIMATION_2:
+  readable_name: "Animation 2"
+  required_apis:
+    - jujutsucraft

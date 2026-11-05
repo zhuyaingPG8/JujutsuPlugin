@@ -1,0 +1,3772 @@
+- ResetCounterProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DamageFixProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GetPowerFixProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SetNoAIandInvulnerableProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KurourushiBodyHelmetTickEventProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AnimationResetProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- OgiZeninPassiveSkillProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- PlayerSetProfessionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- WoodenSpear2OnInitialEntitySpawnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AIRideableControlProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EntityUseProjectionSorceryProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyDomainAmplificationOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SetRangedAmmoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- EffectCursedSpeech1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- ChimeraShadowGardenSetProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- CursedToolsAbilityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- PlayAnimationProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- CalculateAttackProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SetTagCursedSpritProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SetTagProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- BulletDomainHit2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SetTagCursedSpritCurseUsersProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DieTenShadowsTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- FollowEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIActiveFlyingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DieRikaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- Attack4ConsecutiveAttacksProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- WeaponNanamiRightClickedInAirProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIEntitySlashProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ChojuroStoneHandProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ShikigamiRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- SukunaEntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- BulletDomainHitProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EffectCharactorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- DomainOnTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BulletNailProjectileHitsBlockProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- CursedBlockUpdateTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- RangeAttackProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- BlockDestroyAllDirectionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KeyChangeTechniqueOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SetTagJujutsuSorcererProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DomainExpansionCreateBarrierProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIGravestoneProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKouGUYProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- OtherDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KnockbackProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackOverheadProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackJumpProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DespawnTenShadowsTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WhenRespawnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackStrongPunchProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackStrongProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackWeakProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ReturnShadowProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GetGavelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GavelRightClicked2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKumiyaJuzoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit3FishProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackSpeedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GavelRightclickedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- BlockToIceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniquePotionExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- BulletHitProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonCrowProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIShikigamiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackContinueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KeyResetTechniqueOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHumanCarProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackTackleFlyingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIGetoSchoolDaysProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonDollsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillEnergyWave2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueRika2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIFushiguroMegumiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDivinDogProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GetoSuguruEntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRockFragmentProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackStrongMahitoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMobProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AISukunaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIWoodenSpearProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AISeaSerpentProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIItadoriYujiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- Effect7Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GetoSpawnCurseRandomProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMalevolentShrineProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- BulletBallProjectileProjectileHitsBlockProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIShikigamiDhruvLakdawallaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TenShadowsTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletHazenokiHitProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletSkeletonBulletHitsBlockProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- AIActive2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIAkurooOtakeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIAngelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIBlackFlashProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIBloodBallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIBlueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIBlueRedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIBodyRepelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIBoogieWoogieActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIBroomProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIBulletSkullProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AICharlesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIChojuroHandProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIChosoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICoffinProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AICrowProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICrystalExplodeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit010Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit011Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit013Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit014Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit015Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit016Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit05Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit09Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit112Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit113Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit12Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit15Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit16Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit18Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit19Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit23Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpirit2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpiritGrade017Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpiritGrade110Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpiritGrade111Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpiritGrade17Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpiritSpecialProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpiritZonbaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpiritsFlyingAttack2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AICursedSpiritsFlyingAttackProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDaburaKarabaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDagonProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDaidoHaganeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDhruvrakdawalaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDollsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDomainExpansionEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIDoorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIDoorsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIEarthenInsectTranceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIEightHandledSwrodDivergentSilaDivineGeneralMahoragaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIEmberInsectsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIEnergyBallWhiteProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIEntityEyeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIEntityJacobsLadderProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIEsoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIFistProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIFlameArrowProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIFlameTigerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIFushiguroTojiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIGaneshaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIGarudaBallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIGarudaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIGojoSchoolDaysProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIGreatSerpentProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHabaHanyuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHaibaraYuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHakariProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHanaKurusuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHanakosanProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHanamiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHazenokiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHigurumaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHoshiKiraraProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIHouseProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIImpactWaveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIInoTakumaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIInumakiTogeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIIshigoriRyuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIJogoAshProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIJogoHeadProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIJogoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKaichiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKashimoHajimeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKechizuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKillerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKugisakiNobaraProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKurourushiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIKusakabeAtsuyaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AILarueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AILightStickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AILiquidArrowProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AILiquidMetalProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMahitoHand3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMahitoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMahoragaDogFrogProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMaxElephantProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMechamaruProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMeiMeiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMergedBeastAgitoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMeteorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMiguelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMimiNanaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMiwaKasumiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIMoonDregsMove1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIMoonDregsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AINanamiKentoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AINeedleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AINishimiyaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AINueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIOkkotsuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIOrcaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AIPandaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIPiercingOxProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIPolymorphicSoulIsomerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIProjectileSlashProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIProjectionSorceryProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIPureLoveCannonProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIPurpleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIQProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRabbitProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRainbowDragonProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRatProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIReggieStarProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIResonanceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIRika1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRika3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRikaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRokujushiMiyoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRoundDeerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRozetsuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIRyuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AISLOTProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIScissorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AISeaSerpent2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AISlashProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AISlicingExorcismProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIStandIceSpear2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIStandIceSpearProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITakabaFumihikoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITakakoUroProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITamamonoMaeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITeketekeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIThunderBoltImpactProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITigerFuneralProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIToadProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITodoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITornadeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITransFiguredHumanProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITrueSphere1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AITrueSphereProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AITsukumoYukiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIUraumeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIUzumakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIWater2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIWaterProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIWitnessStandProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIWombProfusionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIWoodenBall1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AIWoodenBallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIWoodenSpear2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIYagaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIYorozuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIYoshinoJunpeiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIZeninChojuroProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIZeninJinichiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIZeninMakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIZeninNaoyaCursedSpirit1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIZeninNaoyaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIZeninNobuakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIZeninOgiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AIZeninRantaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AdvancementChosoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementDaburaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementGojoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementItadoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementJogoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementKusakabeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementMahitoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementMegumiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementOkkotsuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementOtherProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AdvancementTsukumoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- AngelDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackBeastProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackBiteProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackContinueHigurumaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AttackGreatSerpentProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackGroundBiteProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackNue2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AttackNueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackOverheadHigurumaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackOverheadRubblesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AttackOverheadShotPutProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackOverheadSuperProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AttackPiecingOxProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackProjectionSorceryProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackRifleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- AttackStrongOkkotsuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackStrongSwordProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackTackleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackTodoBlackFlashProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackWeakPunchProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AttackWeakSwordProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AuthenticMutualLoveActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AuthenticMutualLoveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- AvoidanceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- BayerKnifeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- BeatEnemyProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- BeatJujutsuSorcererProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- BeatOtherProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- BeatSpecialGradeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- BlasterAwayProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- BlazingCourageEntitySwingsItemProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- BloodFlyingTickEventProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BreakDomainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- BroomToolInHandTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- BuildApartmenthouse1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildEatingHouse1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildGate1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildGraveyard2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildGraveyardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildHospital1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildHouseZeninProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildReformatoryProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildSchoolProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildShoppingStreetProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildTempleWoodenProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildTowerTempleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BuildVillageProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- BulletBallProjectileProjectileHitsLivingEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- BulletBallProjectileWhileProjectileFlyingTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletBloodBulletHitsBlock2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletBloodBulletHitsBlockProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletCannonProjectileProjectileHitsLivingEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletCursePowerProjectileProjectileHitsLivingEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletCursePowerWhileBulletFlyingTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletFlameBulletHitsBlockProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletFlameProjectileProjectileHitsLivingEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletFlameWhileBulletFlyingTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletHazenokiHit2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletHazenokiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletHumanProjectileWhileProjectileFlyingTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletKitchenKnifeProjectileHitsLivingEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- BulletKitchenKnifeWhileProjectileFlyingTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletNailProjectileHitsLivingEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- BulletNailWhileProjectileFlyingTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- BulletSkeletonFlyingTickEventProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- CancelCursedTechniqueEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- CannonFlyingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- CannonHitProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- CeremonialSeaOfLightProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CeremonialSeaofLightActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ChangeCursedTechniqueRightClickedInAirProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ChangeTargetProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- ChimeraShadowGardenActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ChimeraShadowGardenProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ChosoDomainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ChosoDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CleaveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ClothesAngelChestplateTickEventProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- Cockroach1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- Cockroach2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- Cockroach3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CoffinOfTheIronMountainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CoffinoftheIronMountainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ComedianEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ComedianOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CompletedAdvancementCursedTechniqueReversalProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- CompletedAdvancementProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ComputeFogColorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ConvergenceEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CooldownTimeCombatEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- CooldownTimeEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- CooldownTimeEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- CounterProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- CrowRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- Crystal1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- Crystal2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- Crystal3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- CrystalBreathProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CrystalExplosionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- CrystalRollProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CrystalSelfExplosionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- CursedBlockOnBlockRightClickedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedPoisonOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- CursedSpeechProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- CursedSpiritGrade34PlayerCollidesWithThisEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- CursedSpiritGrade37EntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- CursedSpiritGrade37RightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- CursedTechniqueAngelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueChojuroProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueChosoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueCombatProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueCrystalProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueCursedSpeechProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueDaburaKarabaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueDagonProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueDhruvProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- CursedTechniqueFushiguroProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueGetoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueGojoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueHakariProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueHanamiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueHazenokiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueHigurumaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueInoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueIshigoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueItadoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueJjnichiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueJogoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueJunpeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueKaoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- CursedTechniqueKashimoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueKugisakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueKurourushiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueKusakabeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueMahitoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueMahoragaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueMiguelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueNanamiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueNaoyaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueNishimiyaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueOgiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueOkkotsuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueOnPotionActiveTick3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueOnPotionActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueOnPotionActivetick2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueRantaZeninProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueReggieStarProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueRozetsuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueSmallpoxDeityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueSukunaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueTakabaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueTakakoUroProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueTodoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueTsukumoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueUraumeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueYagaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTechniqueYorozuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedTehcniqueMeiMeiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- CursedToolsAbility2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DaburaDarkness1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DaburaKickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DaburaLaser1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DaburaLaser2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DaburaLaser3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DaburaLaserTowerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DagonFish1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DagonFish2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DagonWaterSkillProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DaitenguFanRightclickedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DeadlySentencingActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DeadlySentencingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DeathPaintingBloodOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DeathPaintingPlayerFinishesUsingItemProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DeathSwarmProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DebuggerJrRightClickedInAirProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DeepConcentrationItadoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DespawnRangedAmmoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DismantleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DivergentFistProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DollTackleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DomainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DomainAmplificationOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DomainEntityCollidesInTheBlockProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DomainExpansionBattleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DomainExpansionDaburaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DomainExpansionEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DomainExpansionEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DomainExpansionEntityOnInitialEntitySpawnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- DomainExpansionOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- DomainExpansionTodoActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- DomainHoleOnTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- DragonBoneRightclickedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- Effect10Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect11Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect12Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- Effect13Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect14Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- Effect15Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- Effect16Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- Effect17Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect4Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect5Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- Effect6Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- Effect8Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- Effect9Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- EffectAttackProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EffectConfilmCharactorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- EffectConfirm1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EffectConfirm2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EffectConfirm3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EffectConfirm4Procedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EffectConfirmProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- EffectCursedSpeechBlastAwayProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- EffectCursedSpeechCrumbleAwayProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EffectCursedSpeechDontMoveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- EffectCursedSpeechExplodeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EffectCursedSpeechGetCrushedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EffectCursedSpeechProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EffectKirinEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- EffectKirinOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EffectProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- EffectReikiEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EffectReikiEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EffectReikiOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- EntityActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- EntityAutoGuardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EntityBlackFlashOnInitialEntitySpawnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EntityCrackOnEntityTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- EntityDarknessOnEntityTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- EntityItemEntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- EntityItemOnEntityTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- EntityItemOnInitialEntitySpawnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EntityItemRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- EntityProjectionSorceryOnInitialEntitySpawnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EntityReceiptOnEntityTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- FallingBlossomEmotionOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- FinishBlastGameProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- FistGunProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- FistOnInitialEntitySpawnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- FlyEffectEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- FlyEffectEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- FlyEffectOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- FrameOnEntityTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- FrostCalmProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- FushiguroTojiEntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GaragaraProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- GarudaRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- GavelThrowingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- GetDomainBlockProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- GetoCancelTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GetoHappySetProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GojoSatoruSchoolDaysEntityIsHurtProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GrabProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- GraniteBlast2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GraniteBlastProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GraveyardDomainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- GraveyardDomainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- GuardEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- GuardEffectProcedureProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- GuardEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- GuardSetDamageProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- HairpinProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- HakariKinjiEntityIsHurtProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- HanakoSpawnCursedSpiritProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- HanamiFlowerOfferingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- HanamiSpear1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- HanamiSpear2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- HanamiSpear3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- HanamiSpearProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- HarisenEntitySwingsItemProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- HazenokiEyeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- HealCurseSpiritManipulationProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- HighSpeedMoveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- HollowPurpleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- HorizonOfTheCaptivatingSkandhaActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- HorizonOfTheCaptivatingSkandhaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- IceSpearEntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- IceSpearSkillProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- IcefallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- IdleDeathGambleActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- IdleDeathGambleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- IdleTransfigurationProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- InfinityActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- InfinityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- InsectArmorActivetickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- InstantSpiritBodyofDistortedKillingEffectOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- InstantSpiritBodyofDistortedKillingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- InumakiDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- IshigoriDomainExpansionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- IshigoriDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ItadoriDomainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ItadoriDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- JackpotEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- JackpotOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- JinichiDomainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- JogoAshEntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- JogoEntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- JogoFlame1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- JogoFlame2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- JogoFlame3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- JogoFlame4Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- JogoHeadRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- JujutsuBarrierUpdateTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- JunpeiDomainExpansionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- JustGuardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KashimoDomainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- KashimoDomainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KashimoRotateKickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KechizuPoizonProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KenjakuRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- KeyAOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyAOnKeyReleasedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyBackstepOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyBackstepOnKeyReleasedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyDOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyDOnKeyReleasedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyForwardOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyForwardOnKeyReleasedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyReverseCursedTechniqueOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyReverseCursedTechniqueOnKeyReleasedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeySimpleDomainOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KeySimpleDomainOnKeyReleasedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeySpaceOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KeySpaceOnKeyReleasedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeyStartTechniqueOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KeyStartTechniqueOnKeyReleasedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- KeySwitchCursedTechniqueOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KeyUseMainSkillOnKeyPressedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KugisakiDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KugisakiNailProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- KurourushiDomainExpansionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- KurourushiDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- LariatProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- LightningStrike2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- LightningStrikeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MahitoGunProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MahitoThisEntityKillsAnotherOneProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- MahoragaCutTheWorldProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MahoragaDogOnInitialEntitySpawnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MahoragaSwimmingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MalevolentShrineActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- MalevolentShrineProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MaxElephantFallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MaximumMeteorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- MeimeiDomainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- MeimeiDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MiguelKickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- MythicalBeastAmberEffectOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- NanamiDomainExpansionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- NanamiDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- NishimiyaDomainExpansionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- OgiDomainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- OpenProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- OrcasanRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_entity
+- OtakeFlameProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- OtakeThunderProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- PageNextProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- PageUndoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- PendantTodoAoiItemIsDroppedByPlayerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- PhysicalGiftedEffectOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- PhysicalGiftedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- PiercingBloodProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- PlayAnimationEntityGuardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- PlayerPhysicalAbilityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- PlayerTickEvent2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- PlayerTickEventProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- PlayerTickSecondTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- PrayerSongOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ProfessionChangerRightclickedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ProfessionCurseUserProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ProfessionCursedSpiritProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ProfessionDecidedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ProfessionSorcererProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ProjectionSorceryEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- RatExplodeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ReceiptCarProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ReceiptHouseProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ReceiptKitchenKnifeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ReceiptTruckProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- RenderFogProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ReverseCursedTechniqueOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- RikaBlastProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- RozetsuDomainExpansionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- RozetsuDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ScaleChangeEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ScaleChangeOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SchoolBellRedstoneOnProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- SchoolBellUpdateTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- SelectAngelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectChojuroProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectChosoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectCrystalCurseProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectDaburaKarabaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectDagonProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectDhruvLakdawallaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectFushiguroProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectGetoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectGojoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectHakariProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectHanamiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectHazenokiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectHigurumaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectInoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectInumakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectIshigoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectItadoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectJinichiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectJogoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectJunpeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectKaoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectKashimoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectKugisakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectKurourushiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectKusakabeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectMahitoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectMahoragaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectMakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectMeiMeiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectMiguelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectNanamiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectNaoyaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectNishimiyaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectNonSorcererProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectOgiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectOkkotsuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectRandomProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectRantaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectReggieStarProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectRozetsuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectSmallpoxDeityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectSukunaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectTakabaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectTakakoUroProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectTodoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectTsukumoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectUraumeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectYagaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectYorozuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelectedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SelfEmbodimentOfPerfectionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SelfEmbodimentOfPerfectionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SetTagDollsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SetTargetProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SimpleDomainEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SimpleDomainOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SixEyesEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SixEyesOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillAntiGravityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillAntiGravityReversedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillBallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillBoogieWoogieProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillComedianProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillConsecutiveEffectsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SkillDaburaCombo1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillDaburaCombo2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillDhruv1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillDhruv2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillDhruv3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillDoorsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillEnergyWave1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillExplodeAirProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillGaneshaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillJudgementProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillKaichiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillKashimoKickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillKirinProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillMoonDregsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillProjectionSorceryProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillRantaEyeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillReikiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillRozetsuShikigami1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillRozetsuShikigami2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillRozetsuShikigami3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillRozetsuShikigamiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillRyuProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillSoulExplosionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillStoneProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SkillSukunaCombo1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillSukunaCombo2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillSukunaCombo3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillTakabaKickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillTakabaMove1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillUzumakiMiniProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillUzumakiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SkillWiFiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SpeedIsPowerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- StarRageEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- StarRageOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- StartCursedTechniqueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- StartGuardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- StoneThrowingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- StunEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- StunOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SukunaEffectEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SukunaEffectEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SukunaEffectOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- SukunaFingerFoodEatenProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonBathynomusProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SummonBroomProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonDivineDogProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonDivineDogTotalityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonDollRainGiantProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonDollsRainProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SummonGreatSerpentProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonHumansProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonMahoragaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonMaxElephantProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonMergedBeastAgitoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonNueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonPiercingOxProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonRabbitEscapeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonRatProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SummonRoundDeerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonShikigamiTsuchigumoProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- SummonTigerFuneralProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonToadProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SummonVillagersProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz
+- SuperNovaItadoriProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SupernovaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- SupremeMartialSolutionRightClickedInAirProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TakabaLookOutProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TakadaOnEntityTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TakumaInoDomainExpansionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueAhProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueBlackBirdProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueBlazingCourageProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueBlueProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueBluePunchProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueBodyRepelProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueBodyRepelSingleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueConvergenceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueEarthenInsectTranceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueEmberInsectsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueEnergyWave1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueExplodeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueFistMeteorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueFistProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueFistSingleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueFlowingRedScaleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueFootProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueFoxFireProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueGaruda1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueGarudaBallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueHanakoHand2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueHanakoHandProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueIaiYudukiProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueImitation1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueInsectArmorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueJacobsLadderProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueKillerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueKusakabe1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueLiquidArrowProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueLiquidMetalProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueMahitoHand3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueMucusProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueMythicalBeastAmberProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueNecklace1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueNeedleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueOgi1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueOgi2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueOgi3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueOgi4Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueOgi5Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueOgi9Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniquePolymorphicSoulIsomerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniquePrayerSongProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniquePureLoveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueRedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueRika1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueScissorsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueSkeleton1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueSkullProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueSlicingExorcismProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueSmallpoxDeityBreathProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueStarRageProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueTamamonoMae1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueTamamonomae2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TechniqueTrueSphereProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TechniqueWingKingProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- Test1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_entity
+- Test2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ThinIceBreakerProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ThreefoldAfflictionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ThrowingItemOnEntityTickUpdateProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TimeCellMoonPalaceActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TimeCellMoonPalaceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TodoAoiEntityDiesProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TodoAoiEntityIsHurtProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TodoAoiRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- TransformToSukunaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TsukumoDomainExpansionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- TsukumoDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- TsukumoYukiRightClickedOnEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- TurnUpTheVolumeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- UnlimitedVoidActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- UnlimitedVoidProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- UraumeDomainActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- UraumeSkill1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- UroCounterProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- UroDomainExpansionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WhenBackStepProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- WhenEntityDieBySourceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- WhenEntityDieProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WhenEntityHealedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- WhenEntitySpawnsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- WhenPlayerActiveTickInfinityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- WhenPlayerJointheWorldProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WhenPlayerJumpProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- WhenRightClickToEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity
+- WindScythe2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WindScytheProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WindScytheTornadeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WingKingAttackProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WombProfusionActiveProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- WombProfusionProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- WoodenBallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ZonbaFallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity
+- ZonbaProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity
+- ZoneEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- ZoneOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity
+- EntityVectorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_num_num_num
+- GetPowerForwardProcedure:
+  required_apis:
+    - jujutsucraft
+  type: num_num_num_entity
+- RotateEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: num_num_num_entity
+- StepBlockProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num_num_num
+- BulletBallCanUseRangedItemProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_item
+- BulletBallRangedItemUsedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_item
+- ConfiscationRightclickedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_item
+- WeaponRightClickedWithChargeProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_item
+- WhenItemCraftedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_item
+- WhenItemDroppedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_item
+- WhenItemPicksUpProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_item
+- DeathPaintingBloodEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num
+- InsectArmorAppliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num
+- InsectArmorExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num
+- InstantSpiritBodyofDistortedKillingEffectEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num
+- InstantSpiritBodyofDistortedKillingEffectEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num
+- StunEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num
+- DeathPaintingBloodEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_num
+- MythicalBeastAmberEffectEffectStartedappliedProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_num
+- SimpleDomainEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_num
+- HighSpeedOnEffectActiveTickProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_num
+- MythicalBeastAmberEffectEffectExpiresProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_num
+- WhenEntityFallProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_num
+- WhenEntityAttacked1Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_damage_source_entity_num
+- WhenEntityAttacked2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_damage_source_entity_entity_entity_num
+- EntityDieProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_damage_source_entity
+- DamageEffectProcedureProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_entity_entity_num
+- PlayAnimationIfPossibleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_damage_source_entity
+- WhenBeforeEntityisHurtNoSourceProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_damage_source_entity
+- PlayAnimationItemProcedure:
+  required_apis:
+    - jujutsucraft
+  type: entity_item_text
+- PlayAnimationEntityProcedure:
+  required_apis:
+    - jujutsucraft
+  type: damagesource_entity
+- CursedTechniqueStarterRightClickedInAirProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_item
+- MasterSkillsProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_item
+- KeyChangeTechniqueOnKeyPressed2Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num_num
+- KeyChangeTechniqueOnKeyPressed3Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num_num
+- KeyChangeTechniqueOnKeyPressed4Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num_num
+- KeyChangeTechniqueOnKeyPressed5Procedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_entity_num_num
+- SetAttributeMainhandProcedure:
+  required_apis:
+    - jujutsucraft
+  type: item
+- ParticleGeneratorColorProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_particle_color
+- ParticleGeneratorCircleProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_particle_circle
+- ParticleGeneratorSweepingEffectProcedure:
+  required_apis:
+    - jujutsucraft
+  type: world_xyz_particle_sweep

@@ -1,0 +1,1 @@
+(${input$entity}.getCapability(JujutsucraftModVariables.PLAYER_VARIABLES_CAPABILITY, null).orElse(new JujutsucraftModVariables.PlayerVariables())).${generator.map(field$variable, "jujutsucraft_playervars")}

@@ -1,0 +1,552 @@
+- act1:
+  readable_name: "Act 1"
+  required_apis:
+    - jujutsucraft
+- animation:
+  readable_name: "Animation"
+  required_apis:
+    - jujutsucraft
+- animation2:
+  readable_name: "Animation 2"
+  required_apis:
+    - jujutsucraft
+- attack:
+  readable_name: "Attack"
+  required_apis:
+    - jujutsucraft
+- attack1:
+  readable_name: "Attack 1"
+  required_apis:
+    - jujutsucraft
+- backstep:
+  readable_name: "Backstep"
+  required_apis:
+    - jujutsucraft
+- backstep2:
+  readable_name: "Backstep 2"
+  required_apis:
+    - jujutsucraft
+- boogie_woogie:
+  readable_name: "Boogie Woogie"
+  required_apis:
+    - jujutsucraft
+- both_arm_fornt:
+  readable_name: "Both Arm Fornt"
+  required_apis:
+    - jujutsucraft
+- both_arm_front:
+  readable_name: "Both Arm Front"
+  required_apis:
+    - jujutsucraft
+- both_arm_up:
+  readable_name: "Both Arm Up"
+  required_apis:
+    - jujutsucraft
+- breath1:
+  readable_name: "Breath 1"
+  required_apis:
+    - jujutsucraft
+- breath2:
+  readable_name: "Breath 2"
+  required_apis:
+    - jujutsucraft
+- burn_out:
+  readable_name: "Burn Out"
+  required_apis:
+    - jujutsucraft
+- cancel:
+  readable_name: "Cancel"
+  required_apis:
+    - jujutsucraft
+- charge1:
+  readable_name: "Charge 1"
+  required_apis:
+    - jujutsucraft
+- charge2:
+  readable_name: "Charge 2"
+  required_apis:
+    - jujutsucraft
+- clap:
+  readable_name: "Clap"
+  required_apis:
+    - jujutsucraft
+- close:
+  readable_name: "Close"
+  required_apis:
+    - jujutsucraft
+- combo1:
+  readable_name: "Combo 1"
+  required_apis:
+    - jujutsucraft
+- combo2:
+  readable_name: "Combo 2"
+  required_apis:
+    - jujutsucraft
+- combo3:
+  readable_name: "Combo 3"
+  required_apis:
+    - jujutsucraft
+- dance1:
+  readable_name: "Dance 1"
+  required_apis:
+    - jujutsucraft
+- dance2:
+  readable_name: "Dance 2"
+  required_apis:
+    - jujutsucraft
+- dance3:
+  readable_name: "Dance 3"
+  required_apis:
+    - jujutsucraft
+- dance4:
+  readable_name: "Dance 4"
+  required_apis:
+    - jujutsucraft
+- dance5:
+  readable_name: "Dance 5"
+  required_apis:
+    - jujutsucraft
+- death:
+  readable_name: "Death"
+  required_apis:
+    - jujutsucraft
+- death_backup:
+  readable_name: "Death Backup"
+  required_apis:
+    - jujutsucraft
+- death_blue:
+  readable_name: "Death Blue"
+  required_apis:
+    - jujutsucraft
+- despawned:
+  readable_name: "Despawned"
+  required_apis:
+    - jujutsucraft
+- domain_expansion1:
+  readable_name: "Domain Expansion1"
+  required_apis:
+    - jujutsucraft
+- drift:
+  readable_name: "Drift"
+  required_apis:
+    - jujutsucraft
+- fall:
+  readable_name: "Fall"
+  required_apis:
+    - jujutsucraft
+- fall1:
+  readable_name: "Fall 1"
+  required_apis:
+    - jujutsucraft
+- fly:
+  readable_name: "Fly"
+  required_apis:
+    - jujutsucraft
+- flying:
+  readable_name: "Flying"
+  required_apis:
+    - jujutsucraft
+- form_attack_speed:
+  readable_name: "Form Attack Speed"
+  required_apis:
+    - jujutsucraft
+- form_attack_speed2:
+  readable_name: "Form Attack Speed2"
+  required_apis:
+    - jujutsucraft
+- free:
+  readable_name: "Free"
+  required_apis:
+    - jujutsucraft
+- gackstpe:
+  readable_name: "Gackstpe"
+  required_apis:
+    - jujutsucraft
+- gavel_big:
+  readable_name: "Gavel Big"
+  required_apis:
+    - jujutsucraft
+- gavel_idle:
+  readable_name: "Gavel Idle"
+  required_apis:
+    - jujutsucraft
+- gavel_long:
+  readable_name: "Gavel Long"
+  required_apis:
+    - jujutsucraft
+- guard:
+  readable_name: "Guard"
+  required_apis:
+    - jujutsucraft
+- gurad:
+  readable_name: "Gurad"
+  required_apis:
+    - jujutsucraft
+- heart_beat:
+  readable_name: "Heart Beat"
+  required_apis:
+    - jujutsucraft
+- idel:
+  readable_name: "Idel"
+  required_apis:
+    - jujutsucraft
+- idle:
+  readable_name: "Idle"
+  required_apis:
+    - jujutsucraft
+- idle1:
+  readable_name: "Idle 1"
+  required_apis:
+    - jujutsucraft
+- idle1_whip:
+  readable_name: "Idle1 Whip"
+  required_apis:
+    - jujutsucraft
+- idle2:
+  readable_name: "Idle 2"
+  required_apis:
+    - jujutsucraft
+- idle2_whip:
+  readable_name: "Idle2 Whip"
+  required_apis:
+    - jujutsucraft
+- idle3:
+  readable_name: "Idle 3"
+  required_apis:
+    - jujutsucraft
+- idle3_whip:
+  readable_name: "Idle3 Whip"
+  required_apis:
+    - jujutsucraft
+- idle4:
+  readable_name: "Idle 4"
+  required_apis:
+    - jujutsucraft
+- idle4_whip:
+  readable_name: "Idle4 Whip"
+  required_apis:
+    - jujutsucraft
+- idle5:
+  readable_name: "Idle 5"
+  required_apis:
+    - jujutsucraft
+- idle5_whip:
+  readable_name: "Idle5 Whip"
+  required_apis:
+    - jujutsucraft
+- idle6:
+  readable_name: "Idle 6"
+  required_apis:
+    - jujutsucraft
+- idle6_whip:
+  readable_name: "Idle6 Whip"
+  required_apis:
+    - jujutsucraft
+- idle_backup:
+  readable_name: "Idle Backup"
+  required_apis:
+    - jujutsucraft
+- idle_fast:
+  readable_name: "Idle Fast"
+  required_apis:
+    - jujutsucraft
+- idle_for_showcase:
+  readable_name: "Idle For Showcase"
+  required_apis:
+    - jujutsucraft
+- idle_stand:
+  readable_name: "Idle Stand"
+  required_apis:
+    - jujutsucraft
+- judgement:
+  readable_name: "Judgement"
+  required_apis:
+    - jujutsucraft
+- judgement_light:
+  readable_name: "Judgement Light"
+  required_apis:
+    - jujutsucraft
+- kashimo_kick:
+  readable_name: "Kashimo Kick"
+  required_apis:
+    - jujutsucraft
+- kick_flying:
+  readable_name: "Kick Flying"
+  required_apis:
+    - jujutsucraft
+- kick_left:
+  readable_name: "Kick Left"
+  required_apis:
+    - jujutsucraft
+- kick_right:
+  readable_name: "Kick Right"
+  required_apis:
+    - jujutsucraft
+- kick_right2:
+  readable_name: "Kick Right2"
+  required_apis:
+    - jujutsucraft
+- kick_rotate4:
+  readable_name: "Kick Rotate4"
+  required_apis:
+    - jujutsucraft
+- negative:
+  readable_name: "Negative"
+  required_apis:
+    - jujutsucraft
+- open:
+  readable_name: "Open"
+  required_apis:
+    - jujutsucraft
+- overturned:
+  readable_name: "Overturned"
+  required_apis:
+    - jujutsucraft
+- plus_ultra:
+  readable_name: "Plus Ultra"
+  required_apis:
+    - jujutsucraft
+- punch_both:
+  readable_name: "Punch Both"
+  required_apis:
+    - jujutsucraft
+- punch_left:
+  readable_name: "Punch Left"
+  required_apis:
+    - jujutsucraft
+- punch_left_backup:
+  readable_name: "Punch Left Backup"
+  required_apis:
+    - jujutsucraft
+- punch_left_rush:
+  readable_name: "Punch Left Rush"
+  required_apis:
+    - jujutsucraft
+- punch_overhead:
+  readable_name: "Punch Overhead"
+  required_apis:
+    - jujutsucraft
+- punch_overhead2:
+  readable_name: "Punch Overhead2"
+  required_apis:
+    - jujutsucraft
+- punch_right:
+  readable_name: "Punch Right"
+  required_apis:
+    - jujutsucraft
+- punch_right2:
+  readable_name: "Punch Right2"
+  required_apis:
+    - jujutsucraft
+- punch_right_backup:
+  readable_name: "Punch Right Backup"
+  required_apis:
+    - jujutsucraft
+- punch_right_rush:
+  readable_name: "Punch Right Rush"
+  required_apis:
+    - jujutsucraft
+- pure_love:
+  readable_name: "Pure Love"
+  required_apis:
+    - jujutsucraft
+- ragnaraku:
+  readable_name: "Ragnaraku"
+  required_apis:
+    - jujutsucraft
+- ragnaraku2:
+  readable_name: "Ragnaraku 2"
+  required_apis:
+    - jujutsucraft
+- red:
+  readable_name: "Red"
+  required_apis:
+    - jujutsucraft
+- right_arm_front:
+  readable_name: "Right Arm Front"
+  required_apis:
+    - jujutsucraft
+- right_arm_up:
+  readable_name: "Right Arm Up"
+  required_apis:
+    - jujutsucraft
+- rotation:
+  readable_name: "Rotation"
+  required_apis:
+    - jujutsucraft
+- rotation1:
+  readable_name: "Rotation 1"
+  required_apis:
+    - jujutsucraft
+- rotation2:
+  readable_name: "Rotation 2"
+  required_apis:
+    - jujutsucraft
+- shake:
+  readable_name: "Shake"
+  required_apis:
+    - jujutsucraft
+- shoot_poison:
+  readable_name: "Shoot Poison"
+  required_apis:
+    - jujutsucraft
+- shoot_spider_net:
+  readable_name: "Shoot Spider Net"
+  required_apis:
+    - jujutsucraft
+- simple_domain1:
+  readable_name: "Simple Domain1"
+  required_apis:
+    - jujutsucraft
+- simple_domain2:
+  readable_name: "Simple Domain2"
+  required_apis:
+    - jujutsucraft
+- slot1:
+  readable_name: "Slot 1"
+  required_apis:
+    - jujutsucraft
+- slot2:
+  readable_name: "Slot 2"
+  required_apis:
+    - jujutsucraft
+- slot3:
+  readable_name: "Slot 3"
+  required_apis:
+    - jujutsucraft
+- slot4:
+  readable_name: "Slot 4"
+  required_apis:
+    - jujutsucraft
+- slot5:
+  readable_name: "Slot 5"
+  required_apis:
+    - jujutsucraft
+- slot6:
+  readable_name: "Slot 6"
+  required_apis:
+    - jujutsucraft
+- slot7:
+  readable_name: "Slot 7"
+  required_apis:
+    - jujutsucraft
+- spawned:
+  readable_name: "Spawned"
+  required_apis:
+    - jujutsucraft
+- spin:
+  readable_name: "Spin"
+  required_apis:
+    - jujutsucraft
+- sprint:
+  readable_name: "Sprint"
+  required_apis:
+    - jujutsucraft
+- stand:
+  readable_name: "Stand"
+  required_apis:
+    - jujutsucraft
+- step_back:
+  readable_name: "Step Back"
+  required_apis:
+    - jujutsucraft
+- step_front:
+  readable_name: "Step Front"
+  required_apis:
+    - jujutsucraft
+- step_left:
+  readable_name: "Step Left"
+  required_apis:
+    - jujutsucraft
+- step_right:
+  readable_name: "Step Right"
+  required_apis:
+    - jujutsucraft
+- swim:
+  readable_name: "Swim"
+  required_apis:
+    - jujutsucraft
+- swim_butterfly:
+  readable_name: "Swim Butterfly"
+  required_apis:
+    - jujutsucraft
+- swing:
+  readable_name: "Swing"
+  required_apis:
+    - jujutsucraft
+- swing2:
+  readable_name: "Swing 2"
+  required_apis:
+    - jujutsucraft
+- sword_idle:
+  readable_name: "Sword Idle"
+  required_apis:
+    - jujutsucraft
+- sword_overhead:
+  readable_name: "Sword Overhead"
+  required_apis:
+    - jujutsucraft
+- sword_overhead2:
+  readable_name: "Sword Overhead2"
+  required_apis:
+    - jujutsucraft
+- sword_to_left:
+  readable_name: "Sword To Left"
+  required_apis:
+    - jujutsucraft
+- sword_to_right:
+  readable_name: "Sword To Right"
+  required_apis:
+    - jujutsucraft
+- tackle:
+  readable_name: "Tackle"
+  required_apis:
+    - jujutsucraft
+- ten_shadows_technique_mahoraga:
+  readable_name: "Ten Shadows Technique Mahoraga"
+  required_apis:
+    - jujutsucraft
+- transform:
+  readable_name: "Transform"
+  required_apis:
+    - jujutsucraft
+- vertical1:
+  readable_name: "Vertical 1"
+  required_apis:
+    - jujutsucraft
+- vertical2:
+  readable_name: "Vertical 2"
+  required_apis:
+    - jujutsucraft
+- vertical3:
+  readable_name: "Vertical 3"
+  required_apis:
+    - jujutsucraft
+- vertical4:
+  readable_name: "Vertical 4"
+  required_apis:
+    - jujutsucraft
+- vertical5:
+  readable_name: "Vertical 5"
+  required_apis:
+    - jujutsucraft
+- walk:
+  readable_name: "Walk"
+  required_apis:
+    - jujutsucraft
+- wifi:
+  readable_name: "Wifi"
+  required_apis:
+    - jujutsucraft
+- backup:
+  readable_name: "Backup"
+  required_apis:
+    - jujutsucraft
+- idle_side:
+  readable_name: "Idle Side"
+  required_apis:
+    - jujutsucraft
+- sprint2:
+  readable_name: "Sprint2"
+  required_apis:
+    - jujutsucraft
