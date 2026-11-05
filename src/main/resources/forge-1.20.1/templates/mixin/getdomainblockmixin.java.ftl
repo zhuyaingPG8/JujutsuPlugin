@@ -15,7 +15,10 @@ public class ${JavaModName}GetDomainBlockMixin {
     private static void onExecute(Entity entity, CallbackInfo ci){
         if (entity == null) return;
         CompoundTag domainTag = entity.getPersistentData();
-        if (domainTag.getString("domain_outside").isEmpty()) return;
+        String domain_outside = domainTag.getString("domain_outside");
+        // Empty means the barrier was broken or the domain is closed off; "minecraft:air" is an
+        // open-barrier domain, which must not get a palette at all.
+        if (domain_outside.isEmpty() || "minecraft:air".equals(domain_outside)) return;
         double domain_num = domainTag.getDouble("select") > 0 ? domainTag.getDouble("select") : domainTag.getDouble("skill_domain");
 
         String[] domain_palette = switch ((int) domain_num) {

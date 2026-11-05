@@ -35,6 +35,7 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 	private final VTextField skillCaseField = Fields.text(14);
 	private final Map<Double, SlotRow> slotRows = new LinkedHashMap<>();
 	private final JCheckBox domainEnabledBox = Fields.checkbox("jujutsu.gui.domain_enable");
+	private final JCheckBox domainOpenBox = Fields.checkbox("jujutsu.gui.domain_open");
 	private final MCItemHolder domainInsideHolder = Fields.blockHolder(mcreator);
 	private final MCItemHolder domainFloorHolder = Fields.blockHolder(mcreator);
 
@@ -98,8 +99,6 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 				.build();
 		palette.setOpaque(false);
 
-		// The titled border wraps the switch together with the palette rows, so the framed box
-		// encloses both the enable checkbox and the two block selectors.
 		JPanel framed = new JPanel(new GridBagLayout());
 		framed.setBorder(BorderFactory.createTitledBorder(L10N.t("jujutsu.gui.domain_palette_title")));
 
@@ -109,16 +108,17 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		framedGbc.anchor = GridBagConstraints.WEST;
 
 		framedGbc.gridy = 0;
-		framedGbc.insets = new Insets(2, 6, 8, 6);
+		framedGbc.insets = new Insets(2, 6, 4, 6);
 		framed.add(domainEnabledBox, framedGbc);
 
 		framedGbc.gridy = 1;
+		framedGbc.insets = new Insets(0, 6, 8, 6);
+		framed.add(domainOpenBox, framedGbc);
+
+		framedGbc.gridy = 2;
 		framedGbc.insets = new Insets(0, 6, 4, 6);
 		framed.add(palette, framedGbc);
 
-		// Both blocks keep their natural (compact) preferred size and are centred as a group,
-		// instead of letting the layout stretch the palette panel over the whole editor width.
-		// GridBagLayout with fill NONE is used for this: a BoxLayout would widen its children.
 		JPanel content = new JPanel(new GridBagLayout());
 		content.setOpaque(false);
 		GridBagConstraints inner = new GridBagConstraints();
@@ -138,7 +138,7 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		gbc.anchor = GridBagConstraints.CENTER;
 		main.add(content, gbc);
 
-		domainEnabledBox.addActionListener(e -> setDomainEnabledState(domainEnabledBox.isSelected()));
+		domainEnabledBox.addActionListener(_ -> setDomainEnabledState(domainEnabledBox.isSelected()));
 		setDomainEnabledState(false);
 
 		String required = L10N.t("jujutsu.gui.domain_block_required");
@@ -169,6 +169,7 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		skillCaseField.setText(NumberFields.format(JujutsuTechniqueElement.effectiveSkillCase(generatableElement.skillCase)));
 		domainEnabledBox.setSelected(generatableElement.domainEnabled);
 		setDomainEnabledState(generatableElement.domainEnabled);
+		domainOpenBox.setSelected(generatableElement.domainOpen);
 		domainInsideHolder.setBlock(generatableElement.domainInside);
 		domainFloorHolder.setBlock(generatableElement.domainFloor);
 		for (JujutsuTechniqueElement.TechniqueSlot skillSlot : generatableElement.slots) {
@@ -193,6 +194,7 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		jujutsuTechniqueElement.skillCase = NumberFields.parse(skillCaseField.getText(),
 				JujutsuTechniqueElement.DEFAULT_SKILL_CASE);
 		jujutsuTechniqueElement.domainEnabled = domainEnabledBox.isSelected();
+		jujutsuTechniqueElement.domainOpen = domainOpenBox.isSelected();
 		jujutsuTechniqueElement.domainInside = domainInsideHolder.containsItemOrAir() ? domainInsideHolder.getBlock()
 				: null;
 		jujutsuTechniqueElement.domainFloor = domainFloorHolder.containsItemOrAir() ? domainFloorHolder.getBlock()
@@ -233,7 +235,7 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 			selector = Fields.procedureSelector(mcreator, L10N.t("jujutsu.gui.skill_label", String.valueOf(slot)),
 					PROCEDURE_DEPENDENCIES);
 			setEnabledState(false);
-			checkbox.addActionListener(e -> setEnabledState(checkbox.isSelected()));
+			checkbox.addActionListener(_ -> setEnabledState(checkbox.isSelected()));
 			VoidOnlyProcedureFilter.install(mcreator, selector, "a technique slot");
 		}
 

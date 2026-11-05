@@ -20,6 +20,7 @@ public class JujutsuTechniqueElement extends GeneratableElement {
     public List<TechniqueSlot> slots = new ArrayList<>();
 
     public boolean domainEnabled = false;
+    public boolean domainOpen = false;
 
     @Nullable
     public MItemBlock domainInside;
