@@ -1,0 +1,11 @@
+{
+  "jujutsu_plugin": {
+    "latest": "1.1",
+    "changes": [
+      "[NEW] SorceryFight version update v51",
+      "[NEW] Add some procedure blocky",
+      "[NEW] Add some new procedures",
+      "[FIX] Fix some bug"
+    ]
+  }
+}
