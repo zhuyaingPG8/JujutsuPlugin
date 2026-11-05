@@ -2,7 +2,7 @@
   "jujutsu_plugin": {
     "latest": "1.3",
     "changes": [
-      "[NEW] Add custom domain theme and active"
+      "[NEW] Add a new custom domain theme and active page"
     ]
   }
 }
