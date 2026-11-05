@@ -30,9 +30,9 @@ public class ${JavaModName}DomainOpenBarrierMixin {
         if (entity == null) return;
 
         CompoundTag tag = entity.getPersistentData();
-        if (!${JavaModName}$isOpenDomainTechnique(tag)) return;
+        if (!isOpenDomainTechnique(tag)) return;
         if (entity.isShiftKeyDown()) return;
-        if (!${JavaModName}$canUseOpenDomain(entity)) return;
+        if (!canUseOpenDomain(entity)) return;
 
         tag.putDouble("cnt2", 1.0);
     }
