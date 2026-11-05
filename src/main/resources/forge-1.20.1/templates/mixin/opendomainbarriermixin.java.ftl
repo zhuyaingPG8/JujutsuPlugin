@@ -21,7 +21,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 @Mixin(value = DomainExpansionCreateBarrierProcedure.class, priority = Integer.MAX_VALUE)
 public class ${JavaModName}DomainOpenBarrierMixin {
     @Unique
-    private static final String ${JavaModName}$OPEN_BARRIER_ADVANCEMENT = "jujutsucraft:mastery_open_barrier_type_domain";
+    private static final String OPEN_BARRIER_ADVANCEMENT = "jujutsucraft:mastery_open_barrier_type_domain";
 
     @Inject(method = "execute(Lnet/minecraft/world/level/LevelAccessor;DDDLnet/minecraft/world/entity/Entity;)V",
         at = @At(value = "INVOKE", target = "Lnet/mcreator/jujutsucraft/procedures/DomainExpansionBattleProcedure;execute(Lnet/minecraft/world/level/LevelAccessor;DDDLnet/minecraft/world/entity/Entity;)V",
@@ -38,9 +38,8 @@ public class ${JavaModName}DomainOpenBarrierMixin {
     }
 
     @Unique
-    private static boolean ${JavaModName}$isOpenDomainTechnique(CompoundTag tag) {
+    private static boolean isOpenDomainTechnique(CompoundTag tag) {
         double domainNum = tag.getDouble("select") > 0.0 ? tag.getDouble("select") : tag.getDouble("skill_domain");
-
         return switch ((int) domainNum) {
 <#list cursed_techniques?sort_by("sorcererId") as technique>
 <#if technique.domainOpen>
@@ -52,10 +51,10 @@ public class ${JavaModName}DomainOpenBarrierMixin {
     }
 
     @Unique
-    private static boolean ${JavaModName}$canUseOpenDomain(Entity entity) {
+    private static boolean canUseOpenDomain(Entity entity) {
         if (entity instanceof ServerPlayer serverPlayer && serverPlayer.server != null) {
             Advancement advancement = serverPlayer.server.getAdvancements()
-                    .getAdvancement(new ResourceLocation(${JavaModName}$OPEN_BARRIER_ADVANCEMENT));
+                    .getAdvancement(new ResourceLocation(OPEN_BARRIER_ADVANCEMENT));
             if (advancement != null) {
                 AdvancementProgress progress = serverPlayer.getAdvancements().getOrStartProgress(advancement);
                 if (progress.isDone()) return true;
