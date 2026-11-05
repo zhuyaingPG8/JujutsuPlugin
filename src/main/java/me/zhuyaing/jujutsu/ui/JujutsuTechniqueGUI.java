@@ -7,10 +7,13 @@ import me.zhuyaing.jujutsu.util.NumberFields;
 import me.zhuyaing.jujutsu.util.VoidOnlyProcedureFilter;
 import net.mcreator.ui.MCreator;
 import net.mcreator.ui.init.L10N;
+import net.mcreator.ui.minecraft.MCItemHolder;
 import net.mcreator.ui.modgui.ModElementGUI;
 import net.mcreator.ui.procedure.AbstractProcedureSelector;
 import net.mcreator.ui.procedure.ProcedureSelector;
 import net.mcreator.ui.validation.component.VTextField;
+import net.mcreator.ui.validation.validators.ConditionalValidator;
+import net.mcreator.ui.validation.validators.MCItemHolderValidator;
 import net.mcreator.ui.validation.validators.TextFieldValidator;
 import net.mcreator.workspace.elements.ModElement;
 import org.jspecify.annotations.Nullable;
@@ -31,6 +34,9 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 	private final VTextField sorcererIdField = Fields.text(26);
 	private final VTextField skillCaseField = Fields.text(14);
 	private final Map<Double, SlotRow> slotRows = new LinkedHashMap<>();
+	private final JCheckBox domainEnabledBox = Fields.checkbox("jujutsu.gui.domain_enable");
+	private final MCItemHolder domainInsideHolder = Fields.blockHolder(mcreator);
+	private final MCItemHolder domainFloorHolder = Fields.blockHolder(mcreator);
 
 	public JujutsuTechniqueGUI(MCreator mcreator, ModElement modElement, boolean editingMode) {
 		super(mcreator, modElement, editingMode);
@@ -40,6 +46,7 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 
 	protected void initGUI() {
 		buildSettingsPage();
+		buildDomainPage();
 
 		sorcererIdField.setValidator(new TextFieldValidator(sorcererIdField, L10N.t("jujutsu.gui.sorcerer_id_required")));
 		sorcererIdField.enableRealtimeValidation();
@@ -81,6 +88,41 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		addPage(L10N.t("jujutsu.gui.page_settings"), main);
 	}
 
+	private void buildDomainPage() {
+		JPanel top = new JPanel(new FlowLayout(FlowLayout.CENTER, 10, 0));
+		top.setBorder(BorderFactory.createEmptyBorder(15, 0, 0, 0));
+		top.add(domainEnabledBox);
+
+		JPanel palette = FormPanel.builder()
+				.title("jujutsu.gui.domain_palette_title")
+				.insets(4, 6, 4, 6)
+				.anchor(GridBagConstraints.WEST)
+				.columns(FormPanel.Column.fixed(), FormPanel.Column.fixed())
+				.row(Fields.label("jujutsu.gui.domain_inside"), domainInsideHolder)
+				.row(Fields.label("jujutsu.gui.domain_floor"), domainFloorHolder)
+				.build();
+
+		JPanel main = new JPanel(new BorderLayout(10, 10));
+		main.add("North", top);
+		main.add("Center", palette);
+
+		domainEnabledBox.addActionListener(e -> setDomainEnabledState(domainEnabledBox.isSelected()));
+		setDomainEnabledState(false);
+
+		String required = L10N.t("jujutsu.gui.domain_block_required");
+		domainInsideHolder.setValidator(new ConditionalValidator(domainEnabledBox::isSelected,
+				new MCItemHolderValidator(domainInsideHolder).considerAirAsEmpty().setEmptyMessage(required)));
+		domainFloorHolder.setValidator(new ConditionalValidator(domainEnabledBox::isSelected,
+				new MCItemHolderValidator(domainFloorHolder).considerAirAsEmpty().setEmptyMessage(required)));
+
+		addPage(L10N.t("jujutsu.gui.page_domain"), main).validate(domainInsideHolder).validate(domainFloorHolder);
+	}
+
+	private void setDomainEnabledState(boolean enabled) {
+		domainInsideHolder.setEnabled(enabled);
+		domainFloorHolder.setEnabled(enabled);
+	}
+
 	public void reloadDataLists() {
 		super.reloadDataLists();
 		AbstractProcedureSelector.ReloadContext context = AbstractProcedureSelector.ReloadContext.create(
@@ -93,6 +135,10 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 	protected void openInEditingMode(JujutsuTechniqueElement generatableElement) {
 		sorcererIdField.setText(NumberFields.format(generatableElement.sorcererId));
 		skillCaseField.setText(NumberFields.format(JujutsuTechniqueElement.effectiveSkillCase(generatableElement.skillCase)));
+		domainEnabledBox.setSelected(generatableElement.domainEnabled);
+		setDomainEnabledState(generatableElement.domainEnabled);
+		domainInsideHolder.setBlock(generatableElement.domainInside);
+		domainFloorHolder.setBlock(generatableElement.domainFloor);
 		for (JujutsuTechniqueElement.TechniqueSlot skillSlot : generatableElement.slots) {
 			SlotRow row = slotRows.get(skillSlot.slot);
 			if (row != null) {
@@ -114,6 +160,11 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		jujutsuTechniqueElement.sorcererId = NumberFields.parse(sorcererIdField.getText(), 0);
 		jujutsuTechniqueElement.skillCase = NumberFields.parse(skillCaseField.getText(),
 				JujutsuTechniqueElement.DEFAULT_SKILL_CASE);
+		jujutsuTechniqueElement.domainEnabled = domainEnabledBox.isSelected();
+		jujutsuTechniqueElement.domainInside = domainInsideHolder.containsItemOrAir() ? domainInsideHolder.getBlock()
+				: null;
+		jujutsuTechniqueElement.domainFloor = domainFloorHolder.containsItemOrAir() ? domainFloorHolder.getBlock()
+				: null;
 		jujutsuTechniqueElement.slots = new ArrayList<>();
 		for (SlotRow row : slotRows.values()) {
 			if (row.checkbox.isSelected()) {

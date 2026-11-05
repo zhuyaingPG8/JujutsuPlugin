@@ -20,7 +20,9 @@ public class ${JavaModName}GetDomainBlockMixin {
 
         String[] domain_palette = switch ((int) domain_num) {
 <#list cursed_techniques?sort_by("sorcererId") as technique>
-            case ${technique.sorcererId} -> new String[]{"",  ""};
+<#if technique.domainEnabled && technique.domainInside?? && technique.domainFloor?? && technique.domainInside.getUnmappedValue()?has_content && technique.domainFloor.getUnmappedValue()?has_content>
+            case ${technique.sorcererId} -> new String[]{"${technique.domainInside.getMappedValue(1)}",  "${technique.domainFloor.getMappedValue(1)}"};
+</#if>
 </#list>
             default  -> null;
         };

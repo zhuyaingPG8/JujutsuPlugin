@@ -1,10 +1,12 @@
 package me.zhuyaing.jujutsu.element;
 
 import net.mcreator.element.GeneratableElement;
+import net.mcreator.element.parts.MItemBlock;
 import net.mcreator.element.parts.procedure.Procedure;
 import net.mcreator.workspace.elements.ModElement;
 import net.mcreator.workspace.references.ModElementReference;
 
+import javax.annotation.Nullable;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -16,6 +18,14 @@ public class JujutsuTechniqueElement extends GeneratableElement {
 
     @ModElementReference
     public List<TechniqueSlot> slots = new ArrayList<>();
+
+    public boolean domainEnabled = false;
+
+    @Nullable
+    public MItemBlock domainInside;
+
+    @Nullable
+    public MItemBlock domainFloor;
 
     public JujutsuTechniqueElement(ModElement element) {
         super(element);

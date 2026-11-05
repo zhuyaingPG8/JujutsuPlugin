@@ -65,6 +65,10 @@ public final class Fields {
 		return new MCItemHolder(mcreator, ElementUtil::loadBlocksAndItems, supportTags);
 	}
 
+	public static MCItemHolder blockHolder(MCreator mcreator) {
+		return new MCItemHolder(mcreator, ElementUtil::loadBlocks);
+	}
+
 	public static DataListComboBox dataListCombo(MCreator mcreator, String dataListName) {
 		List<DataListEntry> entries = new ArrayList<>();
 		for (DataListEntry entry : DataListLoader.loadDataList(dataListName)) {
