@@ -25,6 +25,8 @@ global_templates:
     name: "@SRCROOT/@BASEPACKAGEPATH/mixins/@JavaModNameGetDomainBlockMixin.java"
   - template: mixin/opendomainbarriermixin.java.ftl
     name: "@SRCROOT/@BASEPACKAGEPATH/mixins/@JavaModNameDomainOpenBarrierMixin.java"
+  - template: mixin/domainactivemixin.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/mixins/@JavaModNameDomainActiveMixin.java"
 
 localizationkeys:
   - fromlist: data.slots

@@ -42,7 +42,7 @@ public class ${JavaModName}DomainOpenBarrierMixin {
         double domainNum = tag.getDouble("select") > 0.0 ? tag.getDouble("select") : tag.getDouble("skill_domain");
         return switch ((int) domainNum) {
 <#list cursed_techniques?sort_by("sorcererId") as technique>
-<#if technique.domainOpen>
+<#if technique.domainEnabled && technique.domainOpen>
             case ${technique.sorcererId} -> true;
 </#if>
 </#list>

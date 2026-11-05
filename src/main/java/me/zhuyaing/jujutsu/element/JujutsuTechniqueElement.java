@@ -21,12 +21,16 @@ public class JujutsuTechniqueElement extends GeneratableElement {
 
     public boolean domainEnabled = false;
     public boolean domainOpen = false;
+    public boolean domainActiveEnabled = false;
 
     @Nullable
     public MItemBlock domainInside;
 
     @Nullable
     public MItemBlock domainFloor;
+
+    @ModElementReference
+    public Procedure domainActive;
 
     public JujutsuTechniqueElement(ModElement element) {
         super(element);

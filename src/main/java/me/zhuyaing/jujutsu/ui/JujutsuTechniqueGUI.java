@@ -14,6 +14,7 @@ import net.mcreator.ui.procedure.ProcedureSelector;
 import net.mcreator.ui.validation.component.VTextField;
 import net.mcreator.ui.validation.validators.ConditionalValidator;
 import net.mcreator.ui.validation.validators.MCItemHolderValidator;
+import net.mcreator.ui.validation.validators.ProcedureSelectorValidator;
 import net.mcreator.ui.validation.validators.TextFieldValidator;
 import net.mcreator.workspace.elements.ModElement;
 import org.jspecify.annotations.Nullable;
@@ -36,6 +37,9 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 	private final Map<Double, SlotRow> slotRows = new LinkedHashMap<>();
 	private final JCheckBox domainEnabledBox = Fields.checkbox("jujutsu.gui.domain_enable");
 	private final JCheckBox domainOpenBox = Fields.checkbox("jujutsu.gui.domain_open");
+	private final JCheckBox domainActiveBox = Fields.checkbox("jujutsu.gui.domain_active");
+	private final ProcedureSelector domainActiveSelector = Fields.procedureSelector(mcreator,
+			L10N.t("jujutsu.gui.domain_active_procedure"), PROCEDURE_DEPENDENCIES);
 	private final MCItemHolder domainInsideHolder = Fields.blockHolder(mcreator);
 	private final MCItemHolder domainFloorHolder = Fields.blockHolder(mcreator);
 
@@ -90,69 +94,56 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 	}
 
 	private void buildDomainPage() {
-		JPanel palette = FormPanel.builder()
-				.insets(4, 6, 4, 6)
+		JPanel row = FormPanel.builder()
+				.insets(2, 4, 2, 4)
 				.anchor(GridBagConstraints.WEST)
-				.columns(FormPanel.Column.fixed(), FormPanel.Column.fixed())
-				.row(Fields.label("jujutsu.gui.domain_inside"), domainInsideHolder)
-				.row(Fields.label("jujutsu.gui.domain_floor"), domainFloorHolder)
+				.columns(FormPanel.Column.fixed(), FormPanel.Column.fixed(), FormPanel.Column.fixed(),
+						FormPanel.Column.fixed(), FormPanel.Column.fixed(), FormPanel.Column.fixed(),
+						FormPanel.Column.fixed(), FormPanel.Column.growing(1))
+				.row(domainEnabledBox,
+						Fields.label("jujutsu.gui.domain_inside"), domainInsideHolder,
+						Fields.label("jujutsu.gui.domain_floor"), domainFloorHolder,
+						domainOpenBox,
+						domainActiveBox,
+						domainActiveSelector)
 				.build();
-		palette.setOpaque(false);
 
-		JPanel framed = new JPanel(new GridBagLayout());
+		JPanel framed = new JPanel(new BorderLayout());
 		framed.setBorder(BorderFactory.createTitledBorder(L10N.t("jujutsu.gui.domain_palette_title")));
+		framed.add("Center", row);
 
-		GridBagConstraints framedGbc = new GridBagConstraints();
-		framedGbc.gridx = 0;
-		framedGbc.fill = GridBagConstraints.NONE;
-		framedGbc.anchor = GridBagConstraints.WEST;
-
-		framedGbc.gridy = 0;
-		framedGbc.insets = new Insets(2, 6, 4, 6);
-		framed.add(domainEnabledBox, framedGbc);
-
-		framedGbc.gridy = 1;
-		framedGbc.insets = new Insets(0, 6, 8, 6);
-		framed.add(domainOpenBox, framedGbc);
-
-		framedGbc.gridy = 2;
-		framedGbc.insets = new Insets(0, 6, 4, 6);
-		framed.add(palette, framedGbc);
-
-		JPanel content = new JPanel(new GridBagLayout());
-		content.setOpaque(false);
-		GridBagConstraints inner = new GridBagConstraints();
-		inner.gridx = 0;
-		inner.gridy = 0;
-		inner.fill = GridBagConstraints.NONE;
-		inner.anchor = GridBagConstraints.CENTER;
-		content.add(framed, inner);
-
-		JPanel main = new JPanel(new GridBagLayout());
-		GridBagConstraints gbc = new GridBagConstraints();
-		gbc.gridx = 0;
-		gbc.gridy = 0;
-		gbc.weightx = 1;
-		gbc.weighty = 1;
-		gbc.fill = GridBagConstraints.NONE;
-		gbc.anchor = GridBagConstraints.CENTER;
-		main.add(content, gbc);
+		JPanel main = new JPanel(new BorderLayout());
+		main.add("North", framed);
 
 		domainEnabledBox.addActionListener(_ -> setDomainEnabledState(domainEnabledBox.isSelected()));
 		setDomainEnabledState(false);
+
+		domainActiveBox.addActionListener(_ -> setDomainActiveState(
+				domainEnabledBox.isSelected() && domainActiveBox.isSelected()));
+		setDomainActiveState(false);
 
 		String required = L10N.t("jujutsu.gui.domain_block_required");
 		domainInsideHolder.setValidator(new ConditionalValidator(domainEnabledBox::isSelected,
 				new MCItemHolderValidator(domainInsideHolder).considerAirAsEmpty().setEmptyMessage(required)));
 		domainFloorHolder.setValidator(new ConditionalValidator(domainEnabledBox::isSelected,
 				new MCItemHolderValidator(domainFloorHolder).considerAirAsEmpty().setEmptyMessage(required)));
+		domainActiveSelector.setValidator(new ProcedureSelectorValidator(domainActiveSelector, domainActiveBox));
 
-		addPage(L10N.t("jujutsu.gui.page_domain"), main).validate(domainInsideHolder).validate(domainFloorHolder);
+		addPage(L10N.t("jujutsu.gui.page_domain"), main).validate(domainInsideHolder)
+				.validate(domainFloorHolder)
+				.validate(domainActiveSelector);
 	}
 
 	private void setDomainEnabledState(boolean enabled) {
 		domainInsideHolder.setEnabled(enabled);
 		domainFloorHolder.setEnabled(enabled);
+		domainOpenBox.setEnabled(enabled);
+		domainActiveBox.setEnabled(enabled);
+		setDomainActiveState(enabled && domainActiveBox.isSelected());
+	}
+
+	private void setDomainActiveState(boolean enabled) {
+		domainActiveSelector.setEnabled(enabled);
 	}
 
 	public void reloadDataLists() {
@@ -162,6 +153,7 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		for (SlotRow row : slotRows.values()) {
 			row.selector.refreshListKeepSelected(context);
 		}
+		domainActiveSelector.refreshListKeepSelected(context);
 	}
 
 	protected void openInEditingMode(JujutsuTechniqueElement generatableElement) {
@@ -172,6 +164,11 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		domainOpenBox.setSelected(generatableElement.domainOpen);
 		domainInsideHolder.setBlock(generatableElement.domainInside);
 		domainFloorHolder.setBlock(generatableElement.domainFloor);
+		domainActiveBox.setSelected(generatableElement.domainActiveEnabled);
+		if (generatableElement.domainActive != null) {
+			domainActiveSelector.setSelectedProcedure(generatableElement.domainActive);
+		}
+		setDomainActiveState(generatableElement.domainEnabled && generatableElement.domainActiveEnabled);
 		for (JujutsuTechniqueElement.TechniqueSlot skillSlot : generatableElement.slots) {
 			SlotRow row = slotRows.get(skillSlot.slot);
 			if (row != null) {
@@ -193,12 +190,17 @@ public class JujutsuTechniqueGUI extends ModElementGUI<JujutsuTechniqueElement> 
 		jujutsuTechniqueElement.sorcererId = NumberFields.parse(sorcererIdField.getText(), 0);
 		jujutsuTechniqueElement.skillCase = NumberFields.parse(skillCaseField.getText(),
 				JujutsuTechniqueElement.DEFAULT_SKILL_CASE);
-		jujutsuTechniqueElement.domainEnabled = domainEnabledBox.isSelected();
-		jujutsuTechniqueElement.domainOpen = domainOpenBox.isSelected();
-		jujutsuTechniqueElement.domainInside = domainInsideHolder.containsItemOrAir() ? domainInsideHolder.getBlock()
+		boolean domainEnabled = domainEnabledBox.isSelected();
+		jujutsuTechniqueElement.domainEnabled = domainEnabled;
+		jujutsuTechniqueElement.domainOpen = domainEnabled && domainOpenBox.isSelected();
+		jujutsuTechniqueElement.domainInside = domainEnabled && domainInsideHolder.containsItemOrAir()
+				? domainInsideHolder.getBlock()
 				: null;
-		jujutsuTechniqueElement.domainFloor = domainFloorHolder.containsItemOrAir() ? domainFloorHolder.getBlock()
+		jujutsuTechniqueElement.domainFloor = domainEnabled && domainFloorHolder.containsItemOrAir()
+				? domainFloorHolder.getBlock()
 				: null;
+		jujutsuTechniqueElement.domainActiveEnabled = domainEnabled && domainActiveBox.isSelected();
+		jujutsuTechniqueElement.domainActive = domainEnabled ? domainActiveSelector.getSelectedProcedure() : null;
 		jujutsuTechniqueElement.slots = new ArrayList<>();
 		for (SlotRow row : slotRows.values()) {
 			if (row.checkbox.isSelected()) {
