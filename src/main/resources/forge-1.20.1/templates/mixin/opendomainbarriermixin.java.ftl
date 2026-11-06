@@ -31,6 +31,7 @@ public class ${JavaModName}DomainOpenBarrierMixin {
 
         CompoundTag tag = entity.getPersistentData();
         if (!isOpenDomainTechnique(tag)) return;
+        if (tag.getDouble("cnt1") != 1.0) return;
         if (entity.isShiftKeyDown()) return;
         if (!canUseOpenDomain(entity)) return;
 
