@@ -1,8 +1,8 @@
 {
   "jujutsu_plugin": {
-    "latest": "1.3",
+    "latest": "1.4",
     "changes": [
-      "[NEW] Add a new custom domain theme and active page"
+      "[NEW] Add spawn jujutsu entity procedure blockly"
     ]
   }
 }

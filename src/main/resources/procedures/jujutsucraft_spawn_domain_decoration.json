@@ -1,0 +1,108 @@
+{
+  "args0": [
+    {
+      "type": "field_data_list_selector",
+      "name": "entity",
+      "datalist": "entities",
+      "typeFilter": "spawnable"
+    },
+    {
+      "type": "input_value",
+      "name": "x",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "y",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "z",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "owner",
+      "check": "Entity"
+    },
+    {
+      "type": "field_dropdown",
+      "name": "rotation",
+      "options": [
+        [
+          "owner facing",
+          "owner"
+        ],
+        [
+          "owner facing + angle",
+          "owner_offset"
+        ],
+        [
+          "random",
+          "random"
+        ],
+        [
+          "axis aligned (N/S = 0, E/W = 90)",
+          "axis"
+        ],
+        [
+          "absolute angle",
+          "absolute"
+        ],
+        [
+          "keep initial random",
+          "none"
+        ]
+      ]
+    },
+    {
+      "type": "input_value",
+      "name": "angle",
+      "check": "Number"
+    },
+    {
+      "type": "field_checkbox",
+      "name": "noai",
+      "checked": true
+    },
+    {
+      "type": "field_image",
+      "src": "./res/server.png",
+      "width": 8,
+      "height": 24
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": 240,
+  "mcreator": {
+    "toolbox_id": "jujutsucraft_curse_technique",
+    "toolbox_init": [
+      "<value name=\"x\"><block type=\"coord_x\"></block></value>",
+      "<value name=\"y\"><block type=\"coord_y\"></block></value>",
+      "<value name=\"z\"><block type=\"coord_z\"></block></value>",
+      "<value name=\"owner\"><block type=\"entity_from_deps\"></block></value>",
+      "<value name=\"angle\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
+    ],
+    "fields": [
+      "entity",
+      "rotation",
+      "noai"
+    ],
+    "inputs": [
+      "x",
+      "y",
+      "z",
+      "owner",
+      "angle"
+    ],
+    "dependencies": [
+      {
+        "name": "world",
+        "type": "world"
+      }
+    ]
+  }
+}
