@@ -20,7 +20,7 @@ if (world instanceof ServerLevel _domainLevel) {
 <#elseif field$rotation == "random">
 		_domainDecoration.setYRot(world.getRandom().nextFloat() * 360.0F);
 </#if>
-		_domainDecoration.setXRot(0.0F);
+		_domainDecoration.setXRot((float) ${input$xrot});
 		_domainDecoration.setYBodyRot(_domainDecoration.getYRot());
 		_domainDecoration.setYHeadRot(_domainDecoration.getYRot());
 		_domainDecoration.yRotO = _domainDecoration.getYRot();
