@@ -2,6 +2,7 @@
   "jujutsu_plugin": {
     "latest": "1.5",
     "changes": [
+      "[FIX] Custom blocks in the domain palette no longer emit the CUSTOM: prefix; they now emit <modid>:<registryname>",
       "[NEW] Blocks named *Barrier* now extend JujutsuBarrierBase and join the jujutsucraft:barrier block tag"
     ]
   }

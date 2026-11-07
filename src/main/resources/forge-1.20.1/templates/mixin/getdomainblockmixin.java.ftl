@@ -1,4 +1,27 @@
 <#-- @formatter:off -->
+<#function paletteBlockId entry>
+    <#if entry.getUnmappedValue()?starts_with("CUSTOM:")>
+        <#assign registryName = generator.getRegistryNameFromFullName(entry.getUnmappedValue())!""/>
+        <#if registryName?has_content && registryName != "deleted_mod_element">
+            <#return modid + ":" + registryName>
+        <#else>
+            <#return "">
+        </#if>
+    <#elseif entry.getUnmappedValue()?starts_with("TAG:")>
+        <#return "">
+    <#else>
+        <#assign mapped = entry.getMappedValue(1)!"">
+        <#if mapped?starts_with("#")>
+            <#return "">
+        <#elseif mapped?contains(":")>
+            <#return mapped>
+        <#elseif mapped?has_content>
+            <#return "minecraft:" + mapped>
+        <#else>
+            <#return "">
+        </#if>
+    </#if>
+</#function>
 package ${package}.mixins;
 
 import net.mcreator.jujutsucraft.procedures.GetDomainBlockProcedure;
@@ -22,7 +45,7 @@ public class ${JavaModName}GetDomainBlockMixin {
         String[] domain_palette = switch ((int) domain_num) {
 <#list cursed_techniques?sort_by("sorcererId") as technique>
 <#if technique.domainEnabled && technique.domainInside?? && technique.domainFloor?? && technique.domainInside.getUnmappedValue()?has_content && technique.domainFloor.getUnmappedValue()?has_content>
-            case ${technique.sorcererId} -> new String[]{"${technique.domainInside.getMappedValue(1)}",  "${technique.domainFloor.getMappedValue(1)}"};
+            case ${technique.sorcererId} -> new String[]{"${paletteBlockId(technique.domainInside)}", "${paletteBlockId(technique.domainFloor)}"};
 </#if>
 </#list>
             default  -> null;
