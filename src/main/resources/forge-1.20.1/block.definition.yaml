@@ -1,0 +1,8 @@
+templates:
+  - template: block_barrier.java.ftl
+    name: "@SRCROOT/@BASEPACKAGEPATH/block/@NAMEBlock.java"
+    _merge_policy: override_all
+
+tags:
+  - tag: BLOCKS:jujutsucraft:barrier
+    condition: "${settings.getMCreatorDependencies()?seq_contains('jujutsucraft') && data.getModElement().getName()?contains('Barrier')}"

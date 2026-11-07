@@ -1,8 +1,8 @@
 {
   "jujutsu_plugin": {
-    "latest": "1.4",
+    "latest": "1.5",
     "changes": [
-      "[NEW] Add spawn jujutsu entity procedure blockly"
+      "[NEW] Blocks named *Barrier* now extend JujutsuBarrierBase and join the jujutsucraft:barrier block tag"
     ]
   }
 }
